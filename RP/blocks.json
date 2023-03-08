@@ -1,0 +1,4002 @@
+{
+    "twf:a_0": {
+        "sound": "cloth", 
+        "textures": "twf:a_0"
+    }, 
+    "twf:a_1": {
+        "sound": "cloth", 
+        "textures": "twf:a_1"
+    }, 
+    "twf:a_10": {
+        "sound": "cloth", 
+        "textures": "twf:a_10"
+    }, 
+    "twf:a_11": {
+        "sound": "cloth", 
+        "textures": "twf:a_11"
+    }, 
+    "twf:a_12": {
+        "sound": "cloth", 
+        "textures": "twf:a_12"
+    }, 
+    "twf:a_13": {
+        "sound": "cloth", 
+        "textures": "twf:a_13"
+    }, 
+    "twf:a_14": {
+        "sound": "cloth", 
+        "textures": "twf:a_14"
+    }, 
+    "twf:a_15": {
+        "sound": "cloth", 
+        "textures": "twf:a_15"
+    }, 
+    "twf:a_16": {
+        "sound": "cloth", 
+        "textures": "twf:a_16"
+    }, 
+    "twf:a_17": {
+        "sound": "cloth", 
+        "textures": "twf:a_17"
+    }, 
+    "twf:a_18": {
+        "sound": "cloth", 
+        "textures": "twf:a_18"
+    }, 
+    "twf:a_19": {
+        "sound": "cloth", 
+        "textures": "twf:a_19"
+    }, 
+    "twf:a_2": {
+        "sound": "cloth", 
+        "textures": "twf:a_2"
+    }, 
+    "twf:a_20": {
+        "sound": "cloth", 
+        "textures": "twf:a_20"
+    }, 
+    "twf:a_21": {
+        "sound": "cloth", 
+        "textures": "twf:a_21"
+    }, 
+    "twf:a_22": {
+        "sound": "cloth", 
+        "textures": "twf:a_22"
+    }, 
+    "twf:a_23": {
+        "sound": "cloth", 
+        "textures": "twf:a_23"
+    }, 
+    "twf:a_24": {
+        "sound": "cloth", 
+        "textures": "twf:a_24"
+    }, 
+    "twf:a_25": {
+        "sound": "cloth", 
+        "textures": "twf:a_25"
+    }, 
+    "twf:a_26": {
+        "sound": "cloth", 
+        "textures": "twf:a_26"
+    }, 
+    "twf:a_27": {
+        "sound": "cloth", 
+        "textures": "twf:a_27"
+    }, 
+    "twf:a_28": {
+        "sound": "cloth", 
+        "textures": "twf:a_28"
+    }, 
+    "twf:a_29": {
+        "sound": "cloth", 
+        "textures": "twf:a_29"
+    }, 
+    "twf:a_3": {
+        "sound": "cloth", 
+        "textures": "twf:a_3"
+    }, 
+    "twf:a_30": {
+        "sound": "cloth", 
+        "textures": "twf:a_30"
+    }, 
+    "twf:a_31": {
+        "sound": "cloth", 
+        "textures": "twf:a_31"
+    }, 
+    "twf:a_32": {
+        "sound": "cloth", 
+        "textures": "twf:a_32"
+    }, 
+    "twf:a_33": {
+        "sound": "cloth", 
+        "textures": "twf:a_33"
+    }, 
+    "twf:a_34": {
+        "sound": "cloth", 
+        "textures": "twf:a_34"
+    }, 
+    "twf:a_35": {
+        "sound": "cloth", 
+        "textures": "twf:a_35"
+    }, 
+    "twf:a_36": {
+        "sound": "cloth", 
+        "textures": "twf:a_36"
+    }, 
+    "twf:a_37": {
+        "sound": "cloth", 
+        "textures": "twf:a_37"
+    }, 
+    "twf:a_38": {
+        "sound": "cloth", 
+        "textures": "twf:a_38"
+    }, 
+    "twf:a_39": {
+        "sound": "cloth", 
+        "textures": "twf:a_39"
+    }, 
+    "twf:a_4": {
+        "sound": "cloth", 
+        "textures": "twf:a_4"
+    }, 
+    "twf:a_40": {
+        "sound": "cloth", 
+        "textures": "twf:a_40"
+    }, 
+    "twf:a_41": {
+        "sound": "cloth", 
+        "textures": "twf:a_41"
+    }, 
+    "twf:a_42": {
+        "sound": "cloth", 
+        "textures": "twf:a_42"
+    }, 
+    "twf:a_43": {
+        "sound": "cloth", 
+        "textures": "twf:a_43"
+    }, 
+    "twf:a_44": {
+        "sound": "cloth", 
+        "textures": "twf:a_44"
+    }, 
+    "twf:a_45": {
+        "sound": "cloth", 
+        "textures": "twf:a_45"
+    }, 
+    "twf:a_46": {
+        "sound": "cloth", 
+        "textures": "twf:a_46"
+    }, 
+    "twf:a_47": {
+        "sound": "cloth", 
+        "textures": "twf:a_47"
+    }, 
+    "twf:a_48": {
+        "sound": "cloth", 
+        "textures": "twf:a_48"
+    }, 
+    "twf:a_49": {
+        "sound": "cloth", 
+        "textures": "twf:a_49"
+    }, 
+    "twf:a_5": {
+        "sound": "cloth", 
+        "textures": "twf:a_5"
+    }, 
+    "twf:a_50": {
+        "sound": "cloth", 
+        "textures": "twf:a_50"
+    }, 
+    "twf:a_51": {
+        "sound": "cloth", 
+        "textures": "twf:a_51"
+    }, 
+    "twf:a_52": {
+        "sound": "cloth", 
+        "textures": "twf:a_52"
+    }, 
+    "twf:a_53": {
+        "sound": "cloth", 
+        "textures": "twf:a_53"
+    }, 
+    "twf:a_54": {
+        "sound": "cloth", 
+        "textures": "twf:a_54"
+    }, 
+    "twf:a_55": {
+        "sound": "cloth", 
+        "textures": "twf:a_55"
+    }, 
+    "twf:a_56": {
+        "sound": "cloth", 
+        "textures": "twf:a_56"
+    }, 
+    "twf:a_57": {
+        "sound": "cloth", 
+        "textures": "twf:a_57"
+    }, 
+    "twf:a_58": {
+        "sound": "cloth", 
+        "textures": "twf:a_58"
+    }, 
+    "twf:a_59": {
+        "sound": "cloth", 
+        "textures": "twf:a_59"
+    }, 
+    "twf:a_6": {
+        "sound": "cloth", 
+        "textures": "twf:a_6"
+    }, 
+    "twf:a_60": {
+        "sound": "cloth", 
+        "textures": "twf:a_60"
+    }, 
+    "twf:a_61": {
+        "sound": "cloth", 
+        "textures": "twf:a_61"
+    }, 
+    "twf:a_62": {
+        "sound": "cloth", 
+        "textures": "twf:a_62"
+    }, 
+    "twf:a_63": {
+        "sound": "cloth", 
+        "textures": "twf:a_63"
+    }, 
+    "twf:a_64": {
+        "sound": "cloth", 
+        "textures": "twf:a_64"
+    }, 
+    "twf:a_65": {
+        "sound": "cloth", 
+        "textures": "twf:a_65"
+    }, 
+    "twf:a_66": {
+        "sound": "cloth", 
+        "textures": "twf:a_66"
+    }, 
+    "twf:a_67": {
+        "sound": "cloth", 
+        "textures": "twf:a_67"
+    }, 
+    "twf:a_68": {
+        "sound": "cloth", 
+        "textures": "twf:a_68"
+    }, 
+    "twf:a_69": {
+        "sound": "cloth", 
+        "textures": "twf:a_69"
+    }, 
+    "twf:a_7": {
+        "sound": "cloth", 
+        "textures": "twf:a_7"
+    }, 
+    "twf:a_70": {
+        "sound": "cloth", 
+        "textures": "twf:a_70"
+    }, 
+    "twf:a_71": {
+        "sound": "cloth", 
+        "textures": "twf:a_71"
+    }, 
+    "twf:a_72": {
+        "sound": "cloth", 
+        "textures": "twf:a_72"
+    }, 
+    "twf:a_73": {
+        "sound": "cloth", 
+        "textures": "twf:a_73"
+    }, 
+    "twf:a_74": {
+        "sound": "cloth", 
+        "textures": "twf:a_74"
+    }, 
+    "twf:a_75": {
+        "sound": "cloth", 
+        "textures": "twf:a_75"
+    }, 
+    "twf:a_76": {
+        "sound": "cloth", 
+        "textures": "twf:a_76"
+    }, 
+    "twf:a_77": {
+        "sound": "cloth", 
+        "textures": "twf:a_77"
+    }, 
+    "twf:a_78": {
+        "sound": "cloth", 
+        "textures": "twf:a_78"
+    }, 
+    "twf:a_79": {
+        "sound": "cloth", 
+        "textures": "twf:a_79"
+    }, 
+    "twf:a_8": {
+        "sound": "cloth", 
+        "textures": "twf:a_8"
+    }, 
+    "twf:a_80": {
+        "sound": "cloth", 
+        "textures": "twf:a_80"
+    }, 
+    "twf:a_81": {
+        "sound": "cloth", 
+        "textures": "twf:a_81"
+    }, 
+    "twf:a_82": {
+        "sound": "cloth", 
+        "textures": "twf:a_82"
+    }, 
+    "twf:a_83": {
+        "sound": "cloth", 
+        "textures": "twf:a_83"
+    }, 
+    "twf:a_84": {
+        "sound": "cloth", 
+        "textures": "twf:a_84"
+    }, 
+    "twf:a_85": {
+        "sound": "cloth", 
+        "textures": "twf:a_85"
+    }, 
+    "twf:a_86": {
+        "sound": "cloth", 
+        "textures": "twf:a_86"
+    }, 
+    "twf:a_87": {
+        "sound": "cloth", 
+        "textures": "twf:a_87"
+    }, 
+    "twf:a_88": {
+        "sound": "cloth", 
+        "textures": "twf:a_88"
+    }, 
+    "twf:a_89": {
+        "sound": "cloth", 
+        "textures": "twf:a_89"
+    }, 
+    "twf:a_9": {
+        "sound": "cloth", 
+        "textures": "twf:a_9"
+    }, 
+    "twf:a_90": {
+        "sound": "cloth", 
+        "textures": "twf:a_90"
+    }, 
+    "twf:a_91": {
+        "sound": "cloth", 
+        "textures": "twf:a_91"
+    }, 
+    "twf:a_92": {
+        "sound": "cloth", 
+        "textures": "twf:a_92"
+    }, 
+    "twf:a_93": {
+        "sound": "cloth", 
+        "textures": "twf:a_93"
+    }, 
+    "twf:a_94": {
+        "sound": "cloth", 
+        "textures": "twf:a_94"
+    }, 
+    "twf:a_95": {
+        "sound": "cloth", 
+        "textures": "twf:a_95"
+    }, 
+    "twf:a_96": {
+        "sound": "cloth", 
+        "textures": "twf:a_96"
+    }, 
+    "twf:a_97": {
+        "sound": "cloth", 
+        "textures": "twf:a_97"
+    }, 
+    "twf:a_98": {
+        "sound": "cloth", 
+        "textures": "twf:a_98"
+    }, 
+    "twf:a_99": {
+        "sound": "cloth", 
+        "textures": "twf:a_99"
+    }, 
+    "twf:b_0": {
+        "sound": "cloth", 
+        "textures": "twf:b_0"
+    }, 
+    "twf:b_1": {
+        "sound": "cloth", 
+        "textures": "twf:b_1"
+    }, 
+    "twf:b_10": {
+        "sound": "cloth", 
+        "textures": "twf:b_10"
+    }, 
+    "twf:b_11": {
+        "sound": "cloth", 
+        "textures": "twf:b_11"
+    }, 
+    "twf:b_12": {
+        "sound": "cloth", 
+        "textures": "twf:b_12"
+    }, 
+    "twf:b_13": {
+        "sound": "cloth", 
+        "textures": "twf:b_13"
+    }, 
+    "twf:b_14": {
+        "sound": "cloth", 
+        "textures": "twf:b_14"
+    }, 
+    "twf:b_15": {
+        "sound": "cloth", 
+        "textures": "twf:b_15"
+    }, 
+    "twf:b_16": {
+        "sound": "cloth", 
+        "textures": "twf:b_16"
+    }, 
+    "twf:b_17": {
+        "sound": "cloth", 
+        "textures": "twf:b_17"
+    }, 
+    "twf:b_18": {
+        "sound": "cloth", 
+        "textures": "twf:b_18"
+    }, 
+    "twf:b_19": {
+        "sound": "cloth", 
+        "textures": "twf:b_19"
+    }, 
+    "twf:b_2": {
+        "sound": "cloth", 
+        "textures": "twf:b_2"
+    }, 
+    "twf:b_20": {
+        "sound": "cloth", 
+        "textures": "twf:b_20"
+    }, 
+    "twf:b_21": {
+        "sound": "cloth", 
+        "textures": "twf:b_21"
+    }, 
+    "twf:b_22": {
+        "sound": "cloth", 
+        "textures": "twf:b_22"
+    }, 
+    "twf:b_23": {
+        "sound": "cloth", 
+        "textures": "twf:b_23"
+    }, 
+    "twf:b_24": {
+        "sound": "cloth", 
+        "textures": "twf:b_24"
+    }, 
+    "twf:b_25": {
+        "sound": "cloth", 
+        "textures": "twf:b_25"
+    }, 
+    "twf:b_26": {
+        "sound": "cloth", 
+        "textures": "twf:b_26"
+    }, 
+    "twf:b_27": {
+        "sound": "cloth", 
+        "textures": "twf:b_27"
+    }, 
+    "twf:b_28": {
+        "sound": "cloth", 
+        "textures": "twf:b_28"
+    }, 
+    "twf:b_29": {
+        "sound": "cloth", 
+        "textures": "twf:b_29"
+    }, 
+    "twf:b_3": {
+        "sound": "cloth", 
+        "textures": "twf:b_3"
+    }, 
+    "twf:b_30": {
+        "sound": "cloth", 
+        "textures": "twf:b_30"
+    }, 
+    "twf:b_31": {
+        "sound": "cloth", 
+        "textures": "twf:b_31"
+    }, 
+    "twf:b_32": {
+        "sound": "cloth", 
+        "textures": "twf:b_32"
+    }, 
+    "twf:b_33": {
+        "sound": "cloth", 
+        "textures": "twf:b_33"
+    }, 
+    "twf:b_34": {
+        "sound": "cloth", 
+        "textures": "twf:b_34"
+    }, 
+    "twf:b_35": {
+        "sound": "cloth", 
+        "textures": "twf:b_35"
+    }, 
+    "twf:b_36": {
+        "sound": "cloth", 
+        "textures": "twf:b_36"
+    }, 
+    "twf:b_37": {
+        "sound": "cloth", 
+        "textures": "twf:b_37"
+    }, 
+    "twf:b_38": {
+        "sound": "cloth", 
+        "textures": "twf:b_38"
+    }, 
+    "twf:b_39": {
+        "sound": "cloth", 
+        "textures": "twf:b_39"
+    }, 
+    "twf:b_4": {
+        "sound": "cloth", 
+        "textures": "twf:b_4"
+    }, 
+    "twf:b_40": {
+        "sound": "cloth", 
+        "textures": "twf:b_40"
+    }, 
+    "twf:b_41": {
+        "sound": "cloth", 
+        "textures": "twf:b_41"
+    }, 
+    "twf:b_42": {
+        "sound": "cloth", 
+        "textures": "twf:b_42"
+    }, 
+    "twf:b_43": {
+        "sound": "cloth", 
+        "textures": "twf:b_43"
+    }, 
+    "twf:b_44": {
+        "sound": "cloth", 
+        "textures": "twf:b_44"
+    }, 
+    "twf:b_45": {
+        "sound": "cloth", 
+        "textures": "twf:b_45"
+    }, 
+    "twf:b_46": {
+        "sound": "cloth", 
+        "textures": "twf:b_46"
+    }, 
+    "twf:b_47": {
+        "sound": "cloth", 
+        "textures": "twf:b_47"
+    }, 
+    "twf:b_48": {
+        "sound": "cloth", 
+        "textures": "twf:b_48"
+    }, 
+    "twf:b_49": {
+        "sound": "cloth", 
+        "textures": "twf:b_49"
+    }, 
+    "twf:b_5": {
+        "sound": "cloth", 
+        "textures": "twf:b_5"
+    }, 
+    "twf:b_50": {
+        "sound": "cloth", 
+        "textures": "twf:b_50"
+    }, 
+    "twf:b_51": {
+        "sound": "cloth", 
+        "textures": "twf:b_51"
+    }, 
+    "twf:b_52": {
+        "sound": "cloth", 
+        "textures": "twf:b_52"
+    }, 
+    "twf:b_53": {
+        "sound": "cloth", 
+        "textures": "twf:b_53"
+    }, 
+    "twf:b_54": {
+        "sound": "cloth", 
+        "textures": "twf:b_54"
+    }, 
+    "twf:b_55": {
+        "sound": "cloth", 
+        "textures": "twf:b_55"
+    }, 
+    "twf:b_56": {
+        "sound": "cloth", 
+        "textures": "twf:b_56"
+    }, 
+    "twf:b_57": {
+        "sound": "cloth", 
+        "textures": "twf:b_57"
+    }, 
+    "twf:b_58": {
+        "sound": "cloth", 
+        "textures": "twf:b_58"
+    }, 
+    "twf:b_59": {
+        "sound": "cloth", 
+        "textures": "twf:b_59"
+    }, 
+    "twf:b_6": {
+        "sound": "cloth", 
+        "textures": "twf:b_6"
+    }, 
+    "twf:b_60": {
+        "sound": "cloth", 
+        "textures": "twf:b_60"
+    }, 
+    "twf:b_61": {
+        "sound": "cloth", 
+        "textures": "twf:b_61"
+    }, 
+    "twf:b_62": {
+        "sound": "cloth", 
+        "textures": "twf:b_62"
+    }, 
+    "twf:b_63": {
+        "sound": "cloth", 
+        "textures": "twf:b_63"
+    }, 
+    "twf:b_64": {
+        "sound": "cloth", 
+        "textures": "twf:b_64"
+    }, 
+    "twf:b_65": {
+        "sound": "cloth", 
+        "textures": "twf:b_65"
+    }, 
+    "twf:b_66": {
+        "sound": "cloth", 
+        "textures": "twf:b_66"
+    }, 
+    "twf:b_67": {
+        "sound": "cloth", 
+        "textures": "twf:b_67"
+    }, 
+    "twf:b_68": {
+        "sound": "cloth", 
+        "textures": "twf:b_68"
+    }, 
+    "twf:b_69": {
+        "sound": "cloth", 
+        "textures": "twf:b_69"
+    }, 
+    "twf:b_7": {
+        "sound": "cloth", 
+        "textures": "twf:b_7"
+    }, 
+    "twf:b_70": {
+        "sound": "cloth", 
+        "textures": "twf:b_70"
+    }, 
+    "twf:b_71": {
+        "sound": "cloth", 
+        "textures": "twf:b_71"
+    }, 
+    "twf:b_72": {
+        "sound": "cloth", 
+        "textures": "twf:b_72"
+    }, 
+    "twf:b_73": {
+        "sound": "cloth", 
+        "textures": "twf:b_73"
+    }, 
+    "twf:b_74": {
+        "sound": "cloth", 
+        "textures": "twf:b_74"
+    }, 
+    "twf:b_75": {
+        "sound": "cloth", 
+        "textures": "twf:b_75"
+    }, 
+    "twf:b_76": {
+        "sound": "cloth", 
+        "textures": "twf:b_76"
+    }, 
+    "twf:b_77": {
+        "sound": "cloth", 
+        "textures": "twf:b_77"
+    }, 
+    "twf:b_78": {
+        "sound": "cloth", 
+        "textures": "twf:b_78"
+    }, 
+    "twf:b_79": {
+        "sound": "cloth", 
+        "textures": "twf:b_79"
+    }, 
+    "twf:b_8": {
+        "sound": "cloth", 
+        "textures": "twf:b_8"
+    }, 
+    "twf:b_80": {
+        "sound": "cloth", 
+        "textures": "twf:b_80"
+    }, 
+    "twf:b_81": {
+        "sound": "cloth", 
+        "textures": "twf:b_81"
+    }, 
+    "twf:b_82": {
+        "sound": "cloth", 
+        "textures": "twf:b_82"
+    }, 
+    "twf:b_83": {
+        "sound": "cloth", 
+        "textures": "twf:b_83"
+    }, 
+    "twf:b_84": {
+        "sound": "cloth", 
+        "textures": "twf:b_84"
+    }, 
+    "twf:b_85": {
+        "sound": "cloth", 
+        "textures": "twf:b_85"
+    }, 
+    "twf:b_86": {
+        "sound": "cloth", 
+        "textures": "twf:b_86"
+    }, 
+    "twf:b_87": {
+        "sound": "cloth", 
+        "textures": "twf:b_87"
+    }, 
+    "twf:b_88": {
+        "sound": "cloth", 
+        "textures": "twf:b_88"
+    }, 
+    "twf:b_89": {
+        "sound": "cloth", 
+        "textures": "twf:b_89"
+    }, 
+    "twf:b_9": {
+        "sound": "cloth", 
+        "textures": "twf:b_9"
+    }, 
+    "twf:b_90": {
+        "sound": "cloth", 
+        "textures": "twf:b_90"
+    }, 
+    "twf:b_91": {
+        "sound": "cloth", 
+        "textures": "twf:b_91"
+    }, 
+    "twf:b_92": {
+        "sound": "cloth", 
+        "textures": "twf:b_92"
+    }, 
+    "twf:b_93": {
+        "sound": "cloth", 
+        "textures": "twf:b_93"
+    }, 
+    "twf:b_94": {
+        "sound": "cloth", 
+        "textures": "twf:b_94"
+    }, 
+    "twf:b_95": {
+        "sound": "cloth", 
+        "textures": "twf:b_95"
+    }, 
+    "twf:b_96": {
+        "sound": "cloth", 
+        "textures": "twf:b_96"
+    }, 
+    "twf:b_97": {
+        "sound": "cloth", 
+        "textures": "twf:b_97"
+    }, 
+    "twf:b_98": {
+        "sound": "cloth", 
+        "textures": "twf:b_98"
+    }, 
+    "twf:b_99": {
+        "sound": "cloth", 
+        "textures": "twf:b_99"
+    }, 
+    "twf:c_0": {
+        "sound": "cloth", 
+        "textures": "twf:c_0"
+    }, 
+    "twf:c_1": {
+        "sound": "cloth", 
+        "textures": "twf:c_1"
+    }, 
+    "twf:c_10": {
+        "sound": "cloth", 
+        "textures": "twf:c_10"
+    }, 
+    "twf:c_11": {
+        "sound": "cloth", 
+        "textures": "twf:c_11"
+    }, 
+    "twf:c_12": {
+        "sound": "cloth", 
+        "textures": "twf:c_12"
+    }, 
+    "twf:c_13": {
+        "sound": "cloth", 
+        "textures": "twf:c_13"
+    }, 
+    "twf:c_14": {
+        "sound": "cloth", 
+        "textures": "twf:c_14"
+    }, 
+    "twf:c_15": {
+        "sound": "cloth", 
+        "textures": "twf:c_15"
+    }, 
+    "twf:c_16": {
+        "sound": "cloth", 
+        "textures": "twf:c_16"
+    }, 
+    "twf:c_17": {
+        "sound": "cloth", 
+        "textures": "twf:c_17"
+    }, 
+    "twf:c_18": {
+        "sound": "cloth", 
+        "textures": "twf:c_18"
+    }, 
+    "twf:c_19": {
+        "sound": "cloth", 
+        "textures": "twf:c_19"
+    }, 
+    "twf:c_2": {
+        "sound": "cloth", 
+        "textures": "twf:c_2"
+    }, 
+    "twf:c_20": {
+        "sound": "cloth", 
+        "textures": "twf:c_20"
+    }, 
+    "twf:c_21": {
+        "sound": "cloth", 
+        "textures": "twf:c_21"
+    }, 
+    "twf:c_22": {
+        "sound": "cloth", 
+        "textures": "twf:c_22"
+    }, 
+    "twf:c_23": {
+        "sound": "cloth", 
+        "textures": "twf:c_23"
+    }, 
+    "twf:c_24": {
+        "sound": "cloth", 
+        "textures": "twf:c_24"
+    }, 
+    "twf:c_25": {
+        "sound": "cloth", 
+        "textures": "twf:c_25"
+    }, 
+    "twf:c_26": {
+        "sound": "cloth", 
+        "textures": "twf:c_26"
+    }, 
+    "twf:c_27": {
+        "sound": "cloth", 
+        "textures": "twf:c_27"
+    }, 
+    "twf:c_28": {
+        "sound": "cloth", 
+        "textures": "twf:c_28"
+    }, 
+    "twf:c_29": {
+        "sound": "cloth", 
+        "textures": "twf:c_29"
+    }, 
+    "twf:c_3": {
+        "sound": "cloth", 
+        "textures": "twf:c_3"
+    }, 
+    "twf:c_30": {
+        "sound": "cloth", 
+        "textures": "twf:c_30"
+    }, 
+    "twf:c_31": {
+        "sound": "cloth", 
+        "textures": "twf:c_31"
+    }, 
+    "twf:c_32": {
+        "sound": "cloth", 
+        "textures": "twf:c_32"
+    }, 
+    "twf:c_33": {
+        "sound": "cloth", 
+        "textures": "twf:c_33"
+    }, 
+    "twf:c_34": {
+        "sound": "cloth", 
+        "textures": "twf:c_34"
+    }, 
+    "twf:c_35": {
+        "sound": "cloth", 
+        "textures": "twf:c_35"
+    }, 
+    "twf:c_36": {
+        "sound": "cloth", 
+        "textures": "twf:c_36"
+    }, 
+    "twf:c_37": {
+        "sound": "cloth", 
+        "textures": "twf:c_37"
+    }, 
+    "twf:c_38": {
+        "sound": "cloth", 
+        "textures": "twf:c_38"
+    }, 
+    "twf:c_39": {
+        "sound": "cloth", 
+        "textures": "twf:c_39"
+    }, 
+    "twf:c_4": {
+        "sound": "cloth", 
+        "textures": "twf:c_4"
+    }, 
+    "twf:c_40": {
+        "sound": "cloth", 
+        "textures": "twf:c_40"
+    }, 
+    "twf:c_41": {
+        "sound": "cloth", 
+        "textures": "twf:c_41"
+    }, 
+    "twf:c_42": {
+        "sound": "cloth", 
+        "textures": "twf:c_42"
+    }, 
+    "twf:c_43": {
+        "sound": "cloth", 
+        "textures": "twf:c_43"
+    }, 
+    "twf:c_44": {
+        "sound": "cloth", 
+        "textures": "twf:c_44"
+    }, 
+    "twf:c_45": {
+        "sound": "cloth", 
+        "textures": "twf:c_45"
+    }, 
+    "twf:c_46": {
+        "sound": "cloth", 
+        "textures": "twf:c_46"
+    }, 
+    "twf:c_47": {
+        "sound": "cloth", 
+        "textures": "twf:c_47"
+    }, 
+    "twf:c_48": {
+        "sound": "cloth", 
+        "textures": "twf:c_48"
+    }, 
+    "twf:c_49": {
+        "sound": "cloth", 
+        "textures": "twf:c_49"
+    }, 
+    "twf:c_5": {
+        "sound": "cloth", 
+        "textures": "twf:c_5"
+    }, 
+    "twf:c_50": {
+        "sound": "cloth", 
+        "textures": "twf:c_50"
+    }, 
+    "twf:c_51": {
+        "sound": "cloth", 
+        "textures": "twf:c_51"
+    }, 
+    "twf:c_52": {
+        "sound": "cloth", 
+        "textures": "twf:c_52"
+    }, 
+    "twf:c_53": {
+        "sound": "cloth", 
+        "textures": "twf:c_53"
+    }, 
+    "twf:c_54": {
+        "sound": "cloth", 
+        "textures": "twf:c_54"
+    }, 
+    "twf:c_55": {
+        "sound": "cloth", 
+        "textures": "twf:c_55"
+    }, 
+    "twf:c_56": {
+        "sound": "cloth", 
+        "textures": "twf:c_56"
+    }, 
+    "twf:c_57": {
+        "sound": "cloth", 
+        "textures": "twf:c_57"
+    }, 
+    "twf:c_58": {
+        "sound": "cloth", 
+        "textures": "twf:c_58"
+    }, 
+    "twf:c_59": {
+        "sound": "cloth", 
+        "textures": "twf:c_59"
+    }, 
+    "twf:c_6": {
+        "sound": "cloth", 
+        "textures": "twf:c_6"
+    }, 
+    "twf:c_60": {
+        "sound": "cloth", 
+        "textures": "twf:c_60"
+    }, 
+    "twf:c_61": {
+        "sound": "cloth", 
+        "textures": "twf:c_61"
+    }, 
+    "twf:c_62": {
+        "sound": "cloth", 
+        "textures": "twf:c_62"
+    }, 
+    "twf:c_63": {
+        "sound": "cloth", 
+        "textures": "twf:c_63"
+    }, 
+    "twf:c_64": {
+        "sound": "cloth", 
+        "textures": "twf:c_64"
+    }, 
+    "twf:c_65": {
+        "sound": "cloth", 
+        "textures": "twf:c_65"
+    }, 
+    "twf:c_66": {
+        "sound": "cloth", 
+        "textures": "twf:c_66"
+    }, 
+    "twf:c_67": {
+        "sound": "cloth", 
+        "textures": "twf:c_67"
+    }, 
+    "twf:c_68": {
+        "sound": "cloth", 
+        "textures": "twf:c_68"
+    }, 
+    "twf:c_69": {
+        "sound": "cloth", 
+        "textures": "twf:c_69"
+    }, 
+    "twf:c_7": {
+        "sound": "cloth", 
+        "textures": "twf:c_7"
+    }, 
+    "twf:c_70": {
+        "sound": "cloth", 
+        "textures": "twf:c_70"
+    }, 
+    "twf:c_71": {
+        "sound": "cloth", 
+        "textures": "twf:c_71"
+    }, 
+    "twf:c_72": {
+        "sound": "cloth", 
+        "textures": "twf:c_72"
+    }, 
+    "twf:c_73": {
+        "sound": "cloth", 
+        "textures": "twf:c_73"
+    }, 
+    "twf:c_74": {
+        "sound": "cloth", 
+        "textures": "twf:c_74"
+    }, 
+    "twf:c_75": {
+        "sound": "cloth", 
+        "textures": "twf:c_75"
+    }, 
+    "twf:c_76": {
+        "sound": "cloth", 
+        "textures": "twf:c_76"
+    }, 
+    "twf:c_77": {
+        "sound": "cloth", 
+        "textures": "twf:c_77"
+    }, 
+    "twf:c_78": {
+        "sound": "cloth", 
+        "textures": "twf:c_78"
+    }, 
+    "twf:c_79": {
+        "sound": "cloth", 
+        "textures": "twf:c_79"
+    }, 
+    "twf:c_8": {
+        "sound": "cloth", 
+        "textures": "twf:c_8"
+    }, 
+    "twf:c_80": {
+        "sound": "cloth", 
+        "textures": "twf:c_80"
+    }, 
+    "twf:c_81": {
+        "sound": "cloth", 
+        "textures": "twf:c_81"
+    }, 
+    "twf:c_82": {
+        "sound": "cloth", 
+        "textures": "twf:c_82"
+    }, 
+    "twf:c_83": {
+        "sound": "cloth", 
+        "textures": "twf:c_83"
+    }, 
+    "twf:c_84": {
+        "sound": "cloth", 
+        "textures": "twf:c_84"
+    }, 
+    "twf:c_85": {
+        "sound": "cloth", 
+        "textures": "twf:c_85"
+    }, 
+    "twf:c_86": {
+        "sound": "cloth", 
+        "textures": "twf:c_86"
+    }, 
+    "twf:c_87": {
+        "sound": "cloth", 
+        "textures": "twf:c_87"
+    }, 
+    "twf:c_88": {
+        "sound": "cloth", 
+        "textures": "twf:c_88"
+    }, 
+    "twf:c_89": {
+        "sound": "cloth", 
+        "textures": "twf:c_89"
+    }, 
+    "twf:c_9": {
+        "sound": "cloth", 
+        "textures": "twf:c_9"
+    }, 
+    "twf:c_90": {
+        "sound": "cloth", 
+        "textures": "twf:c_90"
+    }, 
+    "twf:c_91": {
+        "sound": "cloth", 
+        "textures": "twf:c_91"
+    }, 
+    "twf:c_92": {
+        "sound": "cloth", 
+        "textures": "twf:c_92"
+    }, 
+    "twf:c_93": {
+        "sound": "cloth", 
+        "textures": "twf:c_93"
+    }, 
+    "twf:c_94": {
+        "sound": "cloth", 
+        "textures": "twf:c_94"
+    }, 
+    "twf:c_95": {
+        "sound": "cloth", 
+        "textures": "twf:c_95"
+    }, 
+    "twf:c_96": {
+        "sound": "cloth", 
+        "textures": "twf:c_96"
+    }, 
+    "twf:c_97": {
+        "sound": "cloth", 
+        "textures": "twf:c_97"
+    }, 
+    "twf:c_98": {
+        "sound": "cloth", 
+        "textures": "twf:c_98"
+    }, 
+    "twf:c_99": {
+        "sound": "cloth", 
+        "textures": "twf:c_99"
+    }, 
+    "twf:d_0": {
+        "sound": "cloth", 
+        "textures": "twf:d_0"
+    }, 
+    "twf:d_1": {
+        "sound": "cloth", 
+        "textures": "twf:d_1"
+    }, 
+    "twf:d_10": {
+        "sound": "cloth", 
+        "textures": "twf:d_10"
+    }, 
+    "twf:d_11": {
+        "sound": "cloth", 
+        "textures": "twf:d_11"
+    }, 
+    "twf:d_12": {
+        "sound": "cloth", 
+        "textures": "twf:d_12"
+    }, 
+    "twf:d_13": {
+        "sound": "cloth", 
+        "textures": "twf:d_13"
+    }, 
+    "twf:d_14": {
+        "sound": "cloth", 
+        "textures": "twf:d_14"
+    }, 
+    "twf:d_15": {
+        "sound": "cloth", 
+        "textures": "twf:d_15"
+    }, 
+    "twf:d_16": {
+        "sound": "cloth", 
+        "textures": "twf:d_16"
+    }, 
+    "twf:d_17": {
+        "sound": "cloth", 
+        "textures": "twf:d_17"
+    }, 
+    "twf:d_18": {
+        "sound": "cloth", 
+        "textures": "twf:d_18"
+    }, 
+    "twf:d_19": {
+        "sound": "cloth", 
+        "textures": "twf:d_19"
+    }, 
+    "twf:d_2": {
+        "sound": "cloth", 
+        "textures": "twf:d_2"
+    }, 
+    "twf:d_20": {
+        "sound": "cloth", 
+        "textures": "twf:d_20"
+    }, 
+    "twf:d_21": {
+        "sound": "cloth", 
+        "textures": "twf:d_21"
+    }, 
+    "twf:d_22": {
+        "sound": "cloth", 
+        "textures": "twf:d_22"
+    }, 
+    "twf:d_23": {
+        "sound": "cloth", 
+        "textures": "twf:d_23"
+    }, 
+    "twf:d_24": {
+        "sound": "cloth", 
+        "textures": "twf:d_24"
+    }, 
+    "twf:d_25": {
+        "sound": "cloth", 
+        "textures": "twf:d_25"
+    }, 
+    "twf:d_26": {
+        "sound": "cloth", 
+        "textures": "twf:d_26"
+    }, 
+    "twf:d_27": {
+        "sound": "cloth", 
+        "textures": "twf:d_27"
+    }, 
+    "twf:d_28": {
+        "sound": "cloth", 
+        "textures": "twf:d_28"
+    }, 
+    "twf:d_29": {
+        "sound": "cloth", 
+        "textures": "twf:d_29"
+    }, 
+    "twf:d_3": {
+        "sound": "cloth", 
+        "textures": "twf:d_3"
+    }, 
+    "twf:d_30": {
+        "sound": "cloth", 
+        "textures": "twf:d_30"
+    }, 
+    "twf:d_31": {
+        "sound": "cloth", 
+        "textures": "twf:d_31"
+    }, 
+    "twf:d_32": {
+        "sound": "cloth", 
+        "textures": "twf:d_32"
+    }, 
+    "twf:d_33": {
+        "sound": "cloth", 
+        "textures": "twf:d_33"
+    }, 
+    "twf:d_34": {
+        "sound": "cloth", 
+        "textures": "twf:d_34"
+    }, 
+    "twf:d_35": {
+        "sound": "cloth", 
+        "textures": "twf:d_35"
+    }, 
+    "twf:d_36": {
+        "sound": "cloth", 
+        "textures": "twf:d_36"
+    }, 
+    "twf:d_37": {
+        "sound": "cloth", 
+        "textures": "twf:d_37"
+    }, 
+    "twf:d_38": {
+        "sound": "cloth", 
+        "textures": "twf:d_38"
+    }, 
+    "twf:d_39": {
+        "sound": "cloth", 
+        "textures": "twf:d_39"
+    }, 
+    "twf:d_4": {
+        "sound": "cloth", 
+        "textures": "twf:d_4"
+    }, 
+    "twf:d_40": {
+        "sound": "cloth", 
+        "textures": "twf:d_40"
+    }, 
+    "twf:d_41": {
+        "sound": "cloth", 
+        "textures": "twf:d_41"
+    }, 
+    "twf:d_42": {
+        "sound": "cloth", 
+        "textures": "twf:d_42"
+    }, 
+    "twf:d_43": {
+        "sound": "cloth", 
+        "textures": "twf:d_43"
+    }, 
+    "twf:d_44": {
+        "sound": "cloth", 
+        "textures": "twf:d_44"
+    }, 
+    "twf:d_45": {
+        "sound": "cloth", 
+        "textures": "twf:d_45"
+    }, 
+    "twf:d_46": {
+        "sound": "cloth", 
+        "textures": "twf:d_46"
+    }, 
+    "twf:d_47": {
+        "sound": "cloth", 
+        "textures": "twf:d_47"
+    }, 
+    "twf:d_48": {
+        "sound": "cloth", 
+        "textures": "twf:d_48"
+    }, 
+    "twf:d_49": {
+        "sound": "cloth", 
+        "textures": "twf:d_49"
+    }, 
+    "twf:d_5": {
+        "sound": "cloth", 
+        "textures": "twf:d_5"
+    }, 
+    "twf:d_50": {
+        "sound": "cloth", 
+        "textures": "twf:d_50"
+    }, 
+    "twf:d_51": {
+        "sound": "cloth", 
+        "textures": "twf:d_51"
+    }, 
+    "twf:d_52": {
+        "sound": "cloth", 
+        "textures": "twf:d_52"
+    }, 
+    "twf:d_53": {
+        "sound": "cloth", 
+        "textures": "twf:d_53"
+    }, 
+    "twf:d_54": {
+        "sound": "cloth", 
+        "textures": "twf:d_54"
+    }, 
+    "twf:d_55": {
+        "sound": "cloth", 
+        "textures": "twf:d_55"
+    }, 
+    "twf:d_56": {
+        "sound": "cloth", 
+        "textures": "twf:d_56"
+    }, 
+    "twf:d_57": {
+        "sound": "cloth", 
+        "textures": "twf:d_57"
+    }, 
+    "twf:d_58": {
+        "sound": "cloth", 
+        "textures": "twf:d_58"
+    }, 
+    "twf:d_59": {
+        "sound": "cloth", 
+        "textures": "twf:d_59"
+    }, 
+    "twf:d_6": {
+        "sound": "cloth", 
+        "textures": "twf:d_6"
+    }, 
+    "twf:d_60": {
+        "sound": "cloth", 
+        "textures": "twf:d_60"
+    }, 
+    "twf:d_61": {
+        "sound": "cloth", 
+        "textures": "twf:d_61"
+    }, 
+    "twf:d_62": {
+        "sound": "cloth", 
+        "textures": "twf:d_62"
+    }, 
+    "twf:d_63": {
+        "sound": "cloth", 
+        "textures": "twf:d_63"
+    }, 
+    "twf:d_64": {
+        "sound": "cloth", 
+        "textures": "twf:d_64"
+    }, 
+    "twf:d_65": {
+        "sound": "cloth", 
+        "textures": "twf:d_65"
+    }, 
+    "twf:d_66": {
+        "sound": "cloth", 
+        "textures": "twf:d_66"
+    }, 
+    "twf:d_67": {
+        "sound": "cloth", 
+        "textures": "twf:d_67"
+    }, 
+    "twf:d_68": {
+        "sound": "cloth", 
+        "textures": "twf:d_68"
+    }, 
+    "twf:d_69": {
+        "sound": "cloth", 
+        "textures": "twf:d_69"
+    }, 
+    "twf:d_7": {
+        "sound": "cloth", 
+        "textures": "twf:d_7"
+    }, 
+    "twf:d_70": {
+        "sound": "cloth", 
+        "textures": "twf:d_70"
+    }, 
+    "twf:d_71": {
+        "sound": "cloth", 
+        "textures": "twf:d_71"
+    }, 
+    "twf:d_72": {
+        "sound": "cloth", 
+        "textures": "twf:d_72"
+    }, 
+    "twf:d_73": {
+        "sound": "cloth", 
+        "textures": "twf:d_73"
+    }, 
+    "twf:d_74": {
+        "sound": "cloth", 
+        "textures": "twf:d_74"
+    }, 
+    "twf:d_75": {
+        "sound": "cloth", 
+        "textures": "twf:d_75"
+    }, 
+    "twf:d_76": {
+        "sound": "cloth", 
+        "textures": "twf:d_76"
+    }, 
+    "twf:d_77": {
+        "sound": "cloth", 
+        "textures": "twf:d_77"
+    }, 
+    "twf:d_78": {
+        "sound": "cloth", 
+        "textures": "twf:d_78"
+    }, 
+    "twf:d_79": {
+        "sound": "cloth", 
+        "textures": "twf:d_79"
+    }, 
+    "twf:d_8": {
+        "sound": "cloth", 
+        "textures": "twf:d_8"
+    }, 
+    "twf:d_80": {
+        "sound": "cloth", 
+        "textures": "twf:d_80"
+    }, 
+    "twf:d_81": {
+        "sound": "cloth", 
+        "textures": "twf:d_81"
+    }, 
+    "twf:d_82": {
+        "sound": "cloth", 
+        "textures": "twf:d_82"
+    }, 
+    "twf:d_83": {
+        "sound": "cloth", 
+        "textures": "twf:d_83"
+    }, 
+    "twf:d_84": {
+        "sound": "cloth", 
+        "textures": "twf:d_84"
+    }, 
+    "twf:d_85": {
+        "sound": "cloth", 
+        "textures": "twf:d_85"
+    }, 
+    "twf:d_86": {
+        "sound": "cloth", 
+        "textures": "twf:d_86"
+    }, 
+    "twf:d_87": {
+        "sound": "cloth", 
+        "textures": "twf:d_87"
+    }, 
+    "twf:d_88": {
+        "sound": "cloth", 
+        "textures": "twf:d_88"
+    }, 
+    "twf:d_89": {
+        "sound": "cloth", 
+        "textures": "twf:d_89"
+    }, 
+    "twf:d_9": {
+        "sound": "cloth", 
+        "textures": "twf:d_9"
+    }, 
+    "twf:d_90": {
+        "sound": "cloth", 
+        "textures": "twf:d_90"
+    }, 
+    "twf:d_91": {
+        "sound": "cloth", 
+        "textures": "twf:d_91"
+    }, 
+    "twf:d_92": {
+        "sound": "cloth", 
+        "textures": "twf:d_92"
+    }, 
+    "twf:d_93": {
+        "sound": "cloth", 
+        "textures": "twf:d_93"
+    }, 
+    "twf:d_94": {
+        "sound": "cloth", 
+        "textures": "twf:d_94"
+    }, 
+    "twf:d_95": {
+        "sound": "cloth", 
+        "textures": "twf:d_95"
+    }, 
+    "twf:d_96": {
+        "sound": "cloth", 
+        "textures": "twf:d_96"
+    }, 
+    "twf:d_97": {
+        "sound": "cloth", 
+        "textures": "twf:d_97"
+    }, 
+    "twf:d_98": {
+        "sound": "cloth", 
+        "textures": "twf:d_98"
+    }, 
+    "twf:d_99": {
+        "sound": "cloth", 
+        "textures": "twf:d_99"
+    }, 
+    "twf:e_0": {
+        "sound": "cloth", 
+        "textures": "twf:e_0"
+    }, 
+    "twf:e_1": {
+        "sound": "cloth", 
+        "textures": "twf:e_1"
+    }, 
+    "twf:e_10": {
+        "sound": "cloth", 
+        "textures": "twf:e_10"
+    }, 
+    "twf:e_11": {
+        "sound": "cloth", 
+        "textures": "twf:e_11"
+    }, 
+    "twf:e_12": {
+        "sound": "cloth", 
+        "textures": "twf:e_12"
+    }, 
+    "twf:e_13": {
+        "sound": "cloth", 
+        "textures": "twf:e_13"
+    }, 
+    "twf:e_14": {
+        "sound": "cloth", 
+        "textures": "twf:e_14"
+    }, 
+    "twf:e_15": {
+        "sound": "cloth", 
+        "textures": "twf:e_15"
+    }, 
+    "twf:e_16": {
+        "sound": "cloth", 
+        "textures": "twf:e_16"
+    }, 
+    "twf:e_17": {
+        "sound": "cloth", 
+        "textures": "twf:e_17"
+    }, 
+    "twf:e_18": {
+        "sound": "cloth", 
+        "textures": "twf:e_18"
+    }, 
+    "twf:e_19": {
+        "sound": "cloth", 
+        "textures": "twf:e_19"
+    }, 
+    "twf:e_2": {
+        "sound": "cloth", 
+        "textures": "twf:e_2"
+    }, 
+    "twf:e_20": {
+        "sound": "cloth", 
+        "textures": "twf:e_20"
+    }, 
+    "twf:e_21": {
+        "sound": "cloth", 
+        "textures": "twf:e_21"
+    }, 
+    "twf:e_22": {
+        "sound": "cloth", 
+        "textures": "twf:e_22"
+    }, 
+    "twf:e_23": {
+        "sound": "cloth", 
+        "textures": "twf:e_23"
+    }, 
+    "twf:e_24": {
+        "sound": "cloth", 
+        "textures": "twf:e_24"
+    }, 
+    "twf:e_25": {
+        "sound": "cloth", 
+        "textures": "twf:e_25"
+    }, 
+    "twf:e_26": {
+        "sound": "cloth", 
+        "textures": "twf:e_26"
+    }, 
+    "twf:e_27": {
+        "sound": "cloth", 
+        "textures": "twf:e_27"
+    }, 
+    "twf:e_28": {
+        "sound": "cloth", 
+        "textures": "twf:e_28"
+    }, 
+    "twf:e_29": {
+        "sound": "cloth", 
+        "textures": "twf:e_29"
+    }, 
+    "twf:e_3": {
+        "sound": "cloth", 
+        "textures": "twf:e_3"
+    }, 
+    "twf:e_30": {
+        "sound": "cloth", 
+        "textures": "twf:e_30"
+    }, 
+    "twf:e_31": {
+        "sound": "cloth", 
+        "textures": "twf:e_31"
+    }, 
+    "twf:e_32": {
+        "sound": "cloth", 
+        "textures": "twf:e_32"
+    }, 
+    "twf:e_33": {
+        "sound": "cloth", 
+        "textures": "twf:e_33"
+    }, 
+    "twf:e_34": {
+        "sound": "cloth", 
+        "textures": "twf:e_34"
+    }, 
+    "twf:e_35": {
+        "sound": "cloth", 
+        "textures": "twf:e_35"
+    }, 
+    "twf:e_36": {
+        "sound": "cloth", 
+        "textures": "twf:e_36"
+    }, 
+    "twf:e_37": {
+        "sound": "cloth", 
+        "textures": "twf:e_37"
+    }, 
+    "twf:e_38": {
+        "sound": "cloth", 
+        "textures": "twf:e_38"
+    }, 
+    "twf:e_39": {
+        "sound": "cloth", 
+        "textures": "twf:e_39"
+    }, 
+    "twf:e_4": {
+        "sound": "cloth", 
+        "textures": "twf:e_4"
+    }, 
+    "twf:e_40": {
+        "sound": "cloth", 
+        "textures": "twf:e_40"
+    }, 
+    "twf:e_41": {
+        "sound": "cloth", 
+        "textures": "twf:e_41"
+    }, 
+    "twf:e_42": {
+        "sound": "cloth", 
+        "textures": "twf:e_42"
+    }, 
+    "twf:e_43": {
+        "sound": "cloth", 
+        "textures": "twf:e_43"
+    }, 
+    "twf:e_44": {
+        "sound": "cloth", 
+        "textures": "twf:e_44"
+    }, 
+    "twf:e_45": {
+        "sound": "cloth", 
+        "textures": "twf:e_45"
+    }, 
+    "twf:e_46": {
+        "sound": "cloth", 
+        "textures": "twf:e_46"
+    }, 
+    "twf:e_47": {
+        "sound": "cloth", 
+        "textures": "twf:e_47"
+    }, 
+    "twf:e_48": {
+        "sound": "cloth", 
+        "textures": "twf:e_48"
+    }, 
+    "twf:e_49": {
+        "sound": "cloth", 
+        "textures": "twf:e_49"
+    }, 
+    "twf:e_5": {
+        "sound": "cloth", 
+        "textures": "twf:e_5"
+    }, 
+    "twf:e_50": {
+        "sound": "cloth", 
+        "textures": "twf:e_50"
+    }, 
+    "twf:e_51": {
+        "sound": "cloth", 
+        "textures": "twf:e_51"
+    }, 
+    "twf:e_52": {
+        "sound": "cloth", 
+        "textures": "twf:e_52"
+    }, 
+    "twf:e_53": {
+        "sound": "cloth", 
+        "textures": "twf:e_53"
+    }, 
+    "twf:e_54": {
+        "sound": "cloth", 
+        "textures": "twf:e_54"
+    }, 
+    "twf:e_55": {
+        "sound": "cloth", 
+        "textures": "twf:e_55"
+    }, 
+    "twf:e_56": {
+        "sound": "cloth", 
+        "textures": "twf:e_56"
+    }, 
+    "twf:e_57": {
+        "sound": "cloth", 
+        "textures": "twf:e_57"
+    }, 
+    "twf:e_58": {
+        "sound": "cloth", 
+        "textures": "twf:e_58"
+    }, 
+    "twf:e_59": {
+        "sound": "cloth", 
+        "textures": "twf:e_59"
+    }, 
+    "twf:e_6": {
+        "sound": "cloth", 
+        "textures": "twf:e_6"
+    }, 
+    "twf:e_60": {
+        "sound": "cloth", 
+        "textures": "twf:e_60"
+    }, 
+    "twf:e_61": {
+        "sound": "cloth", 
+        "textures": "twf:e_61"
+    }, 
+    "twf:e_62": {
+        "sound": "cloth", 
+        "textures": "twf:e_62"
+    }, 
+    "twf:e_63": {
+        "sound": "cloth", 
+        "textures": "twf:e_63"
+    }, 
+    "twf:e_64": {
+        "sound": "cloth", 
+        "textures": "twf:e_64"
+    }, 
+    "twf:e_65": {
+        "sound": "cloth", 
+        "textures": "twf:e_65"
+    }, 
+    "twf:e_66": {
+        "sound": "cloth", 
+        "textures": "twf:e_66"
+    }, 
+    "twf:e_67": {
+        "sound": "cloth", 
+        "textures": "twf:e_67"
+    }, 
+    "twf:e_68": {
+        "sound": "cloth", 
+        "textures": "twf:e_68"
+    }, 
+    "twf:e_69": {
+        "sound": "cloth", 
+        "textures": "twf:e_69"
+    }, 
+    "twf:e_7": {
+        "sound": "cloth", 
+        "textures": "twf:e_7"
+    }, 
+    "twf:e_70": {
+        "sound": "cloth", 
+        "textures": "twf:e_70"
+    }, 
+    "twf:e_71": {
+        "sound": "cloth", 
+        "textures": "twf:e_71"
+    }, 
+    "twf:e_72": {
+        "sound": "cloth", 
+        "textures": "twf:e_72"
+    }, 
+    "twf:e_73": {
+        "sound": "cloth", 
+        "textures": "twf:e_73"
+    }, 
+    "twf:e_74": {
+        "sound": "cloth", 
+        "textures": "twf:e_74"
+    }, 
+    "twf:e_75": {
+        "sound": "cloth", 
+        "textures": "twf:e_75"
+    }, 
+    "twf:e_76": {
+        "sound": "cloth", 
+        "textures": "twf:e_76"
+    }, 
+    "twf:e_77": {
+        "sound": "cloth", 
+        "textures": "twf:e_77"
+    }, 
+    "twf:e_78": {
+        "sound": "cloth", 
+        "textures": "twf:e_78"
+    }, 
+    "twf:e_79": {
+        "sound": "cloth", 
+        "textures": "twf:e_79"
+    }, 
+    "twf:e_8": {
+        "sound": "cloth", 
+        "textures": "twf:e_8"
+    }, 
+    "twf:e_80": {
+        "sound": "cloth", 
+        "textures": "twf:e_80"
+    }, 
+    "twf:e_81": {
+        "sound": "cloth", 
+        "textures": "twf:e_81"
+    }, 
+    "twf:e_82": {
+        "sound": "cloth", 
+        "textures": "twf:e_82"
+    }, 
+    "twf:e_83": {
+        "sound": "cloth", 
+        "textures": "twf:e_83"
+    }, 
+    "twf:e_84": {
+        "sound": "cloth", 
+        "textures": "twf:e_84"
+    }, 
+    "twf:e_85": {
+        "sound": "cloth", 
+        "textures": "twf:e_85"
+    }, 
+    "twf:e_86": {
+        "sound": "cloth", 
+        "textures": "twf:e_86"
+    }, 
+    "twf:e_87": {
+        "sound": "cloth", 
+        "textures": "twf:e_87"
+    }, 
+    "twf:e_88": {
+        "sound": "cloth", 
+        "textures": "twf:e_88"
+    }, 
+    "twf:e_89": {
+        "sound": "cloth", 
+        "textures": "twf:e_89"
+    }, 
+    "twf:e_9": {
+        "sound": "cloth", 
+        "textures": "twf:e_9"
+    }, 
+    "twf:e_90": {
+        "sound": "cloth", 
+        "textures": "twf:e_90"
+    }, 
+    "twf:e_91": {
+        "sound": "cloth", 
+        "textures": "twf:e_91"
+    }, 
+    "twf:e_92": {
+        "sound": "cloth", 
+        "textures": "twf:e_92"
+    }, 
+    "twf:e_93": {
+        "sound": "cloth", 
+        "textures": "twf:e_93"
+    }, 
+    "twf:e_94": {
+        "sound": "cloth", 
+        "textures": "twf:e_94"
+    }, 
+    "twf:e_95": {
+        "sound": "cloth", 
+        "textures": "twf:e_95"
+    }, 
+    "twf:e_96": {
+        "sound": "cloth", 
+        "textures": "twf:e_96"
+    }, 
+    "twf:e_97": {
+        "sound": "cloth", 
+        "textures": "twf:e_97"
+    }, 
+    "twf:e_98": {
+        "sound": "cloth", 
+        "textures": "twf:e_98"
+    }, 
+    "twf:e_99": {
+        "sound": "cloth", 
+        "textures": "twf:e_99"
+    }, 
+    "twf:f_0": {
+        "sound": "cloth", 
+        "textures": "twf:f_0"
+    }, 
+    "twf:f_1": {
+        "sound": "cloth", 
+        "textures": "twf:f_1"
+    }, 
+    "twf:f_10": {
+        "sound": "cloth", 
+        "textures": "twf:f_10"
+    }, 
+    "twf:f_11": {
+        "sound": "cloth", 
+        "textures": "twf:f_11"
+    }, 
+    "twf:f_12": {
+        "sound": "cloth", 
+        "textures": "twf:f_12"
+    }, 
+    "twf:f_13": {
+        "sound": "cloth", 
+        "textures": "twf:f_13"
+    }, 
+    "twf:f_14": {
+        "sound": "cloth", 
+        "textures": "twf:f_14"
+    }, 
+    "twf:f_15": {
+        "sound": "cloth", 
+        "textures": "twf:f_15"
+    }, 
+    "twf:f_16": {
+        "sound": "cloth", 
+        "textures": "twf:f_16"
+    }, 
+    "twf:f_17": {
+        "sound": "cloth", 
+        "textures": "twf:f_17"
+    }, 
+    "twf:f_18": {
+        "sound": "cloth", 
+        "textures": "twf:f_18"
+    }, 
+    "twf:f_19": {
+        "sound": "cloth", 
+        "textures": "twf:f_19"
+    }, 
+    "twf:f_2": {
+        "sound": "cloth", 
+        "textures": "twf:f_2"
+    }, 
+    "twf:f_20": {
+        "sound": "cloth", 
+        "textures": "twf:f_20"
+    }, 
+    "twf:f_21": {
+        "sound": "cloth", 
+        "textures": "twf:f_21"
+    }, 
+    "twf:f_22": {
+        "sound": "cloth", 
+        "textures": "twf:f_22"
+    }, 
+    "twf:f_23": {
+        "sound": "cloth", 
+        "textures": "twf:f_23"
+    }, 
+    "twf:f_24": {
+        "sound": "cloth", 
+        "textures": "twf:f_24"
+    }, 
+    "twf:f_25": {
+        "sound": "cloth", 
+        "textures": "twf:f_25"
+    }, 
+    "twf:f_26": {
+        "sound": "cloth", 
+        "textures": "twf:f_26"
+    }, 
+    "twf:f_27": {
+        "sound": "cloth", 
+        "textures": "twf:f_27"
+    }, 
+    "twf:f_28": {
+        "sound": "cloth", 
+        "textures": "twf:f_28"
+    }, 
+    "twf:f_29": {
+        "sound": "cloth", 
+        "textures": "twf:f_29"
+    }, 
+    "twf:f_3": {
+        "sound": "cloth", 
+        "textures": "twf:f_3"
+    }, 
+    "twf:f_30": {
+        "sound": "cloth", 
+        "textures": "twf:f_30"
+    }, 
+    "twf:f_31": {
+        "sound": "cloth", 
+        "textures": "twf:f_31"
+    }, 
+    "twf:f_32": {
+        "sound": "cloth", 
+        "textures": "twf:f_32"
+    }, 
+    "twf:f_33": {
+        "sound": "cloth", 
+        "textures": "twf:f_33"
+    }, 
+    "twf:f_34": {
+        "sound": "cloth", 
+        "textures": "twf:f_34"
+    }, 
+    "twf:f_35": {
+        "sound": "cloth", 
+        "textures": "twf:f_35"
+    }, 
+    "twf:f_36": {
+        "sound": "cloth", 
+        "textures": "twf:f_36"
+    }, 
+    "twf:f_37": {
+        "sound": "cloth", 
+        "textures": "twf:f_37"
+    }, 
+    "twf:f_38": {
+        "sound": "cloth", 
+        "textures": "twf:f_38"
+    }, 
+    "twf:f_39": {
+        "sound": "cloth", 
+        "textures": "twf:f_39"
+    }, 
+    "twf:f_4": {
+        "sound": "cloth", 
+        "textures": "twf:f_4"
+    }, 
+    "twf:f_40": {
+        "sound": "cloth", 
+        "textures": "twf:f_40"
+    }, 
+    "twf:f_41": {
+        "sound": "cloth", 
+        "textures": "twf:f_41"
+    }, 
+    "twf:f_42": {
+        "sound": "cloth", 
+        "textures": "twf:f_42"
+    }, 
+    "twf:f_43": {
+        "sound": "cloth", 
+        "textures": "twf:f_43"
+    }, 
+    "twf:f_44": {
+        "sound": "cloth", 
+        "textures": "twf:f_44"
+    }, 
+    "twf:f_45": {
+        "sound": "cloth", 
+        "textures": "twf:f_45"
+    }, 
+    "twf:f_46": {
+        "sound": "cloth", 
+        "textures": "twf:f_46"
+    }, 
+    "twf:f_47": {
+        "sound": "cloth", 
+        "textures": "twf:f_47"
+    }, 
+    "twf:f_48": {
+        "sound": "cloth", 
+        "textures": "twf:f_48"
+    }, 
+    "twf:f_49": {
+        "sound": "cloth", 
+        "textures": "twf:f_49"
+    }, 
+    "twf:f_5": {
+        "sound": "cloth", 
+        "textures": "twf:f_5"
+    }, 
+    "twf:f_50": {
+        "sound": "cloth", 
+        "textures": "twf:f_50"
+    }, 
+    "twf:f_51": {
+        "sound": "cloth", 
+        "textures": "twf:f_51"
+    }, 
+    "twf:f_52": {
+        "sound": "cloth", 
+        "textures": "twf:f_52"
+    }, 
+    "twf:f_53": {
+        "sound": "cloth", 
+        "textures": "twf:f_53"
+    }, 
+    "twf:f_54": {
+        "sound": "cloth", 
+        "textures": "twf:f_54"
+    }, 
+    "twf:f_55": {
+        "sound": "cloth", 
+        "textures": "twf:f_55"
+    }, 
+    "twf:f_56": {
+        "sound": "cloth", 
+        "textures": "twf:f_56"
+    }, 
+    "twf:f_57": {
+        "sound": "cloth", 
+        "textures": "twf:f_57"
+    }, 
+    "twf:f_58": {
+        "sound": "cloth", 
+        "textures": "twf:f_58"
+    }, 
+    "twf:f_59": {
+        "sound": "cloth", 
+        "textures": "twf:f_59"
+    }, 
+    "twf:f_6": {
+        "sound": "cloth", 
+        "textures": "twf:f_6"
+    }, 
+    "twf:f_60": {
+        "sound": "cloth", 
+        "textures": "twf:f_60"
+    }, 
+    "twf:f_61": {
+        "sound": "cloth", 
+        "textures": "twf:f_61"
+    }, 
+    "twf:f_62": {
+        "sound": "cloth", 
+        "textures": "twf:f_62"
+    }, 
+    "twf:f_63": {
+        "sound": "cloth", 
+        "textures": "twf:f_63"
+    }, 
+    "twf:f_64": {
+        "sound": "cloth", 
+        "textures": "twf:f_64"
+    }, 
+    "twf:f_65": {
+        "sound": "cloth", 
+        "textures": "twf:f_65"
+    }, 
+    "twf:f_66": {
+        "sound": "cloth", 
+        "textures": "twf:f_66"
+    }, 
+    "twf:f_67": {
+        "sound": "cloth", 
+        "textures": "twf:f_67"
+    }, 
+    "twf:f_68": {
+        "sound": "cloth", 
+        "textures": "twf:f_68"
+    }, 
+    "twf:f_69": {
+        "sound": "cloth", 
+        "textures": "twf:f_69"
+    }, 
+    "twf:f_7": {
+        "sound": "cloth", 
+        "textures": "twf:f_7"
+    }, 
+    "twf:f_70": {
+        "sound": "cloth", 
+        "textures": "twf:f_70"
+    }, 
+    "twf:f_71": {
+        "sound": "cloth", 
+        "textures": "twf:f_71"
+    }, 
+    "twf:f_72": {
+        "sound": "cloth", 
+        "textures": "twf:f_72"
+    }, 
+    "twf:f_73": {
+        "sound": "cloth", 
+        "textures": "twf:f_73"
+    }, 
+    "twf:f_74": {
+        "sound": "cloth", 
+        "textures": "twf:f_74"
+    }, 
+    "twf:f_75": {
+        "sound": "cloth", 
+        "textures": "twf:f_75"
+    }, 
+    "twf:f_76": {
+        "sound": "cloth", 
+        "textures": "twf:f_76"
+    }, 
+    "twf:f_77": {
+        "sound": "cloth", 
+        "textures": "twf:f_77"
+    }, 
+    "twf:f_78": {
+        "sound": "cloth", 
+        "textures": "twf:f_78"
+    }, 
+    "twf:f_79": {
+        "sound": "cloth", 
+        "textures": "twf:f_79"
+    }, 
+    "twf:f_8": {
+        "sound": "cloth", 
+        "textures": "twf:f_8"
+    }, 
+    "twf:f_80": {
+        "sound": "cloth", 
+        "textures": "twf:f_80"
+    }, 
+    "twf:f_81": {
+        "sound": "cloth", 
+        "textures": "twf:f_81"
+    }, 
+    "twf:f_82": {
+        "sound": "cloth", 
+        "textures": "twf:f_82"
+    }, 
+    "twf:f_83": {
+        "sound": "cloth", 
+        "textures": "twf:f_83"
+    }, 
+    "twf:f_84": {
+        "sound": "cloth", 
+        "textures": "twf:f_84"
+    }, 
+    "twf:f_85": {
+        "sound": "cloth", 
+        "textures": "twf:f_85"
+    }, 
+    "twf:f_86": {
+        "sound": "cloth", 
+        "textures": "twf:f_86"
+    }, 
+    "twf:f_87": {
+        "sound": "cloth", 
+        "textures": "twf:f_87"
+    }, 
+    "twf:f_88": {
+        "sound": "cloth", 
+        "textures": "twf:f_88"
+    }, 
+    "twf:f_89": {
+        "sound": "cloth", 
+        "textures": "twf:f_89"
+    }, 
+    "twf:f_9": {
+        "sound": "cloth", 
+        "textures": "twf:f_9"
+    }, 
+    "twf:f_90": {
+        "sound": "cloth", 
+        "textures": "twf:f_90"
+    }, 
+    "twf:f_91": {
+        "sound": "cloth", 
+        "textures": "twf:f_91"
+    }, 
+    "twf:f_92": {
+        "sound": "cloth", 
+        "textures": "twf:f_92"
+    }, 
+    "twf:f_93": {
+        "sound": "cloth", 
+        "textures": "twf:f_93"
+    }, 
+    "twf:f_94": {
+        "sound": "cloth", 
+        "textures": "twf:f_94"
+    }, 
+    "twf:f_95": {
+        "sound": "cloth", 
+        "textures": "twf:f_95"
+    }, 
+    "twf:f_96": {
+        "sound": "cloth", 
+        "textures": "twf:f_96"
+    }, 
+    "twf:f_97": {
+        "sound": "cloth", 
+        "textures": "twf:f_97"
+    }, 
+    "twf:f_98": {
+        "sound": "cloth", 
+        "textures": "twf:f_98"
+    }, 
+    "twf:f_99": {
+        "sound": "cloth", 
+        "textures": "twf:f_99"
+    }, 
+    "twf:g_0": {
+        "sound": "cloth", 
+        "textures": "twf:g_0"
+    }, 
+    "twf:g_1": {
+        "sound": "cloth", 
+        "textures": "twf:g_1"
+    }, 
+    "twf:g_10": {
+        "sound": "cloth", 
+        "textures": "twf:g_10"
+    }, 
+    "twf:g_11": {
+        "sound": "cloth", 
+        "textures": "twf:g_11"
+    }, 
+    "twf:g_12": {
+        "sound": "cloth", 
+        "textures": "twf:g_12"
+    }, 
+    "twf:g_13": {
+        "sound": "cloth", 
+        "textures": "twf:g_13"
+    }, 
+    "twf:g_14": {
+        "sound": "cloth", 
+        "textures": "twf:g_14"
+    }, 
+    "twf:g_15": {
+        "sound": "cloth", 
+        "textures": "twf:g_15"
+    }, 
+    "twf:g_16": {
+        "sound": "cloth", 
+        "textures": "twf:g_16"
+    }, 
+    "twf:g_17": {
+        "sound": "cloth", 
+        "textures": "twf:g_17"
+    }, 
+    "twf:g_18": {
+        "sound": "cloth", 
+        "textures": "twf:g_18"
+    }, 
+    "twf:g_19": {
+        "sound": "cloth", 
+        "textures": "twf:g_19"
+    }, 
+    "twf:g_2": {
+        "sound": "cloth", 
+        "textures": "twf:g_2"
+    }, 
+    "twf:g_20": {
+        "sound": "cloth", 
+        "textures": "twf:g_20"
+    }, 
+    "twf:g_21": {
+        "sound": "cloth", 
+        "textures": "twf:g_21"
+    }, 
+    "twf:g_22": {
+        "sound": "cloth", 
+        "textures": "twf:g_22"
+    }, 
+    "twf:g_23": {
+        "sound": "cloth", 
+        "textures": "twf:g_23"
+    }, 
+    "twf:g_24": {
+        "sound": "cloth", 
+        "textures": "twf:g_24"
+    }, 
+    "twf:g_25": {
+        "sound": "cloth", 
+        "textures": "twf:g_25"
+    }, 
+    "twf:g_26": {
+        "sound": "cloth", 
+        "textures": "twf:g_26"
+    }, 
+    "twf:g_27": {
+        "sound": "cloth", 
+        "textures": "twf:g_27"
+    }, 
+    "twf:g_28": {
+        "sound": "cloth", 
+        "textures": "twf:g_28"
+    }, 
+    "twf:g_29": {
+        "sound": "cloth", 
+        "textures": "twf:g_29"
+    }, 
+    "twf:g_3": {
+        "sound": "cloth", 
+        "textures": "twf:g_3"
+    }, 
+    "twf:g_30": {
+        "sound": "cloth", 
+        "textures": "twf:g_30"
+    }, 
+    "twf:g_31": {
+        "sound": "cloth", 
+        "textures": "twf:g_31"
+    }, 
+    "twf:g_32": {
+        "sound": "cloth", 
+        "textures": "twf:g_32"
+    }, 
+    "twf:g_33": {
+        "sound": "cloth", 
+        "textures": "twf:g_33"
+    }, 
+    "twf:g_34": {
+        "sound": "cloth", 
+        "textures": "twf:g_34"
+    }, 
+    "twf:g_35": {
+        "sound": "cloth", 
+        "textures": "twf:g_35"
+    }, 
+    "twf:g_36": {
+        "sound": "cloth", 
+        "textures": "twf:g_36"
+    }, 
+    "twf:g_37": {
+        "sound": "cloth", 
+        "textures": "twf:g_37"
+    }, 
+    "twf:g_38": {
+        "sound": "cloth", 
+        "textures": "twf:g_38"
+    }, 
+    "twf:g_39": {
+        "sound": "cloth", 
+        "textures": "twf:g_39"
+    }, 
+    "twf:g_4": {
+        "sound": "cloth", 
+        "textures": "twf:g_4"
+    }, 
+    "twf:g_40": {
+        "sound": "cloth", 
+        "textures": "twf:g_40"
+    }, 
+    "twf:g_41": {
+        "sound": "cloth", 
+        "textures": "twf:g_41"
+    }, 
+    "twf:g_42": {
+        "sound": "cloth", 
+        "textures": "twf:g_42"
+    }, 
+    "twf:g_43": {
+        "sound": "cloth", 
+        "textures": "twf:g_43"
+    }, 
+    "twf:g_44": {
+        "sound": "cloth", 
+        "textures": "twf:g_44"
+    }, 
+    "twf:g_45": {
+        "sound": "cloth", 
+        "textures": "twf:g_45"
+    }, 
+    "twf:g_46": {
+        "sound": "cloth", 
+        "textures": "twf:g_46"
+    }, 
+    "twf:g_47": {
+        "sound": "cloth", 
+        "textures": "twf:g_47"
+    }, 
+    "twf:g_48": {
+        "sound": "cloth", 
+        "textures": "twf:g_48"
+    }, 
+    "twf:g_49": {
+        "sound": "cloth", 
+        "textures": "twf:g_49"
+    }, 
+    "twf:g_5": {
+        "sound": "cloth", 
+        "textures": "twf:g_5"
+    }, 
+    "twf:g_50": {
+        "sound": "cloth", 
+        "textures": "twf:g_50"
+    }, 
+    "twf:g_51": {
+        "sound": "cloth", 
+        "textures": "twf:g_51"
+    }, 
+    "twf:g_52": {
+        "sound": "cloth", 
+        "textures": "twf:g_52"
+    }, 
+    "twf:g_53": {
+        "sound": "cloth", 
+        "textures": "twf:g_53"
+    }, 
+    "twf:g_54": {
+        "sound": "cloth", 
+        "textures": "twf:g_54"
+    }, 
+    "twf:g_55": {
+        "sound": "cloth", 
+        "textures": "twf:g_55"
+    }, 
+    "twf:g_56": {
+        "sound": "cloth", 
+        "textures": "twf:g_56"
+    }, 
+    "twf:g_57": {
+        "sound": "cloth", 
+        "textures": "twf:g_57"
+    }, 
+    "twf:g_58": {
+        "sound": "cloth", 
+        "textures": "twf:g_58"
+    }, 
+    "twf:g_59": {
+        "sound": "cloth", 
+        "textures": "twf:g_59"
+    }, 
+    "twf:g_6": {
+        "sound": "cloth", 
+        "textures": "twf:g_6"
+    }, 
+    "twf:g_60": {
+        "sound": "cloth", 
+        "textures": "twf:g_60"
+    }, 
+    "twf:g_61": {
+        "sound": "cloth", 
+        "textures": "twf:g_61"
+    }, 
+    "twf:g_62": {
+        "sound": "cloth", 
+        "textures": "twf:g_62"
+    }, 
+    "twf:g_63": {
+        "sound": "cloth", 
+        "textures": "twf:g_63"
+    }, 
+    "twf:g_64": {
+        "sound": "cloth", 
+        "textures": "twf:g_64"
+    }, 
+    "twf:g_65": {
+        "sound": "cloth", 
+        "textures": "twf:g_65"
+    }, 
+    "twf:g_66": {
+        "sound": "cloth", 
+        "textures": "twf:g_66"
+    }, 
+    "twf:g_67": {
+        "sound": "cloth", 
+        "textures": "twf:g_67"
+    }, 
+    "twf:g_68": {
+        "sound": "cloth", 
+        "textures": "twf:g_68"
+    }, 
+    "twf:g_69": {
+        "sound": "cloth", 
+        "textures": "twf:g_69"
+    }, 
+    "twf:g_7": {
+        "sound": "cloth", 
+        "textures": "twf:g_7"
+    }, 
+    "twf:g_70": {
+        "sound": "cloth", 
+        "textures": "twf:g_70"
+    }, 
+    "twf:g_71": {
+        "sound": "cloth", 
+        "textures": "twf:g_71"
+    }, 
+    "twf:g_72": {
+        "sound": "cloth", 
+        "textures": "twf:g_72"
+    }, 
+    "twf:g_73": {
+        "sound": "cloth", 
+        "textures": "twf:g_73"
+    }, 
+    "twf:g_74": {
+        "sound": "cloth", 
+        "textures": "twf:g_74"
+    }, 
+    "twf:g_75": {
+        "sound": "cloth", 
+        "textures": "twf:g_75"
+    }, 
+    "twf:g_76": {
+        "sound": "cloth", 
+        "textures": "twf:g_76"
+    }, 
+    "twf:g_77": {
+        "sound": "cloth", 
+        "textures": "twf:g_77"
+    }, 
+    "twf:g_78": {
+        "sound": "cloth", 
+        "textures": "twf:g_78"
+    }, 
+    "twf:g_79": {
+        "sound": "cloth", 
+        "textures": "twf:g_79"
+    }, 
+    "twf:g_8": {
+        "sound": "cloth", 
+        "textures": "twf:g_8"
+    }, 
+    "twf:g_80": {
+        "sound": "cloth", 
+        "textures": "twf:g_80"
+    }, 
+    "twf:g_81": {
+        "sound": "cloth", 
+        "textures": "twf:g_81"
+    }, 
+    "twf:g_82": {
+        "sound": "cloth", 
+        "textures": "twf:g_82"
+    }, 
+    "twf:g_83": {
+        "sound": "cloth", 
+        "textures": "twf:g_83"
+    }, 
+    "twf:g_84": {
+        "sound": "cloth", 
+        "textures": "twf:g_84"
+    }, 
+    "twf:g_85": {
+        "sound": "cloth", 
+        "textures": "twf:g_85"
+    }, 
+    "twf:g_86": {
+        "sound": "cloth", 
+        "textures": "twf:g_86"
+    }, 
+    "twf:g_87": {
+        "sound": "cloth", 
+        "textures": "twf:g_87"
+    }, 
+    "twf:g_88": {
+        "sound": "cloth", 
+        "textures": "twf:g_88"
+    }, 
+    "twf:g_89": {
+        "sound": "cloth", 
+        "textures": "twf:g_89"
+    }, 
+    "twf:g_9": {
+        "sound": "cloth", 
+        "textures": "twf:g_9"
+    }, 
+    "twf:g_90": {
+        "sound": "cloth", 
+        "textures": "twf:g_90"
+    }, 
+    "twf:g_91": {
+        "sound": "cloth", 
+        "textures": "twf:g_91"
+    }, 
+    "twf:g_92": {
+        "sound": "cloth", 
+        "textures": "twf:g_92"
+    }, 
+    "twf:g_93": {
+        "sound": "cloth", 
+        "textures": "twf:g_93"
+    }, 
+    "twf:g_94": {
+        "sound": "cloth", 
+        "textures": "twf:g_94"
+    }, 
+    "twf:g_95": {
+        "sound": "cloth", 
+        "textures": "twf:g_95"
+    }, 
+    "twf:g_96": {
+        "sound": "cloth", 
+        "textures": "twf:g_96"
+    }, 
+    "twf:g_97": {
+        "sound": "cloth", 
+        "textures": "twf:g_97"
+    }, 
+    "twf:g_98": {
+        "sound": "cloth", 
+        "textures": "twf:g_98"
+    }, 
+    "twf:g_99": {
+        "sound": "cloth", 
+        "textures": "twf:g_99"
+    }, 
+    "twf:h_0": {
+        "sound": "cloth", 
+        "textures": "twf:h_0"
+    }, 
+    "twf:h_1": {
+        "sound": "cloth", 
+        "textures": "twf:h_1"
+    }, 
+    "twf:h_10": {
+        "sound": "cloth", 
+        "textures": "twf:h_10"
+    }, 
+    "twf:h_11": {
+        "sound": "cloth", 
+        "textures": "twf:h_11"
+    }, 
+    "twf:h_12": {
+        "sound": "cloth", 
+        "textures": "twf:h_12"
+    }, 
+    "twf:h_13": {
+        "sound": "cloth", 
+        "textures": "twf:h_13"
+    }, 
+    "twf:h_14": {
+        "sound": "cloth", 
+        "textures": "twf:h_14"
+    }, 
+    "twf:h_15": {
+        "sound": "cloth", 
+        "textures": "twf:h_15"
+    }, 
+    "twf:h_16": {
+        "sound": "cloth", 
+        "textures": "twf:h_16"
+    }, 
+    "twf:h_17": {
+        "sound": "cloth", 
+        "textures": "twf:h_17"
+    }, 
+    "twf:h_18": {
+        "sound": "cloth", 
+        "textures": "twf:h_18"
+    }, 
+    "twf:h_19": {
+        "sound": "cloth", 
+        "textures": "twf:h_19"
+    }, 
+    "twf:h_2": {
+        "sound": "cloth", 
+        "textures": "twf:h_2"
+    }, 
+    "twf:h_20": {
+        "sound": "cloth", 
+        "textures": "twf:h_20"
+    }, 
+    "twf:h_21": {
+        "sound": "cloth", 
+        "textures": "twf:h_21"
+    }, 
+    "twf:h_22": {
+        "sound": "cloth", 
+        "textures": "twf:h_22"
+    }, 
+    "twf:h_23": {
+        "sound": "cloth", 
+        "textures": "twf:h_23"
+    }, 
+    "twf:h_24": {
+        "sound": "cloth", 
+        "textures": "twf:h_24"
+    }, 
+    "twf:h_25": {
+        "sound": "cloth", 
+        "textures": "twf:h_25"
+    }, 
+    "twf:h_26": {
+        "sound": "cloth", 
+        "textures": "twf:h_26"
+    }, 
+    "twf:h_27": {
+        "sound": "cloth", 
+        "textures": "twf:h_27"
+    }, 
+    "twf:h_28": {
+        "sound": "cloth", 
+        "textures": "twf:h_28"
+    }, 
+    "twf:h_29": {
+        "sound": "cloth", 
+        "textures": "twf:h_29"
+    }, 
+    "twf:h_3": {
+        "sound": "cloth", 
+        "textures": "twf:h_3"
+    }, 
+    "twf:h_30": {
+        "sound": "cloth", 
+        "textures": "twf:h_30"
+    }, 
+    "twf:h_31": {
+        "sound": "cloth", 
+        "textures": "twf:h_31"
+    }, 
+    "twf:h_32": {
+        "sound": "cloth", 
+        "textures": "twf:h_32"
+    }, 
+    "twf:h_33": {
+        "sound": "cloth", 
+        "textures": "twf:h_33"
+    }, 
+    "twf:h_34": {
+        "sound": "cloth", 
+        "textures": "twf:h_34"
+    }, 
+    "twf:h_35": {
+        "sound": "cloth", 
+        "textures": "twf:h_35"
+    }, 
+    "twf:h_36": {
+        "sound": "cloth", 
+        "textures": "twf:h_36"
+    }, 
+    "twf:h_37": {
+        "sound": "cloth", 
+        "textures": "twf:h_37"
+    }, 
+    "twf:h_38": {
+        "sound": "cloth", 
+        "textures": "twf:h_38"
+    }, 
+    "twf:h_39": {
+        "sound": "cloth", 
+        "textures": "twf:h_39"
+    }, 
+    "twf:h_4": {
+        "sound": "cloth", 
+        "textures": "twf:h_4"
+    }, 
+    "twf:h_40": {
+        "sound": "cloth", 
+        "textures": "twf:h_40"
+    }, 
+    "twf:h_41": {
+        "sound": "cloth", 
+        "textures": "twf:h_41"
+    }, 
+    "twf:h_42": {
+        "sound": "cloth", 
+        "textures": "twf:h_42"
+    }, 
+    "twf:h_43": {
+        "sound": "cloth", 
+        "textures": "twf:h_43"
+    }, 
+    "twf:h_44": {
+        "sound": "cloth", 
+        "textures": "twf:h_44"
+    }, 
+    "twf:h_45": {
+        "sound": "cloth", 
+        "textures": "twf:h_45"
+    }, 
+    "twf:h_46": {
+        "sound": "cloth", 
+        "textures": "twf:h_46"
+    }, 
+    "twf:h_47": {
+        "sound": "cloth", 
+        "textures": "twf:h_47"
+    }, 
+    "twf:h_48": {
+        "sound": "cloth", 
+        "textures": "twf:h_48"
+    }, 
+    "twf:h_49": {
+        "sound": "cloth", 
+        "textures": "twf:h_49"
+    }, 
+    "twf:h_5": {
+        "sound": "cloth", 
+        "textures": "twf:h_5"
+    }, 
+    "twf:h_50": {
+        "sound": "cloth", 
+        "textures": "twf:h_50"
+    }, 
+    "twf:h_51": {
+        "sound": "cloth", 
+        "textures": "twf:h_51"
+    }, 
+    "twf:h_52": {
+        "sound": "cloth", 
+        "textures": "twf:h_52"
+    }, 
+    "twf:h_53": {
+        "sound": "cloth", 
+        "textures": "twf:h_53"
+    }, 
+    "twf:h_54": {
+        "sound": "cloth", 
+        "textures": "twf:h_54"
+    }, 
+    "twf:h_55": {
+        "sound": "cloth", 
+        "textures": "twf:h_55"
+    }, 
+    "twf:h_56": {
+        "sound": "cloth", 
+        "textures": "twf:h_56"
+    }, 
+    "twf:h_57": {
+        "sound": "cloth", 
+        "textures": "twf:h_57"
+    }, 
+    "twf:h_58": {
+        "sound": "cloth", 
+        "textures": "twf:h_58"
+    }, 
+    "twf:h_59": {
+        "sound": "cloth", 
+        "textures": "twf:h_59"
+    }, 
+    "twf:h_6": {
+        "sound": "cloth", 
+        "textures": "twf:h_6"
+    }, 
+    "twf:h_60": {
+        "sound": "cloth", 
+        "textures": "twf:h_60"
+    }, 
+    "twf:h_61": {
+        "sound": "cloth", 
+        "textures": "twf:h_61"
+    }, 
+    "twf:h_62": {
+        "sound": "cloth", 
+        "textures": "twf:h_62"
+    }, 
+    "twf:h_63": {
+        "sound": "cloth", 
+        "textures": "twf:h_63"
+    }, 
+    "twf:h_64": {
+        "sound": "cloth", 
+        "textures": "twf:h_64"
+    }, 
+    "twf:h_65": {
+        "sound": "cloth", 
+        "textures": "twf:h_65"
+    }, 
+    "twf:h_66": {
+        "sound": "cloth", 
+        "textures": "twf:h_66"
+    }, 
+    "twf:h_67": {
+        "sound": "cloth", 
+        "textures": "twf:h_67"
+    }, 
+    "twf:h_68": {
+        "sound": "cloth", 
+        "textures": "twf:h_68"
+    }, 
+    "twf:h_69": {
+        "sound": "cloth", 
+        "textures": "twf:h_69"
+    }, 
+    "twf:h_7": {
+        "sound": "cloth", 
+        "textures": "twf:h_7"
+    }, 
+    "twf:h_70": {
+        "sound": "cloth", 
+        "textures": "twf:h_70"
+    }, 
+    "twf:h_71": {
+        "sound": "cloth", 
+        "textures": "twf:h_71"
+    }, 
+    "twf:h_72": {
+        "sound": "cloth", 
+        "textures": "twf:h_72"
+    }, 
+    "twf:h_73": {
+        "sound": "cloth", 
+        "textures": "twf:h_73"
+    }, 
+    "twf:h_74": {
+        "sound": "cloth", 
+        "textures": "twf:h_74"
+    }, 
+    "twf:h_75": {
+        "sound": "cloth", 
+        "textures": "twf:h_75"
+    }, 
+    "twf:h_76": {
+        "sound": "cloth", 
+        "textures": "twf:h_76"
+    }, 
+    "twf:h_77": {
+        "sound": "cloth", 
+        "textures": "twf:h_77"
+    }, 
+    "twf:h_78": {
+        "sound": "cloth", 
+        "textures": "twf:h_78"
+    }, 
+    "twf:h_79": {
+        "sound": "cloth", 
+        "textures": "twf:h_79"
+    }, 
+    "twf:h_8": {
+        "sound": "cloth", 
+        "textures": "twf:h_8"
+    }, 
+    "twf:h_80": {
+        "sound": "cloth", 
+        "textures": "twf:h_80"
+    }, 
+    "twf:h_81": {
+        "sound": "cloth", 
+        "textures": "twf:h_81"
+    }, 
+    "twf:h_82": {
+        "sound": "cloth", 
+        "textures": "twf:h_82"
+    }, 
+    "twf:h_83": {
+        "sound": "cloth", 
+        "textures": "twf:h_83"
+    }, 
+    "twf:h_84": {
+        "sound": "cloth", 
+        "textures": "twf:h_84"
+    }, 
+    "twf:h_85": {
+        "sound": "cloth", 
+        "textures": "twf:h_85"
+    }, 
+    "twf:h_86": {
+        "sound": "cloth", 
+        "textures": "twf:h_86"
+    }, 
+    "twf:h_87": {
+        "sound": "cloth", 
+        "textures": "twf:h_87"
+    }, 
+    "twf:h_88": {
+        "sound": "cloth", 
+        "textures": "twf:h_88"
+    }, 
+    "twf:h_89": {
+        "sound": "cloth", 
+        "textures": "twf:h_89"
+    }, 
+    "twf:h_9": {
+        "sound": "cloth", 
+        "textures": "twf:h_9"
+    }, 
+    "twf:h_90": {
+        "sound": "cloth", 
+        "textures": "twf:h_90"
+    }, 
+    "twf:h_91": {
+        "sound": "cloth", 
+        "textures": "twf:h_91"
+    }, 
+    "twf:h_92": {
+        "sound": "cloth", 
+        "textures": "twf:h_92"
+    }, 
+    "twf:h_93": {
+        "sound": "cloth", 
+        "textures": "twf:h_93"
+    }, 
+    "twf:h_94": {
+        "sound": "cloth", 
+        "textures": "twf:h_94"
+    }, 
+    "twf:h_95": {
+        "sound": "cloth", 
+        "textures": "twf:h_95"
+    }, 
+    "twf:h_96": {
+        "sound": "cloth", 
+        "textures": "twf:h_96"
+    }, 
+    "twf:h_97": {
+        "sound": "cloth", 
+        "textures": "twf:h_97"
+    }, 
+    "twf:h_98": {
+        "sound": "cloth", 
+        "textures": "twf:h_98"
+    }, 
+    "twf:h_99": {
+        "sound": "cloth", 
+        "textures": "twf:h_99"
+    }, 
+    "twf:i_0": {
+        "sound": "cloth", 
+        "textures": "twf:i_0"
+    }, 
+    "twf:i_1": {
+        "sound": "cloth", 
+        "textures": "twf:i_1"
+    }, 
+    "twf:i_10": {
+        "sound": "cloth", 
+        "textures": "twf:i_10"
+    }, 
+    "twf:i_11": {
+        "sound": "cloth", 
+        "textures": "twf:i_11"
+    }, 
+    "twf:i_12": {
+        "sound": "cloth", 
+        "textures": "twf:i_12"
+    }, 
+    "twf:i_13": {
+        "sound": "cloth", 
+        "textures": "twf:i_13"
+    }, 
+    "twf:i_14": {
+        "sound": "cloth", 
+        "textures": "twf:i_14"
+    }, 
+    "twf:i_15": {
+        "sound": "cloth", 
+        "textures": "twf:i_15"
+    }, 
+    "twf:i_16": {
+        "sound": "cloth", 
+        "textures": "twf:i_16"
+    }, 
+    "twf:i_17": {
+        "sound": "cloth", 
+        "textures": "twf:i_17"
+    }, 
+    "twf:i_18": {
+        "sound": "cloth", 
+        "textures": "twf:i_18"
+    }, 
+    "twf:i_19": {
+        "sound": "cloth", 
+        "textures": "twf:i_19"
+    }, 
+    "twf:i_2": {
+        "sound": "cloth", 
+        "textures": "twf:i_2"
+    }, 
+    "twf:i_20": {
+        "sound": "cloth", 
+        "textures": "twf:i_20"
+    }, 
+    "twf:i_21": {
+        "sound": "cloth", 
+        "textures": "twf:i_21"
+    }, 
+    "twf:i_22": {
+        "sound": "cloth", 
+        "textures": "twf:i_22"
+    }, 
+    "twf:i_23": {
+        "sound": "cloth", 
+        "textures": "twf:i_23"
+    }, 
+    "twf:i_24": {
+        "sound": "cloth", 
+        "textures": "twf:i_24"
+    }, 
+    "twf:i_25": {
+        "sound": "cloth", 
+        "textures": "twf:i_25"
+    }, 
+    "twf:i_26": {
+        "sound": "cloth", 
+        "textures": "twf:i_26"
+    }, 
+    "twf:i_27": {
+        "sound": "cloth", 
+        "textures": "twf:i_27"
+    }, 
+    "twf:i_28": {
+        "sound": "cloth", 
+        "textures": "twf:i_28"
+    }, 
+    "twf:i_29": {
+        "sound": "cloth", 
+        "textures": "twf:i_29"
+    }, 
+    "twf:i_3": {
+        "sound": "cloth", 
+        "textures": "twf:i_3"
+    }, 
+    "twf:i_30": {
+        "sound": "cloth", 
+        "textures": "twf:i_30"
+    }, 
+    "twf:i_31": {
+        "sound": "cloth", 
+        "textures": "twf:i_31"
+    }, 
+    "twf:i_32": {
+        "sound": "cloth", 
+        "textures": "twf:i_32"
+    }, 
+    "twf:i_33": {
+        "sound": "cloth", 
+        "textures": "twf:i_33"
+    }, 
+    "twf:i_34": {
+        "sound": "cloth", 
+        "textures": "twf:i_34"
+    }, 
+    "twf:i_35": {
+        "sound": "cloth", 
+        "textures": "twf:i_35"
+    }, 
+    "twf:i_36": {
+        "sound": "cloth", 
+        "textures": "twf:i_36"
+    }, 
+    "twf:i_37": {
+        "sound": "cloth", 
+        "textures": "twf:i_37"
+    }, 
+    "twf:i_38": {
+        "sound": "cloth", 
+        "textures": "twf:i_38"
+    }, 
+    "twf:i_39": {
+        "sound": "cloth", 
+        "textures": "twf:i_39"
+    }, 
+    "twf:i_4": {
+        "sound": "cloth", 
+        "textures": "twf:i_4"
+    }, 
+    "twf:i_40": {
+        "sound": "cloth", 
+        "textures": "twf:i_40"
+    }, 
+    "twf:i_41": {
+        "sound": "cloth", 
+        "textures": "twf:i_41"
+    }, 
+    "twf:i_42": {
+        "sound": "cloth", 
+        "textures": "twf:i_42"
+    }, 
+    "twf:i_43": {
+        "sound": "cloth", 
+        "textures": "twf:i_43"
+    }, 
+    "twf:i_44": {
+        "sound": "cloth", 
+        "textures": "twf:i_44"
+    }, 
+    "twf:i_45": {
+        "sound": "cloth", 
+        "textures": "twf:i_45"
+    }, 
+    "twf:i_46": {
+        "sound": "cloth", 
+        "textures": "twf:i_46"
+    }, 
+    "twf:i_47": {
+        "sound": "cloth", 
+        "textures": "twf:i_47"
+    }, 
+    "twf:i_48": {
+        "sound": "cloth", 
+        "textures": "twf:i_48"
+    }, 
+    "twf:i_49": {
+        "sound": "cloth", 
+        "textures": "twf:i_49"
+    }, 
+    "twf:i_5": {
+        "sound": "cloth", 
+        "textures": "twf:i_5"
+    }, 
+    "twf:i_50": {
+        "sound": "cloth", 
+        "textures": "twf:i_50"
+    }, 
+    "twf:i_51": {
+        "sound": "cloth", 
+        "textures": "twf:i_51"
+    }, 
+    "twf:i_52": {
+        "sound": "cloth", 
+        "textures": "twf:i_52"
+    }, 
+    "twf:i_53": {
+        "sound": "cloth", 
+        "textures": "twf:i_53"
+    }, 
+    "twf:i_54": {
+        "sound": "cloth", 
+        "textures": "twf:i_54"
+    }, 
+    "twf:i_55": {
+        "sound": "cloth", 
+        "textures": "twf:i_55"
+    }, 
+    "twf:i_56": {
+        "sound": "cloth", 
+        "textures": "twf:i_56"
+    }, 
+    "twf:i_57": {
+        "sound": "cloth", 
+        "textures": "twf:i_57"
+    }, 
+    "twf:i_58": {
+        "sound": "cloth", 
+        "textures": "twf:i_58"
+    }, 
+    "twf:i_59": {
+        "sound": "cloth", 
+        "textures": "twf:i_59"
+    }, 
+    "twf:i_6": {
+        "sound": "cloth", 
+        "textures": "twf:i_6"
+    }, 
+    "twf:i_60": {
+        "sound": "cloth", 
+        "textures": "twf:i_60"
+    }, 
+    "twf:i_61": {
+        "sound": "cloth", 
+        "textures": "twf:i_61"
+    }, 
+    "twf:i_62": {
+        "sound": "cloth", 
+        "textures": "twf:i_62"
+    }, 
+    "twf:i_63": {
+        "sound": "cloth", 
+        "textures": "twf:i_63"
+    }, 
+    "twf:i_64": {
+        "sound": "cloth", 
+        "textures": "twf:i_64"
+    }, 
+    "twf:i_65": {
+        "sound": "cloth", 
+        "textures": "twf:i_65"
+    }, 
+    "twf:i_66": {
+        "sound": "cloth", 
+        "textures": "twf:i_66"
+    }, 
+    "twf:i_67": {
+        "sound": "cloth", 
+        "textures": "twf:i_67"
+    }, 
+    "twf:i_68": {
+        "sound": "cloth", 
+        "textures": "twf:i_68"
+    }, 
+    "twf:i_69": {
+        "sound": "cloth", 
+        "textures": "twf:i_69"
+    }, 
+    "twf:i_7": {
+        "sound": "cloth", 
+        "textures": "twf:i_7"
+    }, 
+    "twf:i_70": {
+        "sound": "cloth", 
+        "textures": "twf:i_70"
+    }, 
+    "twf:i_71": {
+        "sound": "cloth", 
+        "textures": "twf:i_71"
+    }, 
+    "twf:i_72": {
+        "sound": "cloth", 
+        "textures": "twf:i_72"
+    }, 
+    "twf:i_73": {
+        "sound": "cloth", 
+        "textures": "twf:i_73"
+    }, 
+    "twf:i_74": {
+        "sound": "cloth", 
+        "textures": "twf:i_74"
+    }, 
+    "twf:i_75": {
+        "sound": "cloth", 
+        "textures": "twf:i_75"
+    }, 
+    "twf:i_76": {
+        "sound": "cloth", 
+        "textures": "twf:i_76"
+    }, 
+    "twf:i_77": {
+        "sound": "cloth", 
+        "textures": "twf:i_77"
+    }, 
+    "twf:i_78": {
+        "sound": "cloth", 
+        "textures": "twf:i_78"
+    }, 
+    "twf:i_79": {
+        "sound": "cloth", 
+        "textures": "twf:i_79"
+    }, 
+    "twf:i_8": {
+        "sound": "cloth", 
+        "textures": "twf:i_8"
+    }, 
+    "twf:i_80": {
+        "sound": "cloth", 
+        "textures": "twf:i_80"
+    }, 
+    "twf:i_81": {
+        "sound": "cloth", 
+        "textures": "twf:i_81"
+    }, 
+    "twf:i_82": {
+        "sound": "cloth", 
+        "textures": "twf:i_82"
+    }, 
+    "twf:i_83": {
+        "sound": "cloth", 
+        "textures": "twf:i_83"
+    }, 
+    "twf:i_84": {
+        "sound": "cloth", 
+        "textures": "twf:i_84"
+    }, 
+    "twf:i_85": {
+        "sound": "cloth", 
+        "textures": "twf:i_85"
+    }, 
+    "twf:i_86": {
+        "sound": "cloth", 
+        "textures": "twf:i_86"
+    }, 
+    "twf:i_87": {
+        "sound": "cloth", 
+        "textures": "twf:i_87"
+    }, 
+    "twf:i_88": {
+        "sound": "cloth", 
+        "textures": "twf:i_88"
+    }, 
+    "twf:i_89": {
+        "sound": "cloth", 
+        "textures": "twf:i_89"
+    }, 
+    "twf:i_9": {
+        "sound": "cloth", 
+        "textures": "twf:i_9"
+    }, 
+    "twf:i_90": {
+        "sound": "cloth", 
+        "textures": "twf:i_90"
+    }, 
+    "twf:i_91": {
+        "sound": "cloth", 
+        "textures": "twf:i_91"
+    }, 
+    "twf:i_92": {
+        "sound": "cloth", 
+        "textures": "twf:i_92"
+    }, 
+    "twf:i_93": {
+        "sound": "cloth", 
+        "textures": "twf:i_93"
+    }, 
+    "twf:i_94": {
+        "sound": "cloth", 
+        "textures": "twf:i_94"
+    }, 
+    "twf:i_95": {
+        "sound": "cloth", 
+        "textures": "twf:i_95"
+    }, 
+    "twf:i_96": {
+        "sound": "cloth", 
+        "textures": "twf:i_96"
+    }, 
+    "twf:i_97": {
+        "sound": "cloth", 
+        "textures": "twf:i_97"
+    }, 
+    "twf:i_98": {
+        "sound": "cloth", 
+        "textures": "twf:i_98"
+    }, 
+    "twf:i_99": {
+        "sound": "cloth", 
+        "textures": "twf:i_99"
+    }, 
+    "twf:j_0": {
+        "sound": "cloth", 
+        "textures": "twf:j_0"
+    }, 
+    "twf:j_1": {
+        "sound": "cloth", 
+        "textures": "twf:j_1"
+    }, 
+    "twf:j_10": {
+        "sound": "cloth", 
+        "textures": "twf:j_10"
+    }, 
+    "twf:j_11": {
+        "sound": "cloth", 
+        "textures": "twf:j_11"
+    }, 
+    "twf:j_12": {
+        "sound": "cloth", 
+        "textures": "twf:j_12"
+    }, 
+    "twf:j_13": {
+        "sound": "cloth", 
+        "textures": "twf:j_13"
+    }, 
+    "twf:j_14": {
+        "sound": "cloth", 
+        "textures": "twf:j_14"
+    }, 
+    "twf:j_15": {
+        "sound": "cloth", 
+        "textures": "twf:j_15"
+    }, 
+    "twf:j_16": {
+        "sound": "cloth", 
+        "textures": "twf:j_16"
+    }, 
+    "twf:j_17": {
+        "sound": "cloth", 
+        "textures": "twf:j_17"
+    }, 
+    "twf:j_18": {
+        "sound": "cloth", 
+        "textures": "twf:j_18"
+    }, 
+    "twf:j_19": {
+        "sound": "cloth", 
+        "textures": "twf:j_19"
+    }, 
+    "twf:j_2": {
+        "sound": "cloth", 
+        "textures": "twf:j_2"
+    }, 
+    "twf:j_20": {
+        "sound": "cloth", 
+        "textures": "twf:j_20"
+    }, 
+    "twf:j_21": {
+        "sound": "cloth", 
+        "textures": "twf:j_21"
+    }, 
+    "twf:j_22": {
+        "sound": "cloth", 
+        "textures": "twf:j_22"
+    }, 
+    "twf:j_23": {
+        "sound": "cloth", 
+        "textures": "twf:j_23"
+    }, 
+    "twf:j_24": {
+        "sound": "cloth", 
+        "textures": "twf:j_24"
+    }, 
+    "twf:j_25": {
+        "sound": "cloth", 
+        "textures": "twf:j_25"
+    }, 
+    "twf:j_26": {
+        "sound": "cloth", 
+        "textures": "twf:j_26"
+    }, 
+    "twf:j_27": {
+        "sound": "cloth", 
+        "textures": "twf:j_27"
+    }, 
+    "twf:j_28": {
+        "sound": "cloth", 
+        "textures": "twf:j_28"
+    }, 
+    "twf:j_29": {
+        "sound": "cloth", 
+        "textures": "twf:j_29"
+    }, 
+    "twf:j_3": {
+        "sound": "cloth", 
+        "textures": "twf:j_3"
+    }, 
+    "twf:j_30": {
+        "sound": "cloth", 
+        "textures": "twf:j_30"
+    }, 
+    "twf:j_31": {
+        "sound": "cloth", 
+        "textures": "twf:j_31"
+    }, 
+    "twf:j_32": {
+        "sound": "cloth", 
+        "textures": "twf:j_32"
+    }, 
+    "twf:j_33": {
+        "sound": "cloth", 
+        "textures": "twf:j_33"
+    }, 
+    "twf:j_34": {
+        "sound": "cloth", 
+        "textures": "twf:j_34"
+    }, 
+    "twf:j_35": {
+        "sound": "cloth", 
+        "textures": "twf:j_35"
+    }, 
+    "twf:j_36": {
+        "sound": "cloth", 
+        "textures": "twf:j_36"
+    }, 
+    "twf:j_37": {
+        "sound": "cloth", 
+        "textures": "twf:j_37"
+    }, 
+    "twf:j_38": {
+        "sound": "cloth", 
+        "textures": "twf:j_38"
+    }, 
+    "twf:j_39": {
+        "sound": "cloth", 
+        "textures": "twf:j_39"
+    }, 
+    "twf:j_4": {
+        "sound": "cloth", 
+        "textures": "twf:j_4"
+    }, 
+    "twf:j_40": {
+        "sound": "cloth", 
+        "textures": "twf:j_40"
+    }, 
+    "twf:j_41": {
+        "sound": "cloth", 
+        "textures": "twf:j_41"
+    }, 
+    "twf:j_42": {
+        "sound": "cloth", 
+        "textures": "twf:j_42"
+    }, 
+    "twf:j_43": {
+        "sound": "cloth", 
+        "textures": "twf:j_43"
+    }, 
+    "twf:j_44": {
+        "sound": "cloth", 
+        "textures": "twf:j_44"
+    }, 
+    "twf:j_45": {
+        "sound": "cloth", 
+        "textures": "twf:j_45"
+    }, 
+    "twf:j_46": {
+        "sound": "cloth", 
+        "textures": "twf:j_46"
+    }, 
+    "twf:j_47": {
+        "sound": "cloth", 
+        "textures": "twf:j_47"
+    }, 
+    "twf:j_48": {
+        "sound": "cloth", 
+        "textures": "twf:j_48"
+    }, 
+    "twf:j_49": {
+        "sound": "cloth", 
+        "textures": "twf:j_49"
+    }, 
+    "twf:j_5": {
+        "sound": "cloth", 
+        "textures": "twf:j_5"
+    }, 
+    "twf:j_50": {
+        "sound": "cloth", 
+        "textures": "twf:j_50"
+    }, 
+    "twf:j_51": {
+        "sound": "cloth", 
+        "textures": "twf:j_51"
+    }, 
+    "twf:j_52": {
+        "sound": "cloth", 
+        "textures": "twf:j_52"
+    }, 
+    "twf:j_53": {
+        "sound": "cloth", 
+        "textures": "twf:j_53"
+    }, 
+    "twf:j_54": {
+        "sound": "cloth", 
+        "textures": "twf:j_54"
+    }, 
+    "twf:j_55": {
+        "sound": "cloth", 
+        "textures": "twf:j_55"
+    }, 
+    "twf:j_56": {
+        "sound": "cloth", 
+        "textures": "twf:j_56"
+    }, 
+    "twf:j_57": {
+        "sound": "cloth", 
+        "textures": "twf:j_57"
+    }, 
+    "twf:j_58": {
+        "sound": "cloth", 
+        "textures": "twf:j_58"
+    }, 
+    "twf:j_59": {
+        "sound": "cloth", 
+        "textures": "twf:j_59"
+    }, 
+    "twf:j_6": {
+        "sound": "cloth", 
+        "textures": "twf:j_6"
+    }, 
+    "twf:j_60": {
+        "sound": "cloth", 
+        "textures": "twf:j_60"
+    }, 
+    "twf:j_61": {
+        "sound": "cloth", 
+        "textures": "twf:j_61"
+    }, 
+    "twf:j_62": {
+        "sound": "cloth", 
+        "textures": "twf:j_62"
+    }, 
+    "twf:j_63": {
+        "sound": "cloth", 
+        "textures": "twf:j_63"
+    }, 
+    "twf:j_64": {
+        "sound": "cloth", 
+        "textures": "twf:j_64"
+    }, 
+    "twf:j_65": {
+        "sound": "cloth", 
+        "textures": "twf:j_65"
+    }, 
+    "twf:j_66": {
+        "sound": "cloth", 
+        "textures": "twf:j_66"
+    }, 
+    "twf:j_67": {
+        "sound": "cloth", 
+        "textures": "twf:j_67"
+    }, 
+    "twf:j_68": {
+        "sound": "cloth", 
+        "textures": "twf:j_68"
+    }, 
+    "twf:j_69": {
+        "sound": "cloth", 
+        "textures": "twf:j_69"
+    }, 
+    "twf:j_7": {
+        "sound": "cloth", 
+        "textures": "twf:j_7"
+    }, 
+    "twf:j_70": {
+        "sound": "cloth", 
+        "textures": "twf:j_70"
+    }, 
+    "twf:j_71": {
+        "sound": "cloth", 
+        "textures": "twf:j_71"
+    }, 
+    "twf:j_72": {
+        "sound": "cloth", 
+        "textures": "twf:j_72"
+    }, 
+    "twf:j_73": {
+        "sound": "cloth", 
+        "textures": "twf:j_73"
+    }, 
+    "twf:j_74": {
+        "sound": "cloth", 
+        "textures": "twf:j_74"
+    }, 
+    "twf:j_75": {
+        "sound": "cloth", 
+        "textures": "twf:j_75"
+    }, 
+    "twf:j_76": {
+        "sound": "cloth", 
+        "textures": "twf:j_76"
+    }, 
+    "twf:j_77": {
+        "sound": "cloth", 
+        "textures": "twf:j_77"
+    }, 
+    "twf:j_78": {
+        "sound": "cloth", 
+        "textures": "twf:j_78"
+    }, 
+    "twf:j_79": {
+        "sound": "cloth", 
+        "textures": "twf:j_79"
+    }, 
+    "twf:j_8": {
+        "sound": "cloth", 
+        "textures": "twf:j_8"
+    }, 
+    "twf:j_80": {
+        "sound": "cloth", 
+        "textures": "twf:j_80"
+    }, 
+    "twf:j_81": {
+        "sound": "cloth", 
+        "textures": "twf:j_81"
+    }, 
+    "twf:j_82": {
+        "sound": "cloth", 
+        "textures": "twf:j_82"
+    }, 
+    "twf:j_83": {
+        "sound": "cloth", 
+        "textures": "twf:j_83"
+    }, 
+    "twf:j_84": {
+        "sound": "cloth", 
+        "textures": "twf:j_84"
+    }, 
+    "twf:j_85": {
+        "sound": "cloth", 
+        "textures": "twf:j_85"
+    }, 
+    "twf:j_86": {
+        "sound": "cloth", 
+        "textures": "twf:j_86"
+    }, 
+    "twf:j_87": {
+        "sound": "cloth", 
+        "textures": "twf:j_87"
+    }, 
+    "twf:j_88": {
+        "sound": "cloth", 
+        "textures": "twf:j_88"
+    }, 
+    "twf:j_89": {
+        "sound": "cloth", 
+        "textures": "twf:j_89"
+    }, 
+    "twf:j_9": {
+        "sound": "cloth", 
+        "textures": "twf:j_9"
+    }, 
+    "twf:j_90": {
+        "sound": "cloth", 
+        "textures": "twf:j_90"
+    }, 
+    "twf:j_91": {
+        "sound": "cloth", 
+        "textures": "twf:j_91"
+    }, 
+    "twf:j_92": {
+        "sound": "cloth", 
+        "textures": "twf:j_92"
+    }, 
+    "twf:j_93": {
+        "sound": "cloth", 
+        "textures": "twf:j_93"
+    }, 
+    "twf:j_94": {
+        "sound": "cloth", 
+        "textures": "twf:j_94"
+    }, 
+    "twf:j_95": {
+        "sound": "cloth", 
+        "textures": "twf:j_95"
+    }, 
+    "twf:j_96": {
+        "sound": "cloth", 
+        "textures": "twf:j_96"
+    }, 
+    "twf:j_97": {
+        "sound": "cloth", 
+        "textures": "twf:j_97"
+    }, 
+    "twf:j_98": {
+        "sound": "cloth", 
+        "textures": "twf:j_98"
+    }, 
+    "twf:j_99": {
+        "sound": "cloth", 
+        "textures": "twf:j_99"
+    }
+}

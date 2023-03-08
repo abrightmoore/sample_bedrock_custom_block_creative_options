@@ -1,0 +1,45 @@
+{
+    "dependencies": [
+        {
+            "uuid": "0c77fb2f-f37c-da3d-e8e4-b49f93a678bb", 
+            "version": [
+                1, 
+                0, 
+                0
+            ]
+        }
+    ], 
+    "format_version": 2, 
+    "header": {
+        "description": "The World Foundry BP", 
+        "min_engine_version": [
+            1, 
+            19, 
+            50
+        ], 
+        "name": "TWF BP", 
+        "uuid": "1aa00b0a-7dc1-865a-dc22-441b6f918f84", 
+        "version": [
+            1, 
+            0, 
+            0
+        ]
+    }, 
+    "metadata": {
+        "authors": [
+            "TheWorldFoundry"
+        ]
+    }, 
+    "modules": [
+        {
+            "description": "Behavior", 
+            "type": "data", 
+            "uuid": "fc2ba5b5-2849-3bdd-cc5e-b828f9df7f17", 
+            "version": [
+                1, 
+                0, 
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3008 @@
+{
+    "num_mip_levels": 4, 
+    "padding": 8, 
+    "resource_pack_name": "vanilla", 
+    "texture_data": {
+        "twf:a_0": {
+            "textures": "textures/blocks/twf_b_a_0"
+        }, 
+        "twf:a_1": {
+            "textures": "textures/blocks/twf_b_a_1"
+        }, 
+        "twf:a_10": {
+            "textures": "textures/blocks/twf_b_a_10"
+        }, 
+        "twf:a_11": {
+            "textures": "textures/blocks/twf_b_a_11"
+        }, 
+        "twf:a_12": {
+            "textures": "textures/blocks/twf_b_a_12"
+        }, 
+        "twf:a_13": {
+            "textures": "textures/blocks/twf_b_a_13"
+        }, 
+        "twf:a_14": {
+            "textures": "textures/blocks/twf_b_a_14"
+        }, 
+        "twf:a_15": {
+            "textures": "textures/blocks/twf_b_a_15"
+        }, 
+        "twf:a_16": {
+            "textures": "textures/blocks/twf_b_a_16"
+        }, 
+        "twf:a_17": {
+            "textures": "textures/blocks/twf_b_a_17"
+        }, 
+        "twf:a_18": {
+            "textures": "textures/blocks/twf_b_a_18"
+        }, 
+        "twf:a_19": {
+            "textures": "textures/blocks/twf_b_a_19"
+        }, 
+        "twf:a_2": {
+            "textures": "textures/blocks/twf_b_a_2"
+        }, 
+        "twf:a_20": {
+            "textures": "textures/blocks/twf_b_a_20"
+        }, 
+        "twf:a_21": {
+            "textures": "textures/blocks/twf_b_a_21"
+        }, 
+        "twf:a_22": {
+            "textures": "textures/blocks/twf_b_a_22"
+        }, 
+        "twf:a_23": {
+            "textures": "textures/blocks/twf_b_a_23"
+        }, 
+        "twf:a_24": {
+            "textures": "textures/blocks/twf_b_a_24"
+        }, 
+        "twf:a_25": {
+            "textures": "textures/blocks/twf_b_a_25"
+        }, 
+        "twf:a_26": {
+            "textures": "textures/blocks/twf_b_a_26"
+        }, 
+        "twf:a_27": {
+            "textures": "textures/blocks/twf_b_a_27"
+        }, 
+        "twf:a_28": {
+            "textures": "textures/blocks/twf_b_a_28"
+        }, 
+        "twf:a_29": {
+            "textures": "textures/blocks/twf_b_a_29"
+        }, 
+        "twf:a_3": {
+            "textures": "textures/blocks/twf_b_a_3"
+        }, 
+        "twf:a_30": {
+            "textures": "textures/blocks/twf_b_a_30"
+        }, 
+        "twf:a_31": {
+            "textures": "textures/blocks/twf_b_a_31"
+        }, 
+        "twf:a_32": {
+            "textures": "textures/blocks/twf_b_a_32"
+        }, 
+        "twf:a_33": {
+            "textures": "textures/blocks/twf_b_a_33"
+        }, 
+        "twf:a_34": {
+            "textures": "textures/blocks/twf_b_a_34"
+        }, 
+        "twf:a_35": {
+            "textures": "textures/blocks/twf_b_a_35"
+        }, 
+        "twf:a_36": {
+            "textures": "textures/blocks/twf_b_a_36"
+        }, 
+        "twf:a_37": {
+            "textures": "textures/blocks/twf_b_a_37"
+        }, 
+        "twf:a_38": {
+            "textures": "textures/blocks/twf_b_a_38"
+        }, 
+        "twf:a_39": {
+            "textures": "textures/blocks/twf_b_a_39"
+        }, 
+        "twf:a_4": {
+            "textures": "textures/blocks/twf_b_a_4"
+        }, 
+        "twf:a_40": {
+            "textures": "textures/blocks/twf_b_a_40"
+        }, 
+        "twf:a_41": {
+            "textures": "textures/blocks/twf_b_a_41"
+        }, 
+        "twf:a_42": {
+            "textures": "textures/blocks/twf_b_a_42"
+        }, 
+        "twf:a_43": {
+            "textures": "textures/blocks/twf_b_a_43"
+        }, 
+        "twf:a_44": {
+            "textures": "textures/blocks/twf_b_a_44"
+        }, 
+        "twf:a_45": {
+            "textures": "textures/blocks/twf_b_a_45"
+        }, 
+        "twf:a_46": {
+            "textures": "textures/blocks/twf_b_a_46"
+        }, 
+        "twf:a_47": {
+            "textures": "textures/blocks/twf_b_a_47"
+        }, 
+        "twf:a_48": {
+            "textures": "textures/blocks/twf_b_a_48"
+        }, 
+        "twf:a_49": {
+            "textures": "textures/blocks/twf_b_a_49"
+        }, 
+        "twf:a_5": {
+            "textures": "textures/blocks/twf_b_a_5"
+        }, 
+        "twf:a_50": {
+            "textures": "textures/blocks/twf_b_a_50"
+        }, 
+        "twf:a_51": {
+            "textures": "textures/blocks/twf_b_a_51"
+        }, 
+        "twf:a_52": {
+            "textures": "textures/blocks/twf_b_a_52"
+        }, 
+        "twf:a_53": {
+            "textures": "textures/blocks/twf_b_a_53"
+        }, 
+        "twf:a_54": {
+            "textures": "textures/blocks/twf_b_a_54"
+        }, 
+        "twf:a_55": {
+            "textures": "textures/blocks/twf_b_a_55"
+        }, 
+        "twf:a_56": {
+            "textures": "textures/blocks/twf_b_a_56"
+        }, 
+        "twf:a_57": {
+            "textures": "textures/blocks/twf_b_a_57"
+        }, 
+        "twf:a_58": {
+            "textures": "textures/blocks/twf_b_a_58"
+        }, 
+        "twf:a_59": {
+            "textures": "textures/blocks/twf_b_a_59"
+        }, 
+        "twf:a_6": {
+            "textures": "textures/blocks/twf_b_a_6"
+        }, 
+        "twf:a_60": {
+            "textures": "textures/blocks/twf_b_a_60"
+        }, 
+        "twf:a_61": {
+            "textures": "textures/blocks/twf_b_a_61"
+        }, 
+        "twf:a_62": {
+            "textures": "textures/blocks/twf_b_a_62"
+        }, 
+        "twf:a_63": {
+            "textures": "textures/blocks/twf_b_a_63"
+        }, 
+        "twf:a_64": {
+            "textures": "textures/blocks/twf_b_a_64"
+        }, 
+        "twf:a_65": {
+            "textures": "textures/blocks/twf_b_a_65"
+        }, 
+        "twf:a_66": {
+            "textures": "textures/blocks/twf_b_a_66"
+        }, 
+        "twf:a_67": {
+            "textures": "textures/blocks/twf_b_a_67"
+        }, 
+        "twf:a_68": {
+            "textures": "textures/blocks/twf_b_a_68"
+        }, 
+        "twf:a_69": {
+            "textures": "textures/blocks/twf_b_a_69"
+        }, 
+        "twf:a_7": {
+            "textures": "textures/blocks/twf_b_a_7"
+        }, 
+        "twf:a_70": {
+            "textures": "textures/blocks/twf_b_a_70"
+        }, 
+        "twf:a_71": {
+            "textures": "textures/blocks/twf_b_a_71"
+        }, 
+        "twf:a_72": {
+            "textures": "textures/blocks/twf_b_a_72"
+        }, 
+        "twf:a_73": {
+            "textures": "textures/blocks/twf_b_a_73"
+        }, 
+        "twf:a_74": {
+            "textures": "textures/blocks/twf_b_a_74"
+        }, 
+        "twf:a_75": {
+            "textures": "textures/blocks/twf_b_a_75"
+        }, 
+        "twf:a_76": {
+            "textures": "textures/blocks/twf_b_a_76"
+        }, 
+        "twf:a_77": {
+            "textures": "textures/blocks/twf_b_a_77"
+        }, 
+        "twf:a_78": {
+            "textures": "textures/blocks/twf_b_a_78"
+        }, 
+        "twf:a_79": {
+            "textures": "textures/blocks/twf_b_a_79"
+        }, 
+        "twf:a_8": {
+            "textures": "textures/blocks/twf_b_a_8"
+        }, 
+        "twf:a_80": {
+            "textures": "textures/blocks/twf_b_a_80"
+        }, 
+        "twf:a_81": {
+            "textures": "textures/blocks/twf_b_a_81"
+        }, 
+        "twf:a_82": {
+            "textures": "textures/blocks/twf_b_a_82"
+        }, 
+        "twf:a_83": {
+            "textures": "textures/blocks/twf_b_a_83"
+        }, 
+        "twf:a_84": {
+            "textures": "textures/blocks/twf_b_a_84"
+        }, 
+        "twf:a_85": {
+            "textures": "textures/blocks/twf_b_a_85"
+        }, 
+        "twf:a_86": {
+            "textures": "textures/blocks/twf_b_a_86"
+        }, 
+        "twf:a_87": {
+            "textures": "textures/blocks/twf_b_a_87"
+        }, 
+        "twf:a_88": {
+            "textures": "textures/blocks/twf_b_a_88"
+        }, 
+        "twf:a_89": {
+            "textures": "textures/blocks/twf_b_a_89"
+        }, 
+        "twf:a_9": {
+            "textures": "textures/blocks/twf_b_a_9"
+        }, 
+        "twf:a_90": {
+            "textures": "textures/blocks/twf_b_a_90"
+        }, 
+        "twf:a_91": {
+            "textures": "textures/blocks/twf_b_a_91"
+        }, 
+        "twf:a_92": {
+            "textures": "textures/blocks/twf_b_a_92"
+        }, 
+        "twf:a_93": {
+            "textures": "textures/blocks/twf_b_a_93"
+        }, 
+        "twf:a_94": {
+            "textures": "textures/blocks/twf_b_a_94"
+        }, 
+        "twf:a_95": {
+            "textures": "textures/blocks/twf_b_a_95"
+        }, 
+        "twf:a_96": {
+            "textures": "textures/blocks/twf_b_a_96"
+        }, 
+        "twf:a_97": {
+            "textures": "textures/blocks/twf_b_a_97"
+        }, 
+        "twf:a_98": {
+            "textures": "textures/blocks/twf_b_a_98"
+        }, 
+        "twf:a_99": {
+            "textures": "textures/blocks/twf_b_a_99"
+        }, 
+        "twf:b_0": {
+            "textures": "textures/blocks/twf_b_b_0"
+        }, 
+        "twf:b_1": {
+            "textures": "textures/blocks/twf_b_b_1"
+        }, 
+        "twf:b_10": {
+            "textures": "textures/blocks/twf_b_b_10"
+        }, 
+        "twf:b_11": {
+            "textures": "textures/blocks/twf_b_b_11"
+        }, 
+        "twf:b_12": {
+            "textures": "textures/blocks/twf_b_b_12"
+        }, 
+        "twf:b_13": {
+            "textures": "textures/blocks/twf_b_b_13"
+        }, 
+        "twf:b_14": {
+            "textures": "textures/blocks/twf_b_b_14"
+        }, 
+        "twf:b_15": {
+            "textures": "textures/blocks/twf_b_b_15"
+        }, 
+        "twf:b_16": {
+            "textures": "textures/blocks/twf_b_b_16"
+        }, 
+        "twf:b_17": {
+            "textures": "textures/blocks/twf_b_b_17"
+        }, 
+        "twf:b_18": {
+            "textures": "textures/blocks/twf_b_b_18"
+        }, 
+        "twf:b_19": {
+            "textures": "textures/blocks/twf_b_b_19"
+        }, 
+        "twf:b_2": {
+            "textures": "textures/blocks/twf_b_b_2"
+        }, 
+        "twf:b_20": {
+            "textures": "textures/blocks/twf_b_b_20"
+        }, 
+        "twf:b_21": {
+            "textures": "textures/blocks/twf_b_b_21"
+        }, 
+        "twf:b_22": {
+            "textures": "textures/blocks/twf_b_b_22"
+        }, 
+        "twf:b_23": {
+            "textures": "textures/blocks/twf_b_b_23"
+        }, 
+        "twf:b_24": {
+            "textures": "textures/blocks/twf_b_b_24"
+        }, 
+        "twf:b_25": {
+            "textures": "textures/blocks/twf_b_b_25"
+        }, 
+        "twf:b_26": {
+            "textures": "textures/blocks/twf_b_b_26"
+        }, 
+        "twf:b_27": {
+            "textures": "textures/blocks/twf_b_b_27"
+        }, 
+        "twf:b_28": {
+            "textures": "textures/blocks/twf_b_b_28"
+        }, 
+        "twf:b_29": {
+            "textures": "textures/blocks/twf_b_b_29"
+        }, 
+        "twf:b_3": {
+            "textures": "textures/blocks/twf_b_b_3"
+        }, 
+        "twf:b_30": {
+            "textures": "textures/blocks/twf_b_b_30"
+        }, 
+        "twf:b_31": {
+            "textures": "textures/blocks/twf_b_b_31"
+        }, 
+        "twf:b_32": {
+            "textures": "textures/blocks/twf_b_b_32"
+        }, 
+        "twf:b_33": {
+            "textures": "textures/blocks/twf_b_b_33"
+        }, 
+        "twf:b_34": {
+            "textures": "textures/blocks/twf_b_b_34"
+        }, 
+        "twf:b_35": {
+            "textures": "textures/blocks/twf_b_b_35"
+        }, 
+        "twf:b_36": {
+            "textures": "textures/blocks/twf_b_b_36"
+        }, 
+        "twf:b_37": {
+            "textures": "textures/blocks/twf_b_b_37"
+        }, 
+        "twf:b_38": {
+            "textures": "textures/blocks/twf_b_b_38"
+        }, 
+        "twf:b_39": {
+            "textures": "textures/blocks/twf_b_b_39"
+        }, 
+        "twf:b_4": {
+            "textures": "textures/blocks/twf_b_b_4"
+        }, 
+        "twf:b_40": {
+            "textures": "textures/blocks/twf_b_b_40"
+        }, 
+        "twf:b_41": {
+            "textures": "textures/blocks/twf_b_b_41"
+        }, 
+        "twf:b_42": {
+            "textures": "textures/blocks/twf_b_b_42"
+        }, 
+        "twf:b_43": {
+            "textures": "textures/blocks/twf_b_b_43"
+        }, 
+        "twf:b_44": {
+            "textures": "textures/blocks/twf_b_b_44"
+        }, 
+        "twf:b_45": {
+            "textures": "textures/blocks/twf_b_b_45"
+        }, 
+        "twf:b_46": {
+            "textures": "textures/blocks/twf_b_b_46"
+        }, 
+        "twf:b_47": {
+            "textures": "textures/blocks/twf_b_b_47"
+        }, 
+        "twf:b_48": {
+            "textures": "textures/blocks/twf_b_b_48"
+        }, 
+        "twf:b_49": {
+            "textures": "textures/blocks/twf_b_b_49"
+        }, 
+        "twf:b_5": {
+            "textures": "textures/blocks/twf_b_b_5"
+        }, 
+        "twf:b_50": {
+            "textures": "textures/blocks/twf_b_b_50"
+        }, 
+        "twf:b_51": {
+            "textures": "textures/blocks/twf_b_b_51"
+        }, 
+        "twf:b_52": {
+            "textures": "textures/blocks/twf_b_b_52"
+        }, 
+        "twf:b_53": {
+            "textures": "textures/blocks/twf_b_b_53"
+        }, 
+        "twf:b_54": {
+            "textures": "textures/blocks/twf_b_b_54"
+        }, 
+        "twf:b_55": {
+            "textures": "textures/blocks/twf_b_b_55"
+        }, 
+        "twf:b_56": {
+            "textures": "textures/blocks/twf_b_b_56"
+        }, 
+        "twf:b_57": {
+            "textures": "textures/blocks/twf_b_b_57"
+        }, 
+        "twf:b_58": {
+            "textures": "textures/blocks/twf_b_b_58"
+        }, 
+        "twf:b_59": {
+            "textures": "textures/blocks/twf_b_b_59"
+        }, 
+        "twf:b_6": {
+            "textures": "textures/blocks/twf_b_b_6"
+        }, 
+        "twf:b_60": {
+            "textures": "textures/blocks/twf_b_b_60"
+        }, 
+        "twf:b_61": {
+            "textures": "textures/blocks/twf_b_b_61"
+        }, 
+        "twf:b_62": {
+            "textures": "textures/blocks/twf_b_b_62"
+        }, 
+        "twf:b_63": {
+            "textures": "textures/blocks/twf_b_b_63"
+        }, 
+        "twf:b_64": {
+            "textures": "textures/blocks/twf_b_b_64"
+        }, 
+        "twf:b_65": {
+            "textures": "textures/blocks/twf_b_b_65"
+        }, 
+        "twf:b_66": {
+            "textures": "textures/blocks/twf_b_b_66"
+        }, 
+        "twf:b_67": {
+            "textures": "textures/blocks/twf_b_b_67"
+        }, 
+        "twf:b_68": {
+            "textures": "textures/blocks/twf_b_b_68"
+        }, 
+        "twf:b_69": {
+            "textures": "textures/blocks/twf_b_b_69"
+        }, 
+        "twf:b_7": {
+            "textures": "textures/blocks/twf_b_b_7"
+        }, 
+        "twf:b_70": {
+            "textures": "textures/blocks/twf_b_b_70"
+        }, 
+        "twf:b_71": {
+            "textures": "textures/blocks/twf_b_b_71"
+        }, 
+        "twf:b_72": {
+            "textures": "textures/blocks/twf_b_b_72"
+        }, 
+        "twf:b_73": {
+            "textures": "textures/blocks/twf_b_b_73"
+        }, 
+        "twf:b_74": {
+            "textures": "textures/blocks/twf_b_b_74"
+        }, 
+        "twf:b_75": {
+            "textures": "textures/blocks/twf_b_b_75"
+        }, 
+        "twf:b_76": {
+            "textures": "textures/blocks/twf_b_b_76"
+        }, 
+        "twf:b_77": {
+            "textures": "textures/blocks/twf_b_b_77"
+        }, 
+        "twf:b_78": {
+            "textures": "textures/blocks/twf_b_b_78"
+        }, 
+        "twf:b_79": {
+            "textures": "textures/blocks/twf_b_b_79"
+        }, 
+        "twf:b_8": {
+            "textures": "textures/blocks/twf_b_b_8"
+        }, 
+        "twf:b_80": {
+            "textures": "textures/blocks/twf_b_b_80"
+        }, 
+        "twf:b_81": {
+            "textures": "textures/blocks/twf_b_b_81"
+        }, 
+        "twf:b_82": {
+            "textures": "textures/blocks/twf_b_b_82"
+        }, 
+        "twf:b_83": {
+            "textures": "textures/blocks/twf_b_b_83"
+        }, 
+        "twf:b_84": {
+            "textures": "textures/blocks/twf_b_b_84"
+        }, 
+        "twf:b_85": {
+            "textures": "textures/blocks/twf_b_b_85"
+        }, 
+        "twf:b_86": {
+            "textures": "textures/blocks/twf_b_b_86"
+        }, 
+        "twf:b_87": {
+            "textures": "textures/blocks/twf_b_b_87"
+        }, 
+        "twf:b_88": {
+            "textures": "textures/blocks/twf_b_b_88"
+        }, 
+        "twf:b_89": {
+            "textures": "textures/blocks/twf_b_b_89"
+        }, 
+        "twf:b_9": {
+            "textures": "textures/blocks/twf_b_b_9"
+        }, 
+        "twf:b_90": {
+            "textures": "textures/blocks/twf_b_b_90"
+        }, 
+        "twf:b_91": {
+            "textures": "textures/blocks/twf_b_b_91"
+        }, 
+        "twf:b_92": {
+            "textures": "textures/blocks/twf_b_b_92"
+        }, 
+        "twf:b_93": {
+            "textures": "textures/blocks/twf_b_b_93"
+        }, 
+        "twf:b_94": {
+            "textures": "textures/blocks/twf_b_b_94"
+        }, 
+        "twf:b_95": {
+            "textures": "textures/blocks/twf_b_b_95"
+        }, 
+        "twf:b_96": {
+            "textures": "textures/blocks/twf_b_b_96"
+        }, 
+        "twf:b_97": {
+            "textures": "textures/blocks/twf_b_b_97"
+        }, 
+        "twf:b_98": {
+            "textures": "textures/blocks/twf_b_b_98"
+        }, 
+        "twf:b_99": {
+            "textures": "textures/blocks/twf_b_b_99"
+        }, 
+        "twf:c_0": {
+            "textures": "textures/blocks/twf_b_c_0"
+        }, 
+        "twf:c_1": {
+            "textures": "textures/blocks/twf_b_c_1"
+        }, 
+        "twf:c_10": {
+            "textures": "textures/blocks/twf_b_c_10"
+        }, 
+        "twf:c_11": {
+            "textures": "textures/blocks/twf_b_c_11"
+        }, 
+        "twf:c_12": {
+            "textures": "textures/blocks/twf_b_c_12"
+        }, 
+        "twf:c_13": {
+            "textures": "textures/blocks/twf_b_c_13"
+        }, 
+        "twf:c_14": {
+            "textures": "textures/blocks/twf_b_c_14"
+        }, 
+        "twf:c_15": {
+            "textures": "textures/blocks/twf_b_c_15"
+        }, 
+        "twf:c_16": {
+            "textures": "textures/blocks/twf_b_c_16"
+        }, 
+        "twf:c_17": {
+            "textures": "textures/blocks/twf_b_c_17"
+        }, 
+        "twf:c_18": {
+            "textures": "textures/blocks/twf_b_c_18"
+        }, 
+        "twf:c_19": {
+            "textures": "textures/blocks/twf_b_c_19"
+        }, 
+        "twf:c_2": {
+            "textures": "textures/blocks/twf_b_c_2"
+        }, 
+        "twf:c_20": {
+            "textures": "textures/blocks/twf_b_c_20"
+        }, 
+        "twf:c_21": {
+            "textures": "textures/blocks/twf_b_c_21"
+        }, 
+        "twf:c_22": {
+            "textures": "textures/blocks/twf_b_c_22"
+        }, 
+        "twf:c_23": {
+            "textures": "textures/blocks/twf_b_c_23"
+        }, 
+        "twf:c_24": {
+            "textures": "textures/blocks/twf_b_c_24"
+        }, 
+        "twf:c_25": {
+            "textures": "textures/blocks/twf_b_c_25"
+        }, 
+        "twf:c_26": {
+            "textures": "textures/blocks/twf_b_c_26"
+        }, 
+        "twf:c_27": {
+            "textures": "textures/blocks/twf_b_c_27"
+        }, 
+        "twf:c_28": {
+            "textures": "textures/blocks/twf_b_c_28"
+        }, 
+        "twf:c_29": {
+            "textures": "textures/blocks/twf_b_c_29"
+        }, 
+        "twf:c_3": {
+            "textures": "textures/blocks/twf_b_c_3"
+        }, 
+        "twf:c_30": {
+            "textures": "textures/blocks/twf_b_c_30"
+        }, 
+        "twf:c_31": {
+            "textures": "textures/blocks/twf_b_c_31"
+        }, 
+        "twf:c_32": {
+            "textures": "textures/blocks/twf_b_c_32"
+        }, 
+        "twf:c_33": {
+            "textures": "textures/blocks/twf_b_c_33"
+        }, 
+        "twf:c_34": {
+            "textures": "textures/blocks/twf_b_c_34"
+        }, 
+        "twf:c_35": {
+            "textures": "textures/blocks/twf_b_c_35"
+        }, 
+        "twf:c_36": {
+            "textures": "textures/blocks/twf_b_c_36"
+        }, 
+        "twf:c_37": {
+            "textures": "textures/blocks/twf_b_c_37"
+        }, 
+        "twf:c_38": {
+            "textures": "textures/blocks/twf_b_c_38"
+        }, 
+        "twf:c_39": {
+            "textures": "textures/blocks/twf_b_c_39"
+        }, 
+        "twf:c_4": {
+            "textures": "textures/blocks/twf_b_c_4"
+        }, 
+        "twf:c_40": {
+            "textures": "textures/blocks/twf_b_c_40"
+        }, 
+        "twf:c_41": {
+            "textures": "textures/blocks/twf_b_c_41"
+        }, 
+        "twf:c_42": {
+            "textures": "textures/blocks/twf_b_c_42"
+        }, 
+        "twf:c_43": {
+            "textures": "textures/blocks/twf_b_c_43"
+        }, 
+        "twf:c_44": {
+            "textures": "textures/blocks/twf_b_c_44"
+        }, 
+        "twf:c_45": {
+            "textures": "textures/blocks/twf_b_c_45"
+        }, 
+        "twf:c_46": {
+            "textures": "textures/blocks/twf_b_c_46"
+        }, 
+        "twf:c_47": {
+            "textures": "textures/blocks/twf_b_c_47"
+        }, 
+        "twf:c_48": {
+            "textures": "textures/blocks/twf_b_c_48"
+        }, 
+        "twf:c_49": {
+            "textures": "textures/blocks/twf_b_c_49"
+        }, 
+        "twf:c_5": {
+            "textures": "textures/blocks/twf_b_c_5"
+        }, 
+        "twf:c_50": {
+            "textures": "textures/blocks/twf_b_c_50"
+        }, 
+        "twf:c_51": {
+            "textures": "textures/blocks/twf_b_c_51"
+        }, 
+        "twf:c_52": {
+            "textures": "textures/blocks/twf_b_c_52"
+        }, 
+        "twf:c_53": {
+            "textures": "textures/blocks/twf_b_c_53"
+        }, 
+        "twf:c_54": {
+            "textures": "textures/blocks/twf_b_c_54"
+        }, 
+        "twf:c_55": {
+            "textures": "textures/blocks/twf_b_c_55"
+        }, 
+        "twf:c_56": {
+            "textures": "textures/blocks/twf_b_c_56"
+        }, 
+        "twf:c_57": {
+            "textures": "textures/blocks/twf_b_c_57"
+        }, 
+        "twf:c_58": {
+            "textures": "textures/blocks/twf_b_c_58"
+        }, 
+        "twf:c_59": {
+            "textures": "textures/blocks/twf_b_c_59"
+        }, 
+        "twf:c_6": {
+            "textures": "textures/blocks/twf_b_c_6"
+        }, 
+        "twf:c_60": {
+            "textures": "textures/blocks/twf_b_c_60"
+        }, 
+        "twf:c_61": {
+            "textures": "textures/blocks/twf_b_c_61"
+        }, 
+        "twf:c_62": {
+            "textures": "textures/blocks/twf_b_c_62"
+        }, 
+        "twf:c_63": {
+            "textures": "textures/blocks/twf_b_c_63"
+        }, 
+        "twf:c_64": {
+            "textures": "textures/blocks/twf_b_c_64"
+        }, 
+        "twf:c_65": {
+            "textures": "textures/blocks/twf_b_c_65"
+        }, 
+        "twf:c_66": {
+            "textures": "textures/blocks/twf_b_c_66"
+        }, 
+        "twf:c_67": {
+            "textures": "textures/blocks/twf_b_c_67"
+        }, 
+        "twf:c_68": {
+            "textures": "textures/blocks/twf_b_c_68"
+        }, 
+        "twf:c_69": {
+            "textures": "textures/blocks/twf_b_c_69"
+        }, 
+        "twf:c_7": {
+            "textures": "textures/blocks/twf_b_c_7"
+        }, 
+        "twf:c_70": {
+            "textures": "textures/blocks/twf_b_c_70"
+        }, 
+        "twf:c_71": {
+            "textures": "textures/blocks/twf_b_c_71"
+        }, 
+        "twf:c_72": {
+            "textures": "textures/blocks/twf_b_c_72"
+        }, 
+        "twf:c_73": {
+            "textures": "textures/blocks/twf_b_c_73"
+        }, 
+        "twf:c_74": {
+            "textures": "textures/blocks/twf_b_c_74"
+        }, 
+        "twf:c_75": {
+            "textures": "textures/blocks/twf_b_c_75"
+        }, 
+        "twf:c_76": {
+            "textures": "textures/blocks/twf_b_c_76"
+        }, 
+        "twf:c_77": {
+            "textures": "textures/blocks/twf_b_c_77"
+        }, 
+        "twf:c_78": {
+            "textures": "textures/blocks/twf_b_c_78"
+        }, 
+        "twf:c_79": {
+            "textures": "textures/blocks/twf_b_c_79"
+        }, 
+        "twf:c_8": {
+            "textures": "textures/blocks/twf_b_c_8"
+        }, 
+        "twf:c_80": {
+            "textures": "textures/blocks/twf_b_c_80"
+        }, 
+        "twf:c_81": {
+            "textures": "textures/blocks/twf_b_c_81"
+        }, 
+        "twf:c_82": {
+            "textures": "textures/blocks/twf_b_c_82"
+        }, 
+        "twf:c_83": {
+            "textures": "textures/blocks/twf_b_c_83"
+        }, 
+        "twf:c_84": {
+            "textures": "textures/blocks/twf_b_c_84"
+        }, 
+        "twf:c_85": {
+            "textures": "textures/blocks/twf_b_c_85"
+        }, 
+        "twf:c_86": {
+            "textures": "textures/blocks/twf_b_c_86"
+        }, 
+        "twf:c_87": {
+            "textures": "textures/blocks/twf_b_c_87"
+        }, 
+        "twf:c_88": {
+            "textures": "textures/blocks/twf_b_c_88"
+        }, 
+        "twf:c_89": {
+            "textures": "textures/blocks/twf_b_c_89"
+        }, 
+        "twf:c_9": {
+            "textures": "textures/blocks/twf_b_c_9"
+        }, 
+        "twf:c_90": {
+            "textures": "textures/blocks/twf_b_c_90"
+        }, 
+        "twf:c_91": {
+            "textures": "textures/blocks/twf_b_c_91"
+        }, 
+        "twf:c_92": {
+            "textures": "textures/blocks/twf_b_c_92"
+        }, 
+        "twf:c_93": {
+            "textures": "textures/blocks/twf_b_c_93"
+        }, 
+        "twf:c_94": {
+            "textures": "textures/blocks/twf_b_c_94"
+        }, 
+        "twf:c_95": {
+            "textures": "textures/blocks/twf_b_c_95"
+        }, 
+        "twf:c_96": {
+            "textures": "textures/blocks/twf_b_c_96"
+        }, 
+        "twf:c_97": {
+            "textures": "textures/blocks/twf_b_c_97"
+        }, 
+        "twf:c_98": {
+            "textures": "textures/blocks/twf_b_c_98"
+        }, 
+        "twf:c_99": {
+            "textures": "textures/blocks/twf_b_c_99"
+        }, 
+        "twf:d_0": {
+            "textures": "textures/blocks/twf_b_d_0"
+        }, 
+        "twf:d_1": {
+            "textures": "textures/blocks/twf_b_d_1"
+        }, 
+        "twf:d_10": {
+            "textures": "textures/blocks/twf_b_d_10"
+        }, 
+        "twf:d_11": {
+            "textures": "textures/blocks/twf_b_d_11"
+        }, 
+        "twf:d_12": {
+            "textures": "textures/blocks/twf_b_d_12"
+        }, 
+        "twf:d_13": {
+            "textures": "textures/blocks/twf_b_d_13"
+        }, 
+        "twf:d_14": {
+            "textures": "textures/blocks/twf_b_d_14"
+        }, 
+        "twf:d_15": {
+            "textures": "textures/blocks/twf_b_d_15"
+        }, 
+        "twf:d_16": {
+            "textures": "textures/blocks/twf_b_d_16"
+        }, 
+        "twf:d_17": {
+            "textures": "textures/blocks/twf_b_d_17"
+        }, 
+        "twf:d_18": {
+            "textures": "textures/blocks/twf_b_d_18"
+        }, 
+        "twf:d_19": {
+            "textures": "textures/blocks/twf_b_d_19"
+        }, 
+        "twf:d_2": {
+            "textures": "textures/blocks/twf_b_d_2"
+        }, 
+        "twf:d_20": {
+            "textures": "textures/blocks/twf_b_d_20"
+        }, 
+        "twf:d_21": {
+            "textures": "textures/blocks/twf_b_d_21"
+        }, 
+        "twf:d_22": {
+            "textures": "textures/blocks/twf_b_d_22"
+        }, 
+        "twf:d_23": {
+            "textures": "textures/blocks/twf_b_d_23"
+        }, 
+        "twf:d_24": {
+            "textures": "textures/blocks/twf_b_d_24"
+        }, 
+        "twf:d_25": {
+            "textures": "textures/blocks/twf_b_d_25"
+        }, 
+        "twf:d_26": {
+            "textures": "textures/blocks/twf_b_d_26"
+        }, 
+        "twf:d_27": {
+            "textures": "textures/blocks/twf_b_d_27"
+        }, 
+        "twf:d_28": {
+            "textures": "textures/blocks/twf_b_d_28"
+        }, 
+        "twf:d_29": {
+            "textures": "textures/blocks/twf_b_d_29"
+        }, 
+        "twf:d_3": {
+            "textures": "textures/blocks/twf_b_d_3"
+        }, 
+        "twf:d_30": {
+            "textures": "textures/blocks/twf_b_d_30"
+        }, 
+        "twf:d_31": {
+            "textures": "textures/blocks/twf_b_d_31"
+        }, 
+        "twf:d_32": {
+            "textures": "textures/blocks/twf_b_d_32"
+        }, 
+        "twf:d_33": {
+            "textures": "textures/blocks/twf_b_d_33"
+        }, 
+        "twf:d_34": {
+            "textures": "textures/blocks/twf_b_d_34"
+        }, 
+        "twf:d_35": {
+            "textures": "textures/blocks/twf_b_d_35"
+        }, 
+        "twf:d_36": {
+            "textures": "textures/blocks/twf_b_d_36"
+        }, 
+        "twf:d_37": {
+            "textures": "textures/blocks/twf_b_d_37"
+        }, 
+        "twf:d_38": {
+            "textures": "textures/blocks/twf_b_d_38"
+        }, 
+        "twf:d_39": {
+            "textures": "textures/blocks/twf_b_d_39"
+        }, 
+        "twf:d_4": {
+            "textures": "textures/blocks/twf_b_d_4"
+        }, 
+        "twf:d_40": {
+            "textures": "textures/blocks/twf_b_d_40"
+        }, 
+        "twf:d_41": {
+            "textures": "textures/blocks/twf_b_d_41"
+        }, 
+        "twf:d_42": {
+            "textures": "textures/blocks/twf_b_d_42"
+        }, 
+        "twf:d_43": {
+            "textures": "textures/blocks/twf_b_d_43"
+        }, 
+        "twf:d_44": {
+            "textures": "textures/blocks/twf_b_d_44"
+        }, 
+        "twf:d_45": {
+            "textures": "textures/blocks/twf_b_d_45"
+        }, 
+        "twf:d_46": {
+            "textures": "textures/blocks/twf_b_d_46"
+        }, 
+        "twf:d_47": {
+            "textures": "textures/blocks/twf_b_d_47"
+        }, 
+        "twf:d_48": {
+            "textures": "textures/blocks/twf_b_d_48"
+        }, 
+        "twf:d_49": {
+            "textures": "textures/blocks/twf_b_d_49"
+        }, 
+        "twf:d_5": {
+            "textures": "textures/blocks/twf_b_d_5"
+        }, 
+        "twf:d_50": {
+            "textures": "textures/blocks/twf_b_d_50"
+        }, 
+        "twf:d_51": {
+            "textures": "textures/blocks/twf_b_d_51"
+        }, 
+        "twf:d_52": {
+            "textures": "textures/blocks/twf_b_d_52"
+        }, 
+        "twf:d_53": {
+            "textures": "textures/blocks/twf_b_d_53"
+        }, 
+        "twf:d_54": {
+            "textures": "textures/blocks/twf_b_d_54"
+        }, 
+        "twf:d_55": {
+            "textures": "textures/blocks/twf_b_d_55"
+        }, 
+        "twf:d_56": {
+            "textures": "textures/blocks/twf_b_d_56"
+        }, 
+        "twf:d_57": {
+            "textures": "textures/blocks/twf_b_d_57"
+        }, 
+        "twf:d_58": {
+            "textures": "textures/blocks/twf_b_d_58"
+        }, 
+        "twf:d_59": {
+            "textures": "textures/blocks/twf_b_d_59"
+        }, 
+        "twf:d_6": {
+            "textures": "textures/blocks/twf_b_d_6"
+        }, 
+        "twf:d_60": {
+            "textures": "textures/blocks/twf_b_d_60"
+        }, 
+        "twf:d_61": {
+            "textures": "textures/blocks/twf_b_d_61"
+        }, 
+        "twf:d_62": {
+            "textures": "textures/blocks/twf_b_d_62"
+        }, 
+        "twf:d_63": {
+            "textures": "textures/blocks/twf_b_d_63"
+        }, 
+        "twf:d_64": {
+            "textures": "textures/blocks/twf_b_d_64"
+        }, 
+        "twf:d_65": {
+            "textures": "textures/blocks/twf_b_d_65"
+        }, 
+        "twf:d_66": {
+            "textures": "textures/blocks/twf_b_d_66"
+        }, 
+        "twf:d_67": {
+            "textures": "textures/blocks/twf_b_d_67"
+        }, 
+        "twf:d_68": {
+            "textures": "textures/blocks/twf_b_d_68"
+        }, 
+        "twf:d_69": {
+            "textures": "textures/blocks/twf_b_d_69"
+        }, 
+        "twf:d_7": {
+            "textures": "textures/blocks/twf_b_d_7"
+        }, 
+        "twf:d_70": {
+            "textures": "textures/blocks/twf_b_d_70"
+        }, 
+        "twf:d_71": {
+            "textures": "textures/blocks/twf_b_d_71"
+        }, 
+        "twf:d_72": {
+            "textures": "textures/blocks/twf_b_d_72"
+        }, 
+        "twf:d_73": {
+            "textures": "textures/blocks/twf_b_d_73"
+        }, 
+        "twf:d_74": {
+            "textures": "textures/blocks/twf_b_d_74"
+        }, 
+        "twf:d_75": {
+            "textures": "textures/blocks/twf_b_d_75"
+        }, 
+        "twf:d_76": {
+            "textures": "textures/blocks/twf_b_d_76"
+        }, 
+        "twf:d_77": {
+            "textures": "textures/blocks/twf_b_d_77"
+        }, 
+        "twf:d_78": {
+            "textures": "textures/blocks/twf_b_d_78"
+        }, 
+        "twf:d_79": {
+            "textures": "textures/blocks/twf_b_d_79"
+        }, 
+        "twf:d_8": {
+            "textures": "textures/blocks/twf_b_d_8"
+        }, 
+        "twf:d_80": {
+            "textures": "textures/blocks/twf_b_d_80"
+        }, 
+        "twf:d_81": {
+            "textures": "textures/blocks/twf_b_d_81"
+        }, 
+        "twf:d_82": {
+            "textures": "textures/blocks/twf_b_d_82"
+        }, 
+        "twf:d_83": {
+            "textures": "textures/blocks/twf_b_d_83"
+        }, 
+        "twf:d_84": {
+            "textures": "textures/blocks/twf_b_d_84"
+        }, 
+        "twf:d_85": {
+            "textures": "textures/blocks/twf_b_d_85"
+        }, 
+        "twf:d_86": {
+            "textures": "textures/blocks/twf_b_d_86"
+        }, 
+        "twf:d_87": {
+            "textures": "textures/blocks/twf_b_d_87"
+        }, 
+        "twf:d_88": {
+            "textures": "textures/blocks/twf_b_d_88"
+        }, 
+        "twf:d_89": {
+            "textures": "textures/blocks/twf_b_d_89"
+        }, 
+        "twf:d_9": {
+            "textures": "textures/blocks/twf_b_d_9"
+        }, 
+        "twf:d_90": {
+            "textures": "textures/blocks/twf_b_d_90"
+        }, 
+        "twf:d_91": {
+            "textures": "textures/blocks/twf_b_d_91"
+        }, 
+        "twf:d_92": {
+            "textures": "textures/blocks/twf_b_d_92"
+        }, 
+        "twf:d_93": {
+            "textures": "textures/blocks/twf_b_d_93"
+        }, 
+        "twf:d_94": {
+            "textures": "textures/blocks/twf_b_d_94"
+        }, 
+        "twf:d_95": {
+            "textures": "textures/blocks/twf_b_d_95"
+        }, 
+        "twf:d_96": {
+            "textures": "textures/blocks/twf_b_d_96"
+        }, 
+        "twf:d_97": {
+            "textures": "textures/blocks/twf_b_d_97"
+        }, 
+        "twf:d_98": {
+            "textures": "textures/blocks/twf_b_d_98"
+        }, 
+        "twf:d_99": {
+            "textures": "textures/blocks/twf_b_d_99"
+        }, 
+        "twf:e_0": {
+            "textures": "textures/blocks/twf_b_e_0"
+        }, 
+        "twf:e_1": {
+            "textures": "textures/blocks/twf_b_e_1"
+        }, 
+        "twf:e_10": {
+            "textures": "textures/blocks/twf_b_e_10"
+        }, 
+        "twf:e_11": {
+            "textures": "textures/blocks/twf_b_e_11"
+        }, 
+        "twf:e_12": {
+            "textures": "textures/blocks/twf_b_e_12"
+        }, 
+        "twf:e_13": {
+            "textures": "textures/blocks/twf_b_e_13"
+        }, 
+        "twf:e_14": {
+            "textures": "textures/blocks/twf_b_e_14"
+        }, 
+        "twf:e_15": {
+            "textures": "textures/blocks/twf_b_e_15"
+        }, 
+        "twf:e_16": {
+            "textures": "textures/blocks/twf_b_e_16"
+        }, 
+        "twf:e_17": {
+            "textures": "textures/blocks/twf_b_e_17"
+        }, 
+        "twf:e_18": {
+            "textures": "textures/blocks/twf_b_e_18"
+        }, 
+        "twf:e_19": {
+            "textures": "textures/blocks/twf_b_e_19"
+        }, 
+        "twf:e_2": {
+            "textures": "textures/blocks/twf_b_e_2"
+        }, 
+        "twf:e_20": {
+            "textures": "textures/blocks/twf_b_e_20"
+        }, 
+        "twf:e_21": {
+            "textures": "textures/blocks/twf_b_e_21"
+        }, 
+        "twf:e_22": {
+            "textures": "textures/blocks/twf_b_e_22"
+        }, 
+        "twf:e_23": {
+            "textures": "textures/blocks/twf_b_e_23"
+        }, 
+        "twf:e_24": {
+            "textures": "textures/blocks/twf_b_e_24"
+        }, 
+        "twf:e_25": {
+            "textures": "textures/blocks/twf_b_e_25"
+        }, 
+        "twf:e_26": {
+            "textures": "textures/blocks/twf_b_e_26"
+        }, 
+        "twf:e_27": {
+            "textures": "textures/blocks/twf_b_e_27"
+        }, 
+        "twf:e_28": {
+            "textures": "textures/blocks/twf_b_e_28"
+        }, 
+        "twf:e_29": {
+            "textures": "textures/blocks/twf_b_e_29"
+        }, 
+        "twf:e_3": {
+            "textures": "textures/blocks/twf_b_e_3"
+        }, 
+        "twf:e_30": {
+            "textures": "textures/blocks/twf_b_e_30"
+        }, 
+        "twf:e_31": {
+            "textures": "textures/blocks/twf_b_e_31"
+        }, 
+        "twf:e_32": {
+            "textures": "textures/blocks/twf_b_e_32"
+        }, 
+        "twf:e_33": {
+            "textures": "textures/blocks/twf_b_e_33"
+        }, 
+        "twf:e_34": {
+            "textures": "textures/blocks/twf_b_e_34"
+        }, 
+        "twf:e_35": {
+            "textures": "textures/blocks/twf_b_e_35"
+        }, 
+        "twf:e_36": {
+            "textures": "textures/blocks/twf_b_e_36"
+        }, 
+        "twf:e_37": {
+            "textures": "textures/blocks/twf_b_e_37"
+        }, 
+        "twf:e_38": {
+            "textures": "textures/blocks/twf_b_e_38"
+        }, 
+        "twf:e_39": {
+            "textures": "textures/blocks/twf_b_e_39"
+        }, 
+        "twf:e_4": {
+            "textures": "textures/blocks/twf_b_e_4"
+        }, 
+        "twf:e_40": {
+            "textures": "textures/blocks/twf_b_e_40"
+        }, 
+        "twf:e_41": {
+            "textures": "textures/blocks/twf_b_e_41"
+        }, 
+        "twf:e_42": {
+            "textures": "textures/blocks/twf_b_e_42"
+        }, 
+        "twf:e_43": {
+            "textures": "textures/blocks/twf_b_e_43"
+        }, 
+        "twf:e_44": {
+            "textures": "textures/blocks/twf_b_e_44"
+        }, 
+        "twf:e_45": {
+            "textures": "textures/blocks/twf_b_e_45"
+        }, 
+        "twf:e_46": {
+            "textures": "textures/blocks/twf_b_e_46"
+        }, 
+        "twf:e_47": {
+            "textures": "textures/blocks/twf_b_e_47"
+        }, 
+        "twf:e_48": {
+            "textures": "textures/blocks/twf_b_e_48"
+        }, 
+        "twf:e_49": {
+            "textures": "textures/blocks/twf_b_e_49"
+        }, 
+        "twf:e_5": {
+            "textures": "textures/blocks/twf_b_e_5"
+        }, 
+        "twf:e_50": {
+            "textures": "textures/blocks/twf_b_e_50"
+        }, 
+        "twf:e_51": {
+            "textures": "textures/blocks/twf_b_e_51"
+        }, 
+        "twf:e_52": {
+            "textures": "textures/blocks/twf_b_e_52"
+        }, 
+        "twf:e_53": {
+            "textures": "textures/blocks/twf_b_e_53"
+        }, 
+        "twf:e_54": {
+            "textures": "textures/blocks/twf_b_e_54"
+        }, 
+        "twf:e_55": {
+            "textures": "textures/blocks/twf_b_e_55"
+        }, 
+        "twf:e_56": {
+            "textures": "textures/blocks/twf_b_e_56"
+        }, 
+        "twf:e_57": {
+            "textures": "textures/blocks/twf_b_e_57"
+        }, 
+        "twf:e_58": {
+            "textures": "textures/blocks/twf_b_e_58"
+        }, 
+        "twf:e_59": {
+            "textures": "textures/blocks/twf_b_e_59"
+        }, 
+        "twf:e_6": {
+            "textures": "textures/blocks/twf_b_e_6"
+        }, 
+        "twf:e_60": {
+            "textures": "textures/blocks/twf_b_e_60"
+        }, 
+        "twf:e_61": {
+            "textures": "textures/blocks/twf_b_e_61"
+        }, 
+        "twf:e_62": {
+            "textures": "textures/blocks/twf_b_e_62"
+        }, 
+        "twf:e_63": {
+            "textures": "textures/blocks/twf_b_e_63"
+        }, 
+        "twf:e_64": {
+            "textures": "textures/blocks/twf_b_e_64"
+        }, 
+        "twf:e_65": {
+            "textures": "textures/blocks/twf_b_e_65"
+        }, 
+        "twf:e_66": {
+            "textures": "textures/blocks/twf_b_e_66"
+        }, 
+        "twf:e_67": {
+            "textures": "textures/blocks/twf_b_e_67"
+        }, 
+        "twf:e_68": {
+            "textures": "textures/blocks/twf_b_e_68"
+        }, 
+        "twf:e_69": {
+            "textures": "textures/blocks/twf_b_e_69"
+        }, 
+        "twf:e_7": {
+            "textures": "textures/blocks/twf_b_e_7"
+        }, 
+        "twf:e_70": {
+            "textures": "textures/blocks/twf_b_e_70"
+        }, 
+        "twf:e_71": {
+            "textures": "textures/blocks/twf_b_e_71"
+        }, 
+        "twf:e_72": {
+            "textures": "textures/blocks/twf_b_e_72"
+        }, 
+        "twf:e_73": {
+            "textures": "textures/blocks/twf_b_e_73"
+        }, 
+        "twf:e_74": {
+            "textures": "textures/blocks/twf_b_e_74"
+        }, 
+        "twf:e_75": {
+            "textures": "textures/blocks/twf_b_e_75"
+        }, 
+        "twf:e_76": {
+            "textures": "textures/blocks/twf_b_e_76"
+        }, 
+        "twf:e_77": {
+            "textures": "textures/blocks/twf_b_e_77"
+        }, 
+        "twf:e_78": {
+            "textures": "textures/blocks/twf_b_e_78"
+        }, 
+        "twf:e_79": {
+            "textures": "textures/blocks/twf_b_e_79"
+        }, 
+        "twf:e_8": {
+            "textures": "textures/blocks/twf_b_e_8"
+        }, 
+        "twf:e_80": {
+            "textures": "textures/blocks/twf_b_e_80"
+        }, 
+        "twf:e_81": {
+            "textures": "textures/blocks/twf_b_e_81"
+        }, 
+        "twf:e_82": {
+            "textures": "textures/blocks/twf_b_e_82"
+        }, 
+        "twf:e_83": {
+            "textures": "textures/blocks/twf_b_e_83"
+        }, 
+        "twf:e_84": {
+            "textures": "textures/blocks/twf_b_e_84"
+        }, 
+        "twf:e_85": {
+            "textures": "textures/blocks/twf_b_e_85"
+        }, 
+        "twf:e_86": {
+            "textures": "textures/blocks/twf_b_e_86"
+        }, 
+        "twf:e_87": {
+            "textures": "textures/blocks/twf_b_e_87"
+        }, 
+        "twf:e_88": {
+            "textures": "textures/blocks/twf_b_e_88"
+        }, 
+        "twf:e_89": {
+            "textures": "textures/blocks/twf_b_e_89"
+        }, 
+        "twf:e_9": {
+            "textures": "textures/blocks/twf_b_e_9"
+        }, 
+        "twf:e_90": {
+            "textures": "textures/blocks/twf_b_e_90"
+        }, 
+        "twf:e_91": {
+            "textures": "textures/blocks/twf_b_e_91"
+        }, 
+        "twf:e_92": {
+            "textures": "textures/blocks/twf_b_e_92"
+        }, 
+        "twf:e_93": {
+            "textures": "textures/blocks/twf_b_e_93"
+        }, 
+        "twf:e_94": {
+            "textures": "textures/blocks/twf_b_e_94"
+        }, 
+        "twf:e_95": {
+            "textures": "textures/blocks/twf_b_e_95"
+        }, 
+        "twf:e_96": {
+            "textures": "textures/blocks/twf_b_e_96"
+        }, 
+        "twf:e_97": {
+            "textures": "textures/blocks/twf_b_e_97"
+        }, 
+        "twf:e_98": {
+            "textures": "textures/blocks/twf_b_e_98"
+        }, 
+        "twf:e_99": {
+            "textures": "textures/blocks/twf_b_e_99"
+        }, 
+        "twf:f_0": {
+            "textures": "textures/blocks/twf_b_f_0"
+        }, 
+        "twf:f_1": {
+            "textures": "textures/blocks/twf_b_f_1"
+        }, 
+        "twf:f_10": {
+            "textures": "textures/blocks/twf_b_f_10"
+        }, 
+        "twf:f_11": {
+            "textures": "textures/blocks/twf_b_f_11"
+        }, 
+        "twf:f_12": {
+            "textures": "textures/blocks/twf_b_f_12"
+        }, 
+        "twf:f_13": {
+            "textures": "textures/blocks/twf_b_f_13"
+        }, 
+        "twf:f_14": {
+            "textures": "textures/blocks/twf_b_f_14"
+        }, 
+        "twf:f_15": {
+            "textures": "textures/blocks/twf_b_f_15"
+        }, 
+        "twf:f_16": {
+            "textures": "textures/blocks/twf_b_f_16"
+        }, 
+        "twf:f_17": {
+            "textures": "textures/blocks/twf_b_f_17"
+        }, 
+        "twf:f_18": {
+            "textures": "textures/blocks/twf_b_f_18"
+        }, 
+        "twf:f_19": {
+            "textures": "textures/blocks/twf_b_f_19"
+        }, 
+        "twf:f_2": {
+            "textures": "textures/blocks/twf_b_f_2"
+        }, 
+        "twf:f_20": {
+            "textures": "textures/blocks/twf_b_f_20"
+        }, 
+        "twf:f_21": {
+            "textures": "textures/blocks/twf_b_f_21"
+        }, 
+        "twf:f_22": {
+            "textures": "textures/blocks/twf_b_f_22"
+        }, 
+        "twf:f_23": {
+            "textures": "textures/blocks/twf_b_f_23"
+        }, 
+        "twf:f_24": {
+            "textures": "textures/blocks/twf_b_f_24"
+        }, 
+        "twf:f_25": {
+            "textures": "textures/blocks/twf_b_f_25"
+        }, 
+        "twf:f_26": {
+            "textures": "textures/blocks/twf_b_f_26"
+        }, 
+        "twf:f_27": {
+            "textures": "textures/blocks/twf_b_f_27"
+        }, 
+        "twf:f_28": {
+            "textures": "textures/blocks/twf_b_f_28"
+        }, 
+        "twf:f_29": {
+            "textures": "textures/blocks/twf_b_f_29"
+        }, 
+        "twf:f_3": {
+            "textures": "textures/blocks/twf_b_f_3"
+        }, 
+        "twf:f_30": {
+            "textures": "textures/blocks/twf_b_f_30"
+        }, 
+        "twf:f_31": {
+            "textures": "textures/blocks/twf_b_f_31"
+        }, 
+        "twf:f_32": {
+            "textures": "textures/blocks/twf_b_f_32"
+        }, 
+        "twf:f_33": {
+            "textures": "textures/blocks/twf_b_f_33"
+        }, 
+        "twf:f_34": {
+            "textures": "textures/blocks/twf_b_f_34"
+        }, 
+        "twf:f_35": {
+            "textures": "textures/blocks/twf_b_f_35"
+        }, 
+        "twf:f_36": {
+            "textures": "textures/blocks/twf_b_f_36"
+        }, 
+        "twf:f_37": {
+            "textures": "textures/blocks/twf_b_f_37"
+        }, 
+        "twf:f_38": {
+            "textures": "textures/blocks/twf_b_f_38"
+        }, 
+        "twf:f_39": {
+            "textures": "textures/blocks/twf_b_f_39"
+        }, 
+        "twf:f_4": {
+            "textures": "textures/blocks/twf_b_f_4"
+        }, 
+        "twf:f_40": {
+            "textures": "textures/blocks/twf_b_f_40"
+        }, 
+        "twf:f_41": {
+            "textures": "textures/blocks/twf_b_f_41"
+        }, 
+        "twf:f_42": {
+            "textures": "textures/blocks/twf_b_f_42"
+        }, 
+        "twf:f_43": {
+            "textures": "textures/blocks/twf_b_f_43"
+        }, 
+        "twf:f_44": {
+            "textures": "textures/blocks/twf_b_f_44"
+        }, 
+        "twf:f_45": {
+            "textures": "textures/blocks/twf_b_f_45"
+        }, 
+        "twf:f_46": {
+            "textures": "textures/blocks/twf_b_f_46"
+        }, 
+        "twf:f_47": {
+            "textures": "textures/blocks/twf_b_f_47"
+        }, 
+        "twf:f_48": {
+            "textures": "textures/blocks/twf_b_f_48"
+        }, 
+        "twf:f_49": {
+            "textures": "textures/blocks/twf_b_f_49"
+        }, 
+        "twf:f_5": {
+            "textures": "textures/blocks/twf_b_f_5"
+        }, 
+        "twf:f_50": {
+            "textures": "textures/blocks/twf_b_f_50"
+        }, 
+        "twf:f_51": {
+            "textures": "textures/blocks/twf_b_f_51"
+        }, 
+        "twf:f_52": {
+            "textures": "textures/blocks/twf_b_f_52"
+        }, 
+        "twf:f_53": {
+            "textures": "textures/blocks/twf_b_f_53"
+        }, 
+        "twf:f_54": {
+            "textures": "textures/blocks/twf_b_f_54"
+        }, 
+        "twf:f_55": {
+            "textures": "textures/blocks/twf_b_f_55"
+        }, 
+        "twf:f_56": {
+            "textures": "textures/blocks/twf_b_f_56"
+        }, 
+        "twf:f_57": {
+            "textures": "textures/blocks/twf_b_f_57"
+        }, 
+        "twf:f_58": {
+            "textures": "textures/blocks/twf_b_f_58"
+        }, 
+        "twf:f_59": {
+            "textures": "textures/blocks/twf_b_f_59"
+        }, 
+        "twf:f_6": {
+            "textures": "textures/blocks/twf_b_f_6"
+        }, 
+        "twf:f_60": {
+            "textures": "textures/blocks/twf_b_f_60"
+        }, 
+        "twf:f_61": {
+            "textures": "textures/blocks/twf_b_f_61"
+        }, 
+        "twf:f_62": {
+            "textures": "textures/blocks/twf_b_f_62"
+        }, 
+        "twf:f_63": {
+            "textures": "textures/blocks/twf_b_f_63"
+        }, 
+        "twf:f_64": {
+            "textures": "textures/blocks/twf_b_f_64"
+        }, 
+        "twf:f_65": {
+            "textures": "textures/blocks/twf_b_f_65"
+        }, 
+        "twf:f_66": {
+            "textures": "textures/blocks/twf_b_f_66"
+        }, 
+        "twf:f_67": {
+            "textures": "textures/blocks/twf_b_f_67"
+        }, 
+        "twf:f_68": {
+            "textures": "textures/blocks/twf_b_f_68"
+        }, 
+        "twf:f_69": {
+            "textures": "textures/blocks/twf_b_f_69"
+        }, 
+        "twf:f_7": {
+            "textures": "textures/blocks/twf_b_f_7"
+        }, 
+        "twf:f_70": {
+            "textures": "textures/blocks/twf_b_f_70"
+        }, 
+        "twf:f_71": {
+            "textures": "textures/blocks/twf_b_f_71"
+        }, 
+        "twf:f_72": {
+            "textures": "textures/blocks/twf_b_f_72"
+        }, 
+        "twf:f_73": {
+            "textures": "textures/blocks/twf_b_f_73"
+        }, 
+        "twf:f_74": {
+            "textures": "textures/blocks/twf_b_f_74"
+        }, 
+        "twf:f_75": {
+            "textures": "textures/blocks/twf_b_f_75"
+        }, 
+        "twf:f_76": {
+            "textures": "textures/blocks/twf_b_f_76"
+        }, 
+        "twf:f_77": {
+            "textures": "textures/blocks/twf_b_f_77"
+        }, 
+        "twf:f_78": {
+            "textures": "textures/blocks/twf_b_f_78"
+        }, 
+        "twf:f_79": {
+            "textures": "textures/blocks/twf_b_f_79"
+        }, 
+        "twf:f_8": {
+            "textures": "textures/blocks/twf_b_f_8"
+        }, 
+        "twf:f_80": {
+            "textures": "textures/blocks/twf_b_f_80"
+        }, 
+        "twf:f_81": {
+            "textures": "textures/blocks/twf_b_f_81"
+        }, 
+        "twf:f_82": {
+            "textures": "textures/blocks/twf_b_f_82"
+        }, 
+        "twf:f_83": {
+            "textures": "textures/blocks/twf_b_f_83"
+        }, 
+        "twf:f_84": {
+            "textures": "textures/blocks/twf_b_f_84"
+        }, 
+        "twf:f_85": {
+            "textures": "textures/blocks/twf_b_f_85"
+        }, 
+        "twf:f_86": {
+            "textures": "textures/blocks/twf_b_f_86"
+        }, 
+        "twf:f_87": {
+            "textures": "textures/blocks/twf_b_f_87"
+        }, 
+        "twf:f_88": {
+            "textures": "textures/blocks/twf_b_f_88"
+        }, 
+        "twf:f_89": {
+            "textures": "textures/blocks/twf_b_f_89"
+        }, 
+        "twf:f_9": {
+            "textures": "textures/blocks/twf_b_f_9"
+        }, 
+        "twf:f_90": {
+            "textures": "textures/blocks/twf_b_f_90"
+        }, 
+        "twf:f_91": {
+            "textures": "textures/blocks/twf_b_f_91"
+        }, 
+        "twf:f_92": {
+            "textures": "textures/blocks/twf_b_f_92"
+        }, 
+        "twf:f_93": {
+            "textures": "textures/blocks/twf_b_f_93"
+        }, 
+        "twf:f_94": {
+            "textures": "textures/blocks/twf_b_f_94"
+        }, 
+        "twf:f_95": {
+            "textures": "textures/blocks/twf_b_f_95"
+        }, 
+        "twf:f_96": {
+            "textures": "textures/blocks/twf_b_f_96"
+        }, 
+        "twf:f_97": {
+            "textures": "textures/blocks/twf_b_f_97"
+        }, 
+        "twf:f_98": {
+            "textures": "textures/blocks/twf_b_f_98"
+        }, 
+        "twf:f_99": {
+            "textures": "textures/blocks/twf_b_f_99"
+        }, 
+        "twf:g_0": {
+            "textures": "textures/blocks/twf_b_g_0"
+        }, 
+        "twf:g_1": {
+            "textures": "textures/blocks/twf_b_g_1"
+        }, 
+        "twf:g_10": {
+            "textures": "textures/blocks/twf_b_g_10"
+        }, 
+        "twf:g_11": {
+            "textures": "textures/blocks/twf_b_g_11"
+        }, 
+        "twf:g_12": {
+            "textures": "textures/blocks/twf_b_g_12"
+        }, 
+        "twf:g_13": {
+            "textures": "textures/blocks/twf_b_g_13"
+        }, 
+        "twf:g_14": {
+            "textures": "textures/blocks/twf_b_g_14"
+        }, 
+        "twf:g_15": {
+            "textures": "textures/blocks/twf_b_g_15"
+        }, 
+        "twf:g_16": {
+            "textures": "textures/blocks/twf_b_g_16"
+        }, 
+        "twf:g_17": {
+            "textures": "textures/blocks/twf_b_g_17"
+        }, 
+        "twf:g_18": {
+            "textures": "textures/blocks/twf_b_g_18"
+        }, 
+        "twf:g_19": {
+            "textures": "textures/blocks/twf_b_g_19"
+        }, 
+        "twf:g_2": {
+            "textures": "textures/blocks/twf_b_g_2"
+        }, 
+        "twf:g_20": {
+            "textures": "textures/blocks/twf_b_g_20"
+        }, 
+        "twf:g_21": {
+            "textures": "textures/blocks/twf_b_g_21"
+        }, 
+        "twf:g_22": {
+            "textures": "textures/blocks/twf_b_g_22"
+        }, 
+        "twf:g_23": {
+            "textures": "textures/blocks/twf_b_g_23"
+        }, 
+        "twf:g_24": {
+            "textures": "textures/blocks/twf_b_g_24"
+        }, 
+        "twf:g_25": {
+            "textures": "textures/blocks/twf_b_g_25"
+        }, 
+        "twf:g_26": {
+            "textures": "textures/blocks/twf_b_g_26"
+        }, 
+        "twf:g_27": {
+            "textures": "textures/blocks/twf_b_g_27"
+        }, 
+        "twf:g_28": {
+            "textures": "textures/blocks/twf_b_g_28"
+        }, 
+        "twf:g_29": {
+            "textures": "textures/blocks/twf_b_g_29"
+        }, 
+        "twf:g_3": {
+            "textures": "textures/blocks/twf_b_g_3"
+        }, 
+        "twf:g_30": {
+            "textures": "textures/blocks/twf_b_g_30"
+        }, 
+        "twf:g_31": {
+            "textures": "textures/blocks/twf_b_g_31"
+        }, 
+        "twf:g_32": {
+            "textures": "textures/blocks/twf_b_g_32"
+        }, 
+        "twf:g_33": {
+            "textures": "textures/blocks/twf_b_g_33"
+        }, 
+        "twf:g_34": {
+            "textures": "textures/blocks/twf_b_g_34"
+        }, 
+        "twf:g_35": {
+            "textures": "textures/blocks/twf_b_g_35"
+        }, 
+        "twf:g_36": {
+            "textures": "textures/blocks/twf_b_g_36"
+        }, 
+        "twf:g_37": {
+            "textures": "textures/blocks/twf_b_g_37"
+        }, 
+        "twf:g_38": {
+            "textures": "textures/blocks/twf_b_g_38"
+        }, 
+        "twf:g_39": {
+            "textures": "textures/blocks/twf_b_g_39"
+        }, 
+        "twf:g_4": {
+            "textures": "textures/blocks/twf_b_g_4"
+        }, 
+        "twf:g_40": {
+            "textures": "textures/blocks/twf_b_g_40"
+        }, 
+        "twf:g_41": {
+            "textures": "textures/blocks/twf_b_g_41"
+        }, 
+        "twf:g_42": {
+            "textures": "textures/blocks/twf_b_g_42"
+        }, 
+        "twf:g_43": {
+            "textures": "textures/blocks/twf_b_g_43"
+        }, 
+        "twf:g_44": {
+            "textures": "textures/blocks/twf_b_g_44"
+        }, 
+        "twf:g_45": {
+            "textures": "textures/blocks/twf_b_g_45"
+        }, 
+        "twf:g_46": {
+            "textures": "textures/blocks/twf_b_g_46"
+        }, 
+        "twf:g_47": {
+            "textures": "textures/blocks/twf_b_g_47"
+        }, 
+        "twf:g_48": {
+            "textures": "textures/blocks/twf_b_g_48"
+        }, 
+        "twf:g_49": {
+            "textures": "textures/blocks/twf_b_g_49"
+        }, 
+        "twf:g_5": {
+            "textures": "textures/blocks/twf_b_g_5"
+        }, 
+        "twf:g_50": {
+            "textures": "textures/blocks/twf_b_g_50"
+        }, 
+        "twf:g_51": {
+            "textures": "textures/blocks/twf_b_g_51"
+        }, 
+        "twf:g_52": {
+            "textures": "textures/blocks/twf_b_g_52"
+        }, 
+        "twf:g_53": {
+            "textures": "textures/blocks/twf_b_g_53"
+        }, 
+        "twf:g_54": {
+            "textures": "textures/blocks/twf_b_g_54"
+        }, 
+        "twf:g_55": {
+            "textures": "textures/blocks/twf_b_g_55"
+        }, 
+        "twf:g_56": {
+            "textures": "textures/blocks/twf_b_g_56"
+        }, 
+        "twf:g_57": {
+            "textures": "textures/blocks/twf_b_g_57"
+        }, 
+        "twf:g_58": {
+            "textures": "textures/blocks/twf_b_g_58"
+        }, 
+        "twf:g_59": {
+            "textures": "textures/blocks/twf_b_g_59"
+        }, 
+        "twf:g_6": {
+            "textures": "textures/blocks/twf_b_g_6"
+        }, 
+        "twf:g_60": {
+            "textures": "textures/blocks/twf_b_g_60"
+        }, 
+        "twf:g_61": {
+            "textures": "textures/blocks/twf_b_g_61"
+        }, 
+        "twf:g_62": {
+            "textures": "textures/blocks/twf_b_g_62"
+        }, 
+        "twf:g_63": {
+            "textures": "textures/blocks/twf_b_g_63"
+        }, 
+        "twf:g_64": {
+            "textures": "textures/blocks/twf_b_g_64"
+        }, 
+        "twf:g_65": {
+            "textures": "textures/blocks/twf_b_g_65"
+        }, 
+        "twf:g_66": {
+            "textures": "textures/blocks/twf_b_g_66"
+        }, 
+        "twf:g_67": {
+            "textures": "textures/blocks/twf_b_g_67"
+        }, 
+        "twf:g_68": {
+            "textures": "textures/blocks/twf_b_g_68"
+        }, 
+        "twf:g_69": {
+            "textures": "textures/blocks/twf_b_g_69"
+        }, 
+        "twf:g_7": {
+            "textures": "textures/blocks/twf_b_g_7"
+        }, 
+        "twf:g_70": {
+            "textures": "textures/blocks/twf_b_g_70"
+        }, 
+        "twf:g_71": {
+            "textures": "textures/blocks/twf_b_g_71"
+        }, 
+        "twf:g_72": {
+            "textures": "textures/blocks/twf_b_g_72"
+        }, 
+        "twf:g_73": {
+            "textures": "textures/blocks/twf_b_g_73"
+        }, 
+        "twf:g_74": {
+            "textures": "textures/blocks/twf_b_g_74"
+        }, 
+        "twf:g_75": {
+            "textures": "textures/blocks/twf_b_g_75"
+        }, 
+        "twf:g_76": {
+            "textures": "textures/blocks/twf_b_g_76"
+        }, 
+        "twf:g_77": {
+            "textures": "textures/blocks/twf_b_g_77"
+        }, 
+        "twf:g_78": {
+            "textures": "textures/blocks/twf_b_g_78"
+        }, 
+        "twf:g_79": {
+            "textures": "textures/blocks/twf_b_g_79"
+        }, 
+        "twf:g_8": {
+            "textures": "textures/blocks/twf_b_g_8"
+        }, 
+        "twf:g_80": {
+            "textures": "textures/blocks/twf_b_g_80"
+        }, 
+        "twf:g_81": {
+            "textures": "textures/blocks/twf_b_g_81"
+        }, 
+        "twf:g_82": {
+            "textures": "textures/blocks/twf_b_g_82"
+        }, 
+        "twf:g_83": {
+            "textures": "textures/blocks/twf_b_g_83"
+        }, 
+        "twf:g_84": {
+            "textures": "textures/blocks/twf_b_g_84"
+        }, 
+        "twf:g_85": {
+            "textures": "textures/blocks/twf_b_g_85"
+        }, 
+        "twf:g_86": {
+            "textures": "textures/blocks/twf_b_g_86"
+        }, 
+        "twf:g_87": {
+            "textures": "textures/blocks/twf_b_g_87"
+        }, 
+        "twf:g_88": {
+            "textures": "textures/blocks/twf_b_g_88"
+        }, 
+        "twf:g_89": {
+            "textures": "textures/blocks/twf_b_g_89"
+        }, 
+        "twf:g_9": {
+            "textures": "textures/blocks/twf_b_g_9"
+        }, 
+        "twf:g_90": {
+            "textures": "textures/blocks/twf_b_g_90"
+        }, 
+        "twf:g_91": {
+            "textures": "textures/blocks/twf_b_g_91"
+        }, 
+        "twf:g_92": {
+            "textures": "textures/blocks/twf_b_g_92"
+        }, 
+        "twf:g_93": {
+            "textures": "textures/blocks/twf_b_g_93"
+        }, 
+        "twf:g_94": {
+            "textures": "textures/blocks/twf_b_g_94"
+        }, 
+        "twf:g_95": {
+            "textures": "textures/blocks/twf_b_g_95"
+        }, 
+        "twf:g_96": {
+            "textures": "textures/blocks/twf_b_g_96"
+        }, 
+        "twf:g_97": {
+            "textures": "textures/blocks/twf_b_g_97"
+        }, 
+        "twf:g_98": {
+            "textures": "textures/blocks/twf_b_g_98"
+        }, 
+        "twf:g_99": {
+            "textures": "textures/blocks/twf_b_g_99"
+        }, 
+        "twf:h_0": {
+            "textures": "textures/blocks/twf_b_h_0"
+        }, 
+        "twf:h_1": {
+            "textures": "textures/blocks/twf_b_h_1"
+        }, 
+        "twf:h_10": {
+            "textures": "textures/blocks/twf_b_h_10"
+        }, 
+        "twf:h_11": {
+            "textures": "textures/blocks/twf_b_h_11"
+        }, 
+        "twf:h_12": {
+            "textures": "textures/blocks/twf_b_h_12"
+        }, 
+        "twf:h_13": {
+            "textures": "textures/blocks/twf_b_h_13"
+        }, 
+        "twf:h_14": {
+            "textures": "textures/blocks/twf_b_h_14"
+        }, 
+        "twf:h_15": {
+            "textures": "textures/blocks/twf_b_h_15"
+        }, 
+        "twf:h_16": {
+            "textures": "textures/blocks/twf_b_h_16"
+        }, 
+        "twf:h_17": {
+            "textures": "textures/blocks/twf_b_h_17"
+        }, 
+        "twf:h_18": {
+            "textures": "textures/blocks/twf_b_h_18"
+        }, 
+        "twf:h_19": {
+            "textures": "textures/blocks/twf_b_h_19"
+        }, 
+        "twf:h_2": {
+            "textures": "textures/blocks/twf_b_h_2"
+        }, 
+        "twf:h_20": {
+            "textures": "textures/blocks/twf_b_h_20"
+        }, 
+        "twf:h_21": {
+            "textures": "textures/blocks/twf_b_h_21"
+        }, 
+        "twf:h_22": {
+            "textures": "textures/blocks/twf_b_h_22"
+        }, 
+        "twf:h_23": {
+            "textures": "textures/blocks/twf_b_h_23"
+        }, 
+        "twf:h_24": {
+            "textures": "textures/blocks/twf_b_h_24"
+        }, 
+        "twf:h_25": {
+            "textures": "textures/blocks/twf_b_h_25"
+        }, 
+        "twf:h_26": {
+            "textures": "textures/blocks/twf_b_h_26"
+        }, 
+        "twf:h_27": {
+            "textures": "textures/blocks/twf_b_h_27"
+        }, 
+        "twf:h_28": {
+            "textures": "textures/blocks/twf_b_h_28"
+        }, 
+        "twf:h_29": {
+            "textures": "textures/blocks/twf_b_h_29"
+        }, 
+        "twf:h_3": {
+            "textures": "textures/blocks/twf_b_h_3"
+        }, 
+        "twf:h_30": {
+            "textures": "textures/blocks/twf_b_h_30"
+        }, 
+        "twf:h_31": {
+            "textures": "textures/blocks/twf_b_h_31"
+        }, 
+        "twf:h_32": {
+            "textures": "textures/blocks/twf_b_h_32"
+        }, 
+        "twf:h_33": {
+            "textures": "textures/blocks/twf_b_h_33"
+        }, 
+        "twf:h_34": {
+            "textures": "textures/blocks/twf_b_h_34"
+        }, 
+        "twf:h_35": {
+            "textures": "textures/blocks/twf_b_h_35"
+        }, 
+        "twf:h_36": {
+            "textures": "textures/blocks/twf_b_h_36"
+        }, 
+        "twf:h_37": {
+            "textures": "textures/blocks/twf_b_h_37"
+        }, 
+        "twf:h_38": {
+            "textures": "textures/blocks/twf_b_h_38"
+        }, 
+        "twf:h_39": {
+            "textures": "textures/blocks/twf_b_h_39"
+        }, 
+        "twf:h_4": {
+            "textures": "textures/blocks/twf_b_h_4"
+        }, 
+        "twf:h_40": {
+            "textures": "textures/blocks/twf_b_h_40"
+        }, 
+        "twf:h_41": {
+            "textures": "textures/blocks/twf_b_h_41"
+        }, 
+        "twf:h_42": {
+            "textures": "textures/blocks/twf_b_h_42"
+        }, 
+        "twf:h_43": {
+            "textures": "textures/blocks/twf_b_h_43"
+        }, 
+        "twf:h_44": {
+            "textures": "textures/blocks/twf_b_h_44"
+        }, 
+        "twf:h_45": {
+            "textures": "textures/blocks/twf_b_h_45"
+        }, 
+        "twf:h_46": {
+            "textures": "textures/blocks/twf_b_h_46"
+        }, 
+        "twf:h_47": {
+            "textures": "textures/blocks/twf_b_h_47"
+        }, 
+        "twf:h_48": {
+            "textures": "textures/blocks/twf_b_h_48"
+        }, 
+        "twf:h_49": {
+            "textures": "textures/blocks/twf_b_h_49"
+        }, 
+        "twf:h_5": {
+            "textures": "textures/blocks/twf_b_h_5"
+        }, 
+        "twf:h_50": {
+            "textures": "textures/blocks/twf_b_h_50"
+        }, 
+        "twf:h_51": {
+            "textures": "textures/blocks/twf_b_h_51"
+        }, 
+        "twf:h_52": {
+            "textures": "textures/blocks/twf_b_h_52"
+        }, 
+        "twf:h_53": {
+            "textures": "textures/blocks/twf_b_h_53"
+        }, 
+        "twf:h_54": {
+            "textures": "textures/blocks/twf_b_h_54"
+        }, 
+        "twf:h_55": {
+            "textures": "textures/blocks/twf_b_h_55"
+        }, 
+        "twf:h_56": {
+            "textures": "textures/blocks/twf_b_h_56"
+        }, 
+        "twf:h_57": {
+            "textures": "textures/blocks/twf_b_h_57"
+        }, 
+        "twf:h_58": {
+            "textures": "textures/blocks/twf_b_h_58"
+        }, 
+        "twf:h_59": {
+            "textures": "textures/blocks/twf_b_h_59"
+        }, 
+        "twf:h_6": {
+            "textures": "textures/blocks/twf_b_h_6"
+        }, 
+        "twf:h_60": {
+            "textures": "textures/blocks/twf_b_h_60"
+        }, 
+        "twf:h_61": {
+            "textures": "textures/blocks/twf_b_h_61"
+        }, 
+        "twf:h_62": {
+            "textures": "textures/blocks/twf_b_h_62"
+        }, 
+        "twf:h_63": {
+            "textures": "textures/blocks/twf_b_h_63"
+        }, 
+        "twf:h_64": {
+            "textures": "textures/blocks/twf_b_h_64"
+        }, 
+        "twf:h_65": {
+            "textures": "textures/blocks/twf_b_h_65"
+        }, 
+        "twf:h_66": {
+            "textures": "textures/blocks/twf_b_h_66"
+        }, 
+        "twf:h_67": {
+            "textures": "textures/blocks/twf_b_h_67"
+        }, 
+        "twf:h_68": {
+            "textures": "textures/blocks/twf_b_h_68"
+        }, 
+        "twf:h_69": {
+            "textures": "textures/blocks/twf_b_h_69"
+        }, 
+        "twf:h_7": {
+            "textures": "textures/blocks/twf_b_h_7"
+        }, 
+        "twf:h_70": {
+            "textures": "textures/blocks/twf_b_h_70"
+        }, 
+        "twf:h_71": {
+            "textures": "textures/blocks/twf_b_h_71"
+        }, 
+        "twf:h_72": {
+            "textures": "textures/blocks/twf_b_h_72"
+        }, 
+        "twf:h_73": {
+            "textures": "textures/blocks/twf_b_h_73"
+        }, 
+        "twf:h_74": {
+            "textures": "textures/blocks/twf_b_h_74"
+        }, 
+        "twf:h_75": {
+            "textures": "textures/blocks/twf_b_h_75"
+        }, 
+        "twf:h_76": {
+            "textures": "textures/blocks/twf_b_h_76"
+        }, 
+        "twf:h_77": {
+            "textures": "textures/blocks/twf_b_h_77"
+        }, 
+        "twf:h_78": {
+            "textures": "textures/blocks/twf_b_h_78"
+        }, 
+        "twf:h_79": {
+            "textures": "textures/blocks/twf_b_h_79"
+        }, 
+        "twf:h_8": {
+            "textures": "textures/blocks/twf_b_h_8"
+        }, 
+        "twf:h_80": {
+            "textures": "textures/blocks/twf_b_h_80"
+        }, 
+        "twf:h_81": {
+            "textures": "textures/blocks/twf_b_h_81"
+        }, 
+        "twf:h_82": {
+            "textures": "textures/blocks/twf_b_h_82"
+        }, 
+        "twf:h_83": {
+            "textures": "textures/blocks/twf_b_h_83"
+        }, 
+        "twf:h_84": {
+            "textures": "textures/blocks/twf_b_h_84"
+        }, 
+        "twf:h_85": {
+            "textures": "textures/blocks/twf_b_h_85"
+        }, 
+        "twf:h_86": {
+            "textures": "textures/blocks/twf_b_h_86"
+        }, 
+        "twf:h_87": {
+            "textures": "textures/blocks/twf_b_h_87"
+        }, 
+        "twf:h_88": {
+            "textures": "textures/blocks/twf_b_h_88"
+        }, 
+        "twf:h_89": {
+            "textures": "textures/blocks/twf_b_h_89"
+        }, 
+        "twf:h_9": {
+            "textures": "textures/blocks/twf_b_h_9"
+        }, 
+        "twf:h_90": {
+            "textures": "textures/blocks/twf_b_h_90"
+        }, 
+        "twf:h_91": {
+            "textures": "textures/blocks/twf_b_h_91"
+        }, 
+        "twf:h_92": {
+            "textures": "textures/blocks/twf_b_h_92"
+        }, 
+        "twf:h_93": {
+            "textures": "textures/blocks/twf_b_h_93"
+        }, 
+        "twf:h_94": {
+            "textures": "textures/blocks/twf_b_h_94"
+        }, 
+        "twf:h_95": {
+            "textures": "textures/blocks/twf_b_h_95"
+        }, 
+        "twf:h_96": {
+            "textures": "textures/blocks/twf_b_h_96"
+        }, 
+        "twf:h_97": {
+            "textures": "textures/blocks/twf_b_h_97"
+        }, 
+        "twf:h_98": {
+            "textures": "textures/blocks/twf_b_h_98"
+        }, 
+        "twf:h_99": {
+            "textures": "textures/blocks/twf_b_h_99"
+        }, 
+        "twf:i_0": {
+            "textures": "textures/blocks/twf_b_i_0"
+        }, 
+        "twf:i_1": {
+            "textures": "textures/blocks/twf_b_i_1"
+        }, 
+        "twf:i_10": {
+            "textures": "textures/blocks/twf_b_i_10"
+        }, 
+        "twf:i_11": {
+            "textures": "textures/blocks/twf_b_i_11"
+        }, 
+        "twf:i_12": {
+            "textures": "textures/blocks/twf_b_i_12"
+        }, 
+        "twf:i_13": {
+            "textures": "textures/blocks/twf_b_i_13"
+        }, 
+        "twf:i_14": {
+            "textures": "textures/blocks/twf_b_i_14"
+        }, 
+        "twf:i_15": {
+            "textures": "textures/blocks/twf_b_i_15"
+        }, 
+        "twf:i_16": {
+            "textures": "textures/blocks/twf_b_i_16"
+        }, 
+        "twf:i_17": {
+            "textures": "textures/blocks/twf_b_i_17"
+        }, 
+        "twf:i_18": {
+            "textures": "textures/blocks/twf_b_i_18"
+        }, 
+        "twf:i_19": {
+            "textures": "textures/blocks/twf_b_i_19"
+        }, 
+        "twf:i_2": {
+            "textures": "textures/blocks/twf_b_i_2"
+        }, 
+        "twf:i_20": {
+            "textures": "textures/blocks/twf_b_i_20"
+        }, 
+        "twf:i_21": {
+            "textures": "textures/blocks/twf_b_i_21"
+        }, 
+        "twf:i_22": {
+            "textures": "textures/blocks/twf_b_i_22"
+        }, 
+        "twf:i_23": {
+            "textures": "textures/blocks/twf_b_i_23"
+        }, 
+        "twf:i_24": {
+            "textures": "textures/blocks/twf_b_i_24"
+        }, 
+        "twf:i_25": {
+            "textures": "textures/blocks/twf_b_i_25"
+        }, 
+        "twf:i_26": {
+            "textures": "textures/blocks/twf_b_i_26"
+        }, 
+        "twf:i_27": {
+            "textures": "textures/blocks/twf_b_i_27"
+        }, 
+        "twf:i_28": {
+            "textures": "textures/blocks/twf_b_i_28"
+        }, 
+        "twf:i_29": {
+            "textures": "textures/blocks/twf_b_i_29"
+        }, 
+        "twf:i_3": {
+            "textures": "textures/blocks/twf_b_i_3"
+        }, 
+        "twf:i_30": {
+            "textures": "textures/blocks/twf_b_i_30"
+        }, 
+        "twf:i_31": {
+            "textures": "textures/blocks/twf_b_i_31"
+        }, 
+        "twf:i_32": {
+            "textures": "textures/blocks/twf_b_i_32"
+        }, 
+        "twf:i_33": {
+            "textures": "textures/blocks/twf_b_i_33"
+        }, 
+        "twf:i_34": {
+            "textures": "textures/blocks/twf_b_i_34"
+        }, 
+        "twf:i_35": {
+            "textures": "textures/blocks/twf_b_i_35"
+        }, 
+        "twf:i_36": {
+            "textures": "textures/blocks/twf_b_i_36"
+        }, 
+        "twf:i_37": {
+            "textures": "textures/blocks/twf_b_i_37"
+        }, 
+        "twf:i_38": {
+            "textures": "textures/blocks/twf_b_i_38"
+        }, 
+        "twf:i_39": {
+            "textures": "textures/blocks/twf_b_i_39"
+        }, 
+        "twf:i_4": {
+            "textures": "textures/blocks/twf_b_i_4"
+        }, 
+        "twf:i_40": {
+            "textures": "textures/blocks/twf_b_i_40"
+        }, 
+        "twf:i_41": {
+            "textures": "textures/blocks/twf_b_i_41"
+        }, 
+        "twf:i_42": {
+            "textures": "textures/blocks/twf_b_i_42"
+        }, 
+        "twf:i_43": {
+            "textures": "textures/blocks/twf_b_i_43"
+        }, 
+        "twf:i_44": {
+            "textures": "textures/blocks/twf_b_i_44"
+        }, 
+        "twf:i_45": {
+            "textures": "textures/blocks/twf_b_i_45"
+        }, 
+        "twf:i_46": {
+            "textures": "textures/blocks/twf_b_i_46"
+        }, 
+        "twf:i_47": {
+            "textures": "textures/blocks/twf_b_i_47"
+        }, 
+        "twf:i_48": {
+            "textures": "textures/blocks/twf_b_i_48"
+        }, 
+        "twf:i_49": {
+            "textures": "textures/blocks/twf_b_i_49"
+        }, 
+        "twf:i_5": {
+            "textures": "textures/blocks/twf_b_i_5"
+        }, 
+        "twf:i_50": {
+            "textures": "textures/blocks/twf_b_i_50"
+        }, 
+        "twf:i_51": {
+            "textures": "textures/blocks/twf_b_i_51"
+        }, 
+        "twf:i_52": {
+            "textures": "textures/blocks/twf_b_i_52"
+        }, 
+        "twf:i_53": {
+            "textures": "textures/blocks/twf_b_i_53"
+        }, 
+        "twf:i_54": {
+            "textures": "textures/blocks/twf_b_i_54"
+        }, 
+        "twf:i_55": {
+            "textures": "textures/blocks/twf_b_i_55"
+        }, 
+        "twf:i_56": {
+            "textures": "textures/blocks/twf_b_i_56"
+        }, 
+        "twf:i_57": {
+            "textures": "textures/blocks/twf_b_i_57"
+        }, 
+        "twf:i_58": {
+            "textures": "textures/blocks/twf_b_i_58"
+        }, 
+        "twf:i_59": {
+            "textures": "textures/blocks/twf_b_i_59"
+        }, 
+        "twf:i_6": {
+            "textures": "textures/blocks/twf_b_i_6"
+        }, 
+        "twf:i_60": {
+            "textures": "textures/blocks/twf_b_i_60"
+        }, 
+        "twf:i_61": {
+            "textures": "textures/blocks/twf_b_i_61"
+        }, 
+        "twf:i_62": {
+            "textures": "textures/blocks/twf_b_i_62"
+        }, 
+        "twf:i_63": {
+            "textures": "textures/blocks/twf_b_i_63"
+        }, 
+        "twf:i_64": {
+            "textures": "textures/blocks/twf_b_i_64"
+        }, 
+        "twf:i_65": {
+            "textures": "textures/blocks/twf_b_i_65"
+        }, 
+        "twf:i_66": {
+            "textures": "textures/blocks/twf_b_i_66"
+        }, 
+        "twf:i_67": {
+            "textures": "textures/blocks/twf_b_i_67"
+        }, 
+        "twf:i_68": {
+            "textures": "textures/blocks/twf_b_i_68"
+        }, 
+        "twf:i_69": {
+            "textures": "textures/blocks/twf_b_i_69"
+        }, 
+        "twf:i_7": {
+            "textures": "textures/blocks/twf_b_i_7"
+        }, 
+        "twf:i_70": {
+            "textures": "textures/blocks/twf_b_i_70"
+        }, 
+        "twf:i_71": {
+            "textures": "textures/blocks/twf_b_i_71"
+        }, 
+        "twf:i_72": {
+            "textures": "textures/blocks/twf_b_i_72"
+        }, 
+        "twf:i_73": {
+            "textures": "textures/blocks/twf_b_i_73"
+        }, 
+        "twf:i_74": {
+            "textures": "textures/blocks/twf_b_i_74"
+        }, 
+        "twf:i_75": {
+            "textures": "textures/blocks/twf_b_i_75"
+        }, 
+        "twf:i_76": {
+            "textures": "textures/blocks/twf_b_i_76"
+        }, 
+        "twf:i_77": {
+            "textures": "textures/blocks/twf_b_i_77"
+        }, 
+        "twf:i_78": {
+            "textures": "textures/blocks/twf_b_i_78"
+        }, 
+        "twf:i_79": {
+            "textures": "textures/blocks/twf_b_i_79"
+        }, 
+        "twf:i_8": {
+            "textures": "textures/blocks/twf_b_i_8"
+        }, 
+        "twf:i_80": {
+            "textures": "textures/blocks/twf_b_i_80"
+        }, 
+        "twf:i_81": {
+            "textures": "textures/blocks/twf_b_i_81"
+        }, 
+        "twf:i_82": {
+            "textures": "textures/blocks/twf_b_i_82"
+        }, 
+        "twf:i_83": {
+            "textures": "textures/blocks/twf_b_i_83"
+        }, 
+        "twf:i_84": {
+            "textures": "textures/blocks/twf_b_i_84"
+        }, 
+        "twf:i_85": {
+            "textures": "textures/blocks/twf_b_i_85"
+        }, 
+        "twf:i_86": {
+            "textures": "textures/blocks/twf_b_i_86"
+        }, 
+        "twf:i_87": {
+            "textures": "textures/blocks/twf_b_i_87"
+        }, 
+        "twf:i_88": {
+            "textures": "textures/blocks/twf_b_i_88"
+        }, 
+        "twf:i_89": {
+            "textures": "textures/blocks/twf_b_i_89"
+        }, 
+        "twf:i_9": {
+            "textures": "textures/blocks/twf_b_i_9"
+        }, 
+        "twf:i_90": {
+            "textures": "textures/blocks/twf_b_i_90"
+        }, 
+        "twf:i_91": {
+            "textures": "textures/blocks/twf_b_i_91"
+        }, 
+        "twf:i_92": {
+            "textures": "textures/blocks/twf_b_i_92"
+        }, 
+        "twf:i_93": {
+            "textures": "textures/blocks/twf_b_i_93"
+        }, 
+        "twf:i_94": {
+            "textures": "textures/blocks/twf_b_i_94"
+        }, 
+        "twf:i_95": {
+            "textures": "textures/blocks/twf_b_i_95"
+        }, 
+        "twf:i_96": {
+            "textures": "textures/blocks/twf_b_i_96"
+        }, 
+        "twf:i_97": {
+            "textures": "textures/blocks/twf_b_i_97"
+        }, 
+        "twf:i_98": {
+            "textures": "textures/blocks/twf_b_i_98"
+        }, 
+        "twf:i_99": {
+            "textures": "textures/blocks/twf_b_i_99"
+        }, 
+        "twf:j_0": {
+            "textures": "textures/blocks/twf_b_j_0"
+        }, 
+        "twf:j_1": {
+            "textures": "textures/blocks/twf_b_j_1"
+        }, 
+        "twf:j_10": {
+            "textures": "textures/blocks/twf_b_j_10"
+        }, 
+        "twf:j_11": {
+            "textures": "textures/blocks/twf_b_j_11"
+        }, 
+        "twf:j_12": {
+            "textures": "textures/blocks/twf_b_j_12"
+        }, 
+        "twf:j_13": {
+            "textures": "textures/blocks/twf_b_j_13"
+        }, 
+        "twf:j_14": {
+            "textures": "textures/blocks/twf_b_j_14"
+        }, 
+        "twf:j_15": {
+            "textures": "textures/blocks/twf_b_j_15"
+        }, 
+        "twf:j_16": {
+            "textures": "textures/blocks/twf_b_j_16"
+        }, 
+        "twf:j_17": {
+            "textures": "textures/blocks/twf_b_j_17"
+        }, 
+        "twf:j_18": {
+            "textures": "textures/blocks/twf_b_j_18"
+        }, 
+        "twf:j_19": {
+            "textures": "textures/blocks/twf_b_j_19"
+        }, 
+        "twf:j_2": {
+            "textures": "textures/blocks/twf_b_j_2"
+        }, 
+        "twf:j_20": {
+            "textures": "textures/blocks/twf_b_j_20"
+        }, 
+        "twf:j_21": {
+            "textures": "textures/blocks/twf_b_j_21"
+        }, 
+        "twf:j_22": {
+            "textures": "textures/blocks/twf_b_j_22"
+        }, 
+        "twf:j_23": {
+            "textures": "textures/blocks/twf_b_j_23"
+        }, 
+        "twf:j_24": {
+            "textures": "textures/blocks/twf_b_j_24"
+        }, 
+        "twf:j_25": {
+            "textures": "textures/blocks/twf_b_j_25"
+        }, 
+        "twf:j_26": {
+            "textures": "textures/blocks/twf_b_j_26"
+        }, 
+        "twf:j_27": {
+            "textures": "textures/blocks/twf_b_j_27"
+        }, 
+        "twf:j_28": {
+            "textures": "textures/blocks/twf_b_j_28"
+        }, 
+        "twf:j_29": {
+            "textures": "textures/blocks/twf_b_j_29"
+        }, 
+        "twf:j_3": {
+            "textures": "textures/blocks/twf_b_j_3"
+        }, 
+        "twf:j_30": {
+            "textures": "textures/blocks/twf_b_j_30"
+        }, 
+        "twf:j_31": {
+            "textures": "textures/blocks/twf_b_j_31"
+        }, 
+        "twf:j_32": {
+            "textures": "textures/blocks/twf_b_j_32"
+        }, 
+        "twf:j_33": {
+            "textures": "textures/blocks/twf_b_j_33"
+        }, 
+        "twf:j_34": {
+            "textures": "textures/blocks/twf_b_j_34"
+        }, 
+        "twf:j_35": {
+            "textures": "textures/blocks/twf_b_j_35"
+        }, 
+        "twf:j_36": {
+            "textures": "textures/blocks/twf_b_j_36"
+        }, 
+        "twf:j_37": {
+            "textures": "textures/blocks/twf_b_j_37"
+        }, 
+        "twf:j_38": {
+            "textures": "textures/blocks/twf_b_j_38"
+        }, 
+        "twf:j_39": {
+            "textures": "textures/blocks/twf_b_j_39"
+        }, 
+        "twf:j_4": {
+            "textures": "textures/blocks/twf_b_j_4"
+        }, 
+        "twf:j_40": {
+            "textures": "textures/blocks/twf_b_j_40"
+        }, 
+        "twf:j_41": {
+            "textures": "textures/blocks/twf_b_j_41"
+        }, 
+        "twf:j_42": {
+            "textures": "textures/blocks/twf_b_j_42"
+        }, 
+        "twf:j_43": {
+            "textures": "textures/blocks/twf_b_j_43"
+        }, 
+        "twf:j_44": {
+            "textures": "textures/blocks/twf_b_j_44"
+        }, 
+        "twf:j_45": {
+            "textures": "textures/blocks/twf_b_j_45"
+        }, 
+        "twf:j_46": {
+            "textures": "textures/blocks/twf_b_j_46"
+        }, 
+        "twf:j_47": {
+            "textures": "textures/blocks/twf_b_j_47"
+        }, 
+        "twf:j_48": {
+            "textures": "textures/blocks/twf_b_j_48"
+        }, 
+        "twf:j_49": {
+            "textures": "textures/blocks/twf_b_j_49"
+        }, 
+        "twf:j_5": {
+            "textures": "textures/blocks/twf_b_j_5"
+        }, 
+        "twf:j_50": {
+            "textures": "textures/blocks/twf_b_j_50"
+        }, 
+        "twf:j_51": {
+            "textures": "textures/blocks/twf_b_j_51"
+        }, 
+        "twf:j_52": {
+            "textures": "textures/blocks/twf_b_j_52"
+        }, 
+        "twf:j_53": {
+            "textures": "textures/blocks/twf_b_j_53"
+        }, 
+        "twf:j_54": {
+            "textures": "textures/blocks/twf_b_j_54"
+        }, 
+        "twf:j_55": {
+            "textures": "textures/blocks/twf_b_j_55"
+        }, 
+        "twf:j_56": {
+            "textures": "textures/blocks/twf_b_j_56"
+        }, 
+        "twf:j_57": {
+            "textures": "textures/blocks/twf_b_j_57"
+        }, 
+        "twf:j_58": {
+            "textures": "textures/blocks/twf_b_j_58"
+        }, 
+        "twf:j_59": {
+            "textures": "textures/blocks/twf_b_j_59"
+        }, 
+        "twf:j_6": {
+            "textures": "textures/blocks/twf_b_j_6"
+        }, 
+        "twf:j_60": {
+            "textures": "textures/blocks/twf_b_j_60"
+        }, 
+        "twf:j_61": {
+            "textures": "textures/blocks/twf_b_j_61"
+        }, 
+        "twf:j_62": {
+            "textures": "textures/blocks/twf_b_j_62"
+        }, 
+        "twf:j_63": {
+            "textures": "textures/blocks/twf_b_j_63"
+        }, 
+        "twf:j_64": {
+            "textures": "textures/blocks/twf_b_j_64"
+        }, 
+        "twf:j_65": {
+            "textures": "textures/blocks/twf_b_j_65"
+        }, 
+        "twf:j_66": {
+            "textures": "textures/blocks/twf_b_j_66"
+        }, 
+        "twf:j_67": {
+            "textures": "textures/blocks/twf_b_j_67"
+        }, 
+        "twf:j_68": {
+            "textures": "textures/blocks/twf_b_j_68"
+        }, 
+        "twf:j_69": {
+            "textures": "textures/blocks/twf_b_j_69"
+        }, 
+        "twf:j_7": {
+            "textures": "textures/blocks/twf_b_j_7"
+        }, 
+        "twf:j_70": {
+            "textures": "textures/blocks/twf_b_j_70"
+        }, 
+        "twf:j_71": {
+            "textures": "textures/blocks/twf_b_j_71"
+        }, 
+        "twf:j_72": {
+            "textures": "textures/blocks/twf_b_j_72"
+        }, 
+        "twf:j_73": {
+            "textures": "textures/blocks/twf_b_j_73"
+        }, 
+        "twf:j_74": {
+            "textures": "textures/blocks/twf_b_j_74"
+        }, 
+        "twf:j_75": {
+            "textures": "textures/blocks/twf_b_j_75"
+        }, 
+        "twf:j_76": {
+            "textures": "textures/blocks/twf_b_j_76"
+        }, 
+        "twf:j_77": {
+            "textures": "textures/blocks/twf_b_j_77"
+        }, 
+        "twf:j_78": {
+            "textures": "textures/blocks/twf_b_j_78"
+        }, 
+        "twf:j_79": {
+            "textures": "textures/blocks/twf_b_j_79"
+        }, 
+        "twf:j_8": {
+            "textures": "textures/blocks/twf_b_j_8"
+        }, 
+        "twf:j_80": {
+            "textures": "textures/blocks/twf_b_j_80"
+        }, 
+        "twf:j_81": {
+            "textures": "textures/blocks/twf_b_j_81"
+        }, 
+        "twf:j_82": {
+            "textures": "textures/blocks/twf_b_j_82"
+        }, 
+        "twf:j_83": {
+            "textures": "textures/blocks/twf_b_j_83"
+        }, 
+        "twf:j_84": {
+            "textures": "textures/blocks/twf_b_j_84"
+        }, 
+        "twf:j_85": {
+            "textures": "textures/blocks/twf_b_j_85"
+        }, 
+        "twf:j_86": {
+            "textures": "textures/blocks/twf_b_j_86"
+        }, 
+        "twf:j_87": {
+            "textures": "textures/blocks/twf_b_j_87"
+        }, 
+        "twf:j_88": {
+            "textures": "textures/blocks/twf_b_j_88"
+        }, 
+        "twf:j_89": {
+            "textures": "textures/blocks/twf_b_j_89"
+        }, 
+        "twf:j_9": {
+            "textures": "textures/blocks/twf_b_j_9"
+        }, 
+        "twf:j_90": {
+            "textures": "textures/blocks/twf_b_j_90"
+        }, 
+        "twf:j_91": {
+            "textures": "textures/blocks/twf_b_j_91"
+        }, 
+        "twf:j_92": {
+            "textures": "textures/blocks/twf_b_j_92"
+        }, 
+        "twf:j_93": {
+            "textures": "textures/blocks/twf_b_j_93"
+        }, 
+        "twf:j_94": {
+            "textures": "textures/blocks/twf_b_j_94"
+        }, 
+        "twf:j_95": {
+            "textures": "textures/blocks/twf_b_j_95"
+        }, 
+        "twf:j_96": {
+            "textures": "textures/blocks/twf_b_j_96"
+        }, 
+        "twf:j_97": {
+            "textures": "textures/blocks/twf_b_j_97"
+        }, 
+        "twf:j_98": {
+            "textures": "textures/blocks/twf_b_j_98"
+        }, 
+        "twf:j_99": {
+            "textures": "textures/blocks/twf_b_j_99"
+        }
+    }, 
+    "texture_name": "atlas.terrain"
+}

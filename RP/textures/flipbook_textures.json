@@ -1,0 +1,5002 @@
+[
+    {
+        "atlas_tile": "twf:c_68", 
+        "flipbook_texture": "textures/blocks/twf_b_c_68", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_69", 
+        "flipbook_texture": "textures/blocks/twf_b_c_69", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_60", 
+        "flipbook_texture": "textures/blocks/twf_b_c_60", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_61", 
+        "flipbook_texture": "textures/blocks/twf_b_c_61", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_62", 
+        "flipbook_texture": "textures/blocks/twf_b_c_62", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_63", 
+        "flipbook_texture": "textures/blocks/twf_b_c_63", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_64", 
+        "flipbook_texture": "textures/blocks/twf_b_c_64", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_65", 
+        "flipbook_texture": "textures/blocks/twf_b_c_65", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_66", 
+        "flipbook_texture": "textures/blocks/twf_b_c_66", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_67", 
+        "flipbook_texture": "textures/blocks/twf_b_c_67", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_82", 
+        "flipbook_texture": "textures/blocks/twf_b_i_82", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_44", 
+        "flipbook_texture": "textures/blocks/twf_b_h_44", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_95", 
+        "flipbook_texture": "textures/blocks/twf_b_c_95", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_94", 
+        "flipbook_texture": "textures/blocks/twf_b_c_94", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_97", 
+        "flipbook_texture": "textures/blocks/twf_b_c_97", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_96", 
+        "flipbook_texture": "textures/blocks/twf_b_c_96", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_91", 
+        "flipbook_texture": "textures/blocks/twf_b_c_91", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_90", 
+        "flipbook_texture": "textures/blocks/twf_b_c_90", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_93", 
+        "flipbook_texture": "textures/blocks/twf_b_c_93", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_92", 
+        "flipbook_texture": "textures/blocks/twf_b_c_92", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_2", 
+        "flipbook_texture": "textures/blocks/twf_b_d_2", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_3", 
+        "flipbook_texture": "textures/blocks/twf_b_d_3", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_0", 
+        "flipbook_texture": "textures/blocks/twf_b_d_0", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_1", 
+        "flipbook_texture": "textures/blocks/twf_b_d_1", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_99", 
+        "flipbook_texture": "textures/blocks/twf_b_c_99", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_98", 
+        "flipbook_texture": "textures/blocks/twf_b_c_98", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_4", 
+        "flipbook_texture": "textures/blocks/twf_b_d_4", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_5", 
+        "flipbook_texture": "textures/blocks/twf_b_d_5", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_68", 
+        "flipbook_texture": "textures/blocks/twf_b_i_68", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_69", 
+        "flipbook_texture": "textures/blocks/twf_b_i_69", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_69", 
+        "flipbook_texture": "textures/blocks/twf_b_h_69", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_68", 
+        "flipbook_texture": "textures/blocks/twf_b_h_68", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_78", 
+        "flipbook_texture": "textures/blocks/twf_b_d_78", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_79", 
+        "flipbook_texture": "textures/blocks/twf_b_d_79", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_76", 
+        "flipbook_texture": "textures/blocks/twf_b_d_76", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_77", 
+        "flipbook_texture": "textures/blocks/twf_b_d_77", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_74", 
+        "flipbook_texture": "textures/blocks/twf_b_d_74", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_75", 
+        "flipbook_texture": "textures/blocks/twf_b_d_75", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_72", 
+        "flipbook_texture": "textures/blocks/twf_b_d_72", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_73", 
+        "flipbook_texture": "textures/blocks/twf_b_d_73", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_70", 
+        "flipbook_texture": "textures/blocks/twf_b_d_70", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_71", 
+        "flipbook_texture": "textures/blocks/twf_b_d_71", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_28", 
+        "flipbook_texture": "textures/blocks/twf_b_i_28", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_21", 
+        "flipbook_texture": "textures/blocks/twf_b_e_21", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_94", 
+        "flipbook_texture": "textures/blocks/twf_b_d_94", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_95", 
+        "flipbook_texture": "textures/blocks/twf_b_d_95", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_96", 
+        "flipbook_texture": "textures/blocks/twf_b_d_96", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_97", 
+        "flipbook_texture": "textures/blocks/twf_b_d_97", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_90", 
+        "flipbook_texture": "textures/blocks/twf_b_d_90", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_91", 
+        "flipbook_texture": "textures/blocks/twf_b_d_91", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_92", 
+        "flipbook_texture": "textures/blocks/twf_b_d_92", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_93", 
+        "flipbook_texture": "textures/blocks/twf_b_d_93", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_98", 
+        "flipbook_texture": "textures/blocks/twf_b_d_98", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_99", 
+        "flipbook_texture": "textures/blocks/twf_b_d_99", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_78", 
+        "flipbook_texture": "textures/blocks/twf_b_i_78", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_29", 
+        "flipbook_texture": "textures/blocks/twf_b_i_29", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_70", 
+        "flipbook_texture": "textures/blocks/twf_b_j_70", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_41", 
+        "flipbook_texture": "textures/blocks/twf_b_h_41", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_18", 
+        "flipbook_texture": "textures/blocks/twf_b_h_18", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_48", 
+        "flipbook_texture": "textures/blocks/twf_b_i_48", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_88", 
+        "flipbook_texture": "textures/blocks/twf_b_j_88", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_27", 
+        "flipbook_texture": "textures/blocks/twf_b_j_27", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_26", 
+        "flipbook_texture": "textures/blocks/twf_b_j_26", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_25", 
+        "flipbook_texture": "textures/blocks/twf_b_j_25", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_24", 
+        "flipbook_texture": "textures/blocks/twf_b_j_24", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_23", 
+        "flipbook_texture": "textures/blocks/twf_b_j_23", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_22", 
+        "flipbook_texture": "textures/blocks/twf_b_j_22", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_99", 
+        "flipbook_texture": "textures/blocks/twf_b_e_99", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_98", 
+        "flipbook_texture": "textures/blocks/twf_b_e_98", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_97", 
+        "flipbook_texture": "textures/blocks/twf_b_e_97", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_96", 
+        "flipbook_texture": "textures/blocks/twf_b_e_96", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_95", 
+        "flipbook_texture": "textures/blocks/twf_b_e_95", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_94", 
+        "flipbook_texture": "textures/blocks/twf_b_e_94", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_93", 
+        "flipbook_texture": "textures/blocks/twf_b_e_93", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_92", 
+        "flipbook_texture": "textures/blocks/twf_b_e_92", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_91", 
+        "flipbook_texture": "textures/blocks/twf_b_e_91", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_90", 
+        "flipbook_texture": "textures/blocks/twf_b_e_90", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_40", 
+        "flipbook_texture": "textures/blocks/twf_b_h_40", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_49", 
+        "flipbook_texture": "textures/blocks/twf_b_i_49", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_63", 
+        "flipbook_texture": "textures/blocks/twf_b_b_63", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_62", 
+        "flipbook_texture": "textures/blocks/twf_b_b_62", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_61", 
+        "flipbook_texture": "textures/blocks/twf_b_b_61", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_60", 
+        "flipbook_texture": "textures/blocks/twf_b_b_60", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_67", 
+        "flipbook_texture": "textures/blocks/twf_b_b_67", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_66", 
+        "flipbook_texture": "textures/blocks/twf_b_b_66", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_65", 
+        "flipbook_texture": "textures/blocks/twf_b_b_65", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_64", 
+        "flipbook_texture": "textures/blocks/twf_b_b_64", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_77", 
+        "flipbook_texture": "textures/blocks/twf_b_g_77", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_76", 
+        "flipbook_texture": "textures/blocks/twf_b_g_76", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_69", 
+        "flipbook_texture": "textures/blocks/twf_b_b_69", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_68", 
+        "flipbook_texture": "textures/blocks/twf_b_b_68", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_73", 
+        "flipbook_texture": "textures/blocks/twf_b_g_73", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_72", 
+        "flipbook_texture": "textures/blocks/twf_b_g_72", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_71", 
+        "flipbook_texture": "textures/blocks/twf_b_g_71", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_70", 
+        "flipbook_texture": "textures/blocks/twf_b_g_70", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_5", 
+        "flipbook_texture": "textures/blocks/twf_b_g_5", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_57", 
+        "flipbook_texture": "textures/blocks/twf_b_h_57", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_4", 
+        "flipbook_texture": "textures/blocks/twf_b_g_4", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_50", 
+        "flipbook_texture": "textures/blocks/twf_b_h_50", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_7", 
+        "flipbook_texture": "textures/blocks/twf_b_g_7", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_51", 
+        "flipbook_texture": "textures/blocks/twf_b_h_51", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_55", 
+        "flipbook_texture": "textures/blocks/twf_b_i_55", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_91", 
+        "flipbook_texture": "textures/blocks/twf_b_g_91", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_6", 
+        "flipbook_texture": "textures/blocks/twf_b_g_6", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_52", 
+        "flipbook_texture": "textures/blocks/twf_b_h_52", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_90", 
+        "flipbook_texture": "textures/blocks/twf_b_g_90", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_5", 
+        "flipbook_texture": "textures/blocks/twf_b_j_5", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_1", 
+        "flipbook_texture": "textures/blocks/twf_b_g_1", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_53", 
+        "flipbook_texture": "textures/blocks/twf_b_h_53", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_8", 
+        "flipbook_texture": "textures/blocks/twf_b_d_8", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_55", 
+        "flipbook_texture": "textures/blocks/twf_b_g_55", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_0", 
+        "flipbook_texture": "textures/blocks/twf_b_g_0", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_22", 
+        "flipbook_texture": "textures/blocks/twf_b_e_22", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_13", 
+        "flipbook_texture": "textures/blocks/twf_b_a_13", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_20", 
+        "flipbook_texture": "textures/blocks/twf_b_e_20", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_9", 
+        "flipbook_texture": "textures/blocks/twf_b_d_9", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_26", 
+        "flipbook_texture": "textures/blocks/twf_b_e_26", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_27", 
+        "flipbook_texture": "textures/blocks/twf_b_e_27", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_24", 
+        "flipbook_texture": "textures/blocks/twf_b_e_24", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_12", 
+        "flipbook_texture": "textures/blocks/twf_b_a_12", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_8", 
+        "flipbook_texture": "textures/blocks/twf_b_j_8", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_95", 
+        "flipbook_texture": "textures/blocks/twf_b_g_95", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_28", 
+        "flipbook_texture": "textures/blocks/twf_b_e_28", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_29", 
+        "flipbook_texture": "textures/blocks/twf_b_e_29", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_11", 
+        "flipbook_texture": "textures/blocks/twf_b_a_11", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_85", 
+        "flipbook_texture": "textures/blocks/twf_b_i_85", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_94", 
+        "flipbook_texture": "textures/blocks/twf_b_g_94", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_29", 
+        "flipbook_texture": "textures/blocks/twf_b_f_29", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_10", 
+        "flipbook_texture": "textures/blocks/twf_b_a_10", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_97", 
+        "flipbook_texture": "textures/blocks/twf_b_g_97", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_23", 
+        "flipbook_texture": "textures/blocks/twf_b_f_23", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_17", 
+        "flipbook_texture": "textures/blocks/twf_b_a_17", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_21", 
+        "flipbook_texture": "textures/blocks/twf_b_f_21", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_20", 
+        "flipbook_texture": "textures/blocks/twf_b_f_20", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_27", 
+        "flipbook_texture": "textures/blocks/twf_b_f_27", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_26", 
+        "flipbook_texture": "textures/blocks/twf_b_f_26", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_25", 
+        "flipbook_texture": "textures/blocks/twf_b_f_25", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_16", 
+        "flipbook_texture": "textures/blocks/twf_b_a_16", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_79", 
+        "flipbook_texture": "textures/blocks/twf_b_a_79", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_78", 
+        "flipbook_texture": "textures/blocks/twf_b_a_78", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_75", 
+        "flipbook_texture": "textures/blocks/twf_b_a_75", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_74", 
+        "flipbook_texture": "textures/blocks/twf_b_a_74", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_77", 
+        "flipbook_texture": "textures/blocks/twf_b_a_77", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_76", 
+        "flipbook_texture": "textures/blocks/twf_b_a_76", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_71", 
+        "flipbook_texture": "textures/blocks/twf_b_a_71", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_70", 
+        "flipbook_texture": "textures/blocks/twf_b_a_70", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_73", 
+        "flipbook_texture": "textures/blocks/twf_b_a_73", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_72", 
+        "flipbook_texture": "textures/blocks/twf_b_a_72", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_6", 
+        "flipbook_texture": "textures/blocks/twf_b_d_6", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_7", 
+        "flipbook_texture": "textures/blocks/twf_b_d_7", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_1", 
+        "flipbook_texture": "textures/blocks/twf_b_c_1", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_0", 
+        "flipbook_texture": "textures/blocks/twf_b_c_0", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_3", 
+        "flipbook_texture": "textures/blocks/twf_b_c_3", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_2", 
+        "flipbook_texture": "textures/blocks/twf_b_c_2", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_5", 
+        "flipbook_texture": "textures/blocks/twf_b_c_5", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_4", 
+        "flipbook_texture": "textures/blocks/twf_b_c_4", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_7", 
+        "flipbook_texture": "textures/blocks/twf_b_c_7", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_6", 
+        "flipbook_texture": "textures/blocks/twf_b_c_6", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_9", 
+        "flipbook_texture": "textures/blocks/twf_b_c_9", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_8", 
+        "flipbook_texture": "textures/blocks/twf_b_c_8", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_21", 
+        "flipbook_texture": "textures/blocks/twf_b_h_21", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_20", 
+        "flipbook_texture": "textures/blocks/twf_b_h_20", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_23", 
+        "flipbook_texture": "textures/blocks/twf_b_h_23", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_22", 
+        "flipbook_texture": "textures/blocks/twf_b_h_22", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_25", 
+        "flipbook_texture": "textures/blocks/twf_b_h_25", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_24", 
+        "flipbook_texture": "textures/blocks/twf_b_h_24", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_27", 
+        "flipbook_texture": "textures/blocks/twf_b_h_27", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_26", 
+        "flipbook_texture": "textures/blocks/twf_b_h_26", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_29", 
+        "flipbook_texture": "textures/blocks/twf_b_h_29", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_28", 
+        "flipbook_texture": "textures/blocks/twf_b_h_28", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_24", 
+        "flipbook_texture": "textures/blocks/twf_b_i_24", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_25", 
+        "flipbook_texture": "textures/blocks/twf_b_i_25", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_22", 
+        "flipbook_texture": "textures/blocks/twf_b_i_22", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_23", 
+        "flipbook_texture": "textures/blocks/twf_b_i_23", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_20", 
+        "flipbook_texture": "textures/blocks/twf_b_i_20", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_21", 
+        "flipbook_texture": "textures/blocks/twf_b_i_21", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_79", 
+        "flipbook_texture": "textures/blocks/twf_b_h_79", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_62", 
+        "flipbook_texture": "textures/blocks/twf_b_j_62", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_53", 
+        "flipbook_texture": "textures/blocks/twf_b_j_53", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_37", 
+        "flipbook_texture": "textures/blocks/twf_b_c_37", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_36", 
+        "flipbook_texture": "textures/blocks/twf_b_c_36", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_35", 
+        "flipbook_texture": "textures/blocks/twf_b_c_35", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_34", 
+        "flipbook_texture": "textures/blocks/twf_b_c_34", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_33", 
+        "flipbook_texture": "textures/blocks/twf_b_c_33", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_32", 
+        "flipbook_texture": "textures/blocks/twf_b_c_32", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_31", 
+        "flipbook_texture": "textures/blocks/twf_b_c_31", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_30", 
+        "flipbook_texture": "textures/blocks/twf_b_c_30", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_11", 
+        "flipbook_texture": "textures/blocks/twf_b_i_11", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_39", 
+        "flipbook_texture": "textures/blocks/twf_b_c_39", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_38", 
+        "flipbook_texture": "textures/blocks/twf_b_c_38", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_65", 
+        "flipbook_texture": "textures/blocks/twf_b_h_65", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_35", 
+        "flipbook_texture": "textures/blocks/twf_b_h_35", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_64", 
+        "flipbook_texture": "textures/blocks/twf_b_h_64", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_17", 
+        "flipbook_texture": "textures/blocks/twf_b_i_17", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_64", 
+        "flipbook_texture": "textures/blocks/twf_b_j_64", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_67", 
+        "flipbook_texture": "textures/blocks/twf_b_h_67", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_16", 
+        "flipbook_texture": "textures/blocks/twf_b_i_16", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_66", 
+        "flipbook_texture": "textures/blocks/twf_b_h_66", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_15", 
+        "flipbook_texture": "textures/blocks/twf_b_i_15", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_61", 
+        "flipbook_texture": "textures/blocks/twf_b_h_61", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_14", 
+        "flipbook_texture": "textures/blocks/twf_b_i_14", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_60", 
+        "flipbook_texture": "textures/blocks/twf_b_h_60", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_25", 
+        "flipbook_texture": "textures/blocks/twf_b_d_25", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_24", 
+        "flipbook_texture": "textures/blocks/twf_b_d_24", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_27", 
+        "flipbook_texture": "textures/blocks/twf_b_d_27", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_26", 
+        "flipbook_texture": "textures/blocks/twf_b_d_26", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_21", 
+        "flipbook_texture": "textures/blocks/twf_b_d_21", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_20", 
+        "flipbook_texture": "textures/blocks/twf_b_d_20", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_23", 
+        "flipbook_texture": "textures/blocks/twf_b_d_23", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_22", 
+        "flipbook_texture": "textures/blocks/twf_b_d_22", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_62", 
+        "flipbook_texture": "textures/blocks/twf_b_h_62", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_29", 
+        "flipbook_texture": "textures/blocks/twf_b_d_29", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_28", 
+        "flipbook_texture": "textures/blocks/twf_b_d_28", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_69", 
+        "flipbook_texture": "textures/blocks/twf_b_j_69", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_41", 
+        "flipbook_texture": "textures/blocks/twf_b_g_41", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_63", 
+        "flipbook_texture": "textures/blocks/twf_b_j_63", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_46", 
+        "flipbook_texture": "textures/blocks/twf_b_g_46", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_61", 
+        "flipbook_texture": "textures/blocks/twf_b_j_61", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_60", 
+        "flipbook_texture": "textures/blocks/twf_b_j_60", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_67", 
+        "flipbook_texture": "textures/blocks/twf_b_j_67", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_66", 
+        "flipbook_texture": "textures/blocks/twf_b_j_66", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_65", 
+        "flipbook_texture": "textures/blocks/twf_b_j_65", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_47", 
+        "flipbook_texture": "textures/blocks/twf_b_g_47", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_33", 
+        "flipbook_texture": "textures/blocks/twf_b_g_33", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_32", 
+        "flipbook_texture": "textures/blocks/twf_b_g_32", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_31", 
+        "flipbook_texture": "textures/blocks/twf_b_g_31", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_33", 
+        "flipbook_texture": "textures/blocks/twf_b_b_33", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_37", 
+        "flipbook_texture": "textures/blocks/twf_b_g_37", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_36", 
+        "flipbook_texture": "textures/blocks/twf_b_g_36", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_35", 
+        "flipbook_texture": "textures/blocks/twf_b_g_35", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_34", 
+        "flipbook_texture": "textures/blocks/twf_b_g_34", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_39", 
+        "flipbook_texture": "textures/blocks/twf_b_g_39", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_38", 
+        "flipbook_texture": "textures/blocks/twf_b_g_38", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_54", 
+        "flipbook_texture": "textures/blocks/twf_b_g_54", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_82", 
+        "flipbook_texture": "textures/blocks/twf_b_j_82", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_66", 
+        "flipbook_texture": "textures/blocks/twf_b_e_66", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_67", 
+        "flipbook_texture": "textures/blocks/twf_b_e_67", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_64", 
+        "flipbook_texture": "textures/blocks/twf_b_e_64", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_65", 
+        "flipbook_texture": "textures/blocks/twf_b_e_65", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_89", 
+        "flipbook_texture": "textures/blocks/twf_b_b_89", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_88", 
+        "flipbook_texture": "textures/blocks/twf_b_b_88", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_60", 
+        "flipbook_texture": "textures/blocks/twf_b_e_60", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_61", 
+        "flipbook_texture": "textures/blocks/twf_b_e_61", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_85", 
+        "flipbook_texture": "textures/blocks/twf_b_b_85", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_84", 
+        "flipbook_texture": "textures/blocks/twf_b_b_84", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_87", 
+        "flipbook_texture": "textures/blocks/twf_b_b_87", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_86", 
+        "flipbook_texture": "textures/blocks/twf_b_b_86", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_81", 
+        "flipbook_texture": "textures/blocks/twf_b_b_81", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_80", 
+        "flipbook_texture": "textures/blocks/twf_b_b_80", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_83", 
+        "flipbook_texture": "textures/blocks/twf_b_b_83", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_82", 
+        "flipbook_texture": "textures/blocks/twf_b_b_82", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_9", 
+        "flipbook_texture": "textures/blocks/twf_b_i_9", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_8", 
+        "flipbook_texture": "textures/blocks/twf_b_i_8", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_7", 
+        "flipbook_texture": "textures/blocks/twf_b_i_7", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_6", 
+        "flipbook_texture": "textures/blocks/twf_b_i_6", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_5", 
+        "flipbook_texture": "textures/blocks/twf_b_i_5", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_4", 
+        "flipbook_texture": "textures/blocks/twf_b_i_4", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_3", 
+        "flipbook_texture": "textures/blocks/twf_b_i_3", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_2", 
+        "flipbook_texture": "textures/blocks/twf_b_i_2", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_1", 
+        "flipbook_texture": "textures/blocks/twf_b_i_1", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_0", 
+        "flipbook_texture": "textures/blocks/twf_b_i_0", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_31", 
+        "flipbook_texture": "textures/blocks/twf_b_a_31", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_30", 
+        "flipbook_texture": "textures/blocks/twf_b_a_30", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_33", 
+        "flipbook_texture": "textures/blocks/twf_b_a_33", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_32", 
+        "flipbook_texture": "textures/blocks/twf_b_a_32", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_35", 
+        "flipbook_texture": "textures/blocks/twf_b_a_35", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_34", 
+        "flipbook_texture": "textures/blocks/twf_b_a_34", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_37", 
+        "flipbook_texture": "textures/blocks/twf_b_a_37", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_36", 
+        "flipbook_texture": "textures/blocks/twf_b_a_36", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_39", 
+        "flipbook_texture": "textures/blocks/twf_b_a_39", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_38", 
+        "flipbook_texture": "textures/blocks/twf_b_a_38", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_88", 
+        "flipbook_texture": "textures/blocks/twf_b_g_88", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_89", 
+        "flipbook_texture": "textures/blocks/twf_b_g_89", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_18", 
+        "flipbook_texture": "textures/blocks/twf_b_b_18", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_19", 
+        "flipbook_texture": "textures/blocks/twf_b_b_19", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_40", 
+        "flipbook_texture": "textures/blocks/twf_b_j_40", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_12", 
+        "flipbook_texture": "textures/blocks/twf_b_b_12", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_13", 
+        "flipbook_texture": "textures/blocks/twf_b_b_13", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_10", 
+        "flipbook_texture": "textures/blocks/twf_b_b_10", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_11", 
+        "flipbook_texture": "textures/blocks/twf_b_b_11", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_16", 
+        "flipbook_texture": "textures/blocks/twf_b_b_16", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_17", 
+        "flipbook_texture": "textures/blocks/twf_b_b_17", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_14", 
+        "flipbook_texture": "textures/blocks/twf_b_b_14", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_15", 
+        "flipbook_texture": "textures/blocks/twf_b_b_15", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_5", 
+        "flipbook_texture": "textures/blocks/twf_b_h_5", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_12", 
+        "flipbook_texture": "textures/blocks/twf_b_i_12", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_52", 
+        "flipbook_texture": "textures/blocks/twf_b_f_52", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_53", 
+        "flipbook_texture": "textures/blocks/twf_b_f_53", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_50", 
+        "flipbook_texture": "textures/blocks/twf_b_f_50", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_51", 
+        "flipbook_texture": "textures/blocks/twf_b_f_51", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_56", 
+        "flipbook_texture": "textures/blocks/twf_b_f_56", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_57", 
+        "flipbook_texture": "textures/blocks/twf_b_f_57", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_54", 
+        "flipbook_texture": "textures/blocks/twf_b_f_54", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_55", 
+        "flipbook_texture": "textures/blocks/twf_b_f_55", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_58", 
+        "flipbook_texture": "textures/blocks/twf_b_f_58", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_59", 
+        "flipbook_texture": "textures/blocks/twf_b_f_59", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_2", 
+        "flipbook_texture": "textures/blocks/twf_b_h_2", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_44", 
+        "flipbook_texture": "textures/blocks/twf_b_a_44", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_45", 
+        "flipbook_texture": "textures/blocks/twf_b_a_45", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_46", 
+        "flipbook_texture": "textures/blocks/twf_b_a_46", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_47", 
+        "flipbook_texture": "textures/blocks/twf_b_a_47", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_40", 
+        "flipbook_texture": "textures/blocks/twf_b_a_40", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_41", 
+        "flipbook_texture": "textures/blocks/twf_b_a_41", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_42", 
+        "flipbook_texture": "textures/blocks/twf_b_a_42", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_43", 
+        "flipbook_texture": "textures/blocks/twf_b_a_43", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_48", 
+        "flipbook_texture": "textures/blocks/twf_b_a_48", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_49", 
+        "flipbook_texture": "textures/blocks/twf_b_a_49", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_88", 
+        "flipbook_texture": "textures/blocks/twf_b_i_88", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_89", 
+        "flipbook_texture": "textures/blocks/twf_b_i_89", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_79", 
+        "flipbook_texture": "textures/blocks/twf_b_c_79", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_78", 
+        "flipbook_texture": "textures/blocks/twf_b_c_78", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_18", 
+        "flipbook_texture": "textures/blocks/twf_b_d_18", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_19", 
+        "flipbook_texture": "textures/blocks/twf_b_d_19", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_73", 
+        "flipbook_texture": "textures/blocks/twf_b_c_73", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_72", 
+        "flipbook_texture": "textures/blocks/twf_b_c_72", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_71", 
+        "flipbook_texture": "textures/blocks/twf_b_c_71", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_70", 
+        "flipbook_texture": "textures/blocks/twf_b_c_70", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_10", 
+        "flipbook_texture": "textures/blocks/twf_b_d_10", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_11", 
+        "flipbook_texture": "textures/blocks/twf_b_d_11", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_75", 
+        "flipbook_texture": "textures/blocks/twf_b_c_75", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_74", 
+        "flipbook_texture": "textures/blocks/twf_b_c_74", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_13", 
+        "flipbook_texture": "textures/blocks/twf_b_f_13", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_10", 
+        "flipbook_texture": "textures/blocks/twf_b_i_10", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_75", 
+        "flipbook_texture": "textures/blocks/twf_b_i_75", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_74", 
+        "flipbook_texture": "textures/blocks/twf_b_i_74", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_77", 
+        "flipbook_texture": "textures/blocks/twf_b_i_77", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_76", 
+        "flipbook_texture": "textures/blocks/twf_b_i_76", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_71", 
+        "flipbook_texture": "textures/blocks/twf_b_i_71", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_70", 
+        "flipbook_texture": "textures/blocks/twf_b_i_70", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_73", 
+        "flipbook_texture": "textures/blocks/twf_b_i_73", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_72", 
+        "flipbook_texture": "textures/blocks/twf_b_i_72", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_59", 
+        "flipbook_texture": "textures/blocks/twf_b_g_59", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_79", 
+        "flipbook_texture": "textures/blocks/twf_b_i_79", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_56", 
+        "flipbook_texture": "textures/blocks/twf_b_h_56", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_69", 
+        "flipbook_texture": "textures/blocks/twf_b_d_69", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_68", 
+        "flipbook_texture": "textures/blocks/twf_b_d_68", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_61", 
+        "flipbook_texture": "textures/blocks/twf_b_d_61", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_60", 
+        "flipbook_texture": "textures/blocks/twf_b_d_60", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_63", 
+        "flipbook_texture": "textures/blocks/twf_b_d_63", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_62", 
+        "flipbook_texture": "textures/blocks/twf_b_d_62", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_65", 
+        "flipbook_texture": "textures/blocks/twf_b_d_65", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_64", 
+        "flipbook_texture": "textures/blocks/twf_b_d_64", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_67", 
+        "flipbook_texture": "textures/blocks/twf_b_d_67", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_66", 
+        "flipbook_texture": "textures/blocks/twf_b_d_66", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_98", 
+        "flipbook_texture": "textures/blocks/twf_b_i_98", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_76", 
+        "flipbook_texture": "textures/blocks/twf_b_h_76", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_87", 
+        "flipbook_texture": "textures/blocks/twf_b_d_87", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_86", 
+        "flipbook_texture": "textures/blocks/twf_b_d_86", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_85", 
+        "flipbook_texture": "textures/blocks/twf_b_d_85", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_84", 
+        "flipbook_texture": "textures/blocks/twf_b_d_84", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_83", 
+        "flipbook_texture": "textures/blocks/twf_b_d_83", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_82", 
+        "flipbook_texture": "textures/blocks/twf_b_d_82", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_81", 
+        "flipbook_texture": "textures/blocks/twf_b_d_81", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_80", 
+        "flipbook_texture": "textures/blocks/twf_b_d_80", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_62", 
+        "flipbook_texture": "textures/blocks/twf_b_e_62", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_89", 
+        "flipbook_texture": "textures/blocks/twf_b_d_89", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_88", 
+        "flipbook_texture": "textures/blocks/twf_b_d_88", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_38", 
+        "flipbook_texture": "textures/blocks/twf_b_j_38", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_18", 
+        "flipbook_texture": "textures/blocks/twf_b_f_18", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_14", 
+        "flipbook_texture": "textures/blocks/twf_b_c_14", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_19", 
+        "flipbook_texture": "textures/blocks/twf_b_f_19", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_39", 
+        "flipbook_texture": "textures/blocks/twf_b_j_39", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_12", 
+        "flipbook_texture": "textures/blocks/twf_b_j_12", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_13", 
+        "flipbook_texture": "textures/blocks/twf_b_j_13", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_10", 
+        "flipbook_texture": "textures/blocks/twf_b_j_10", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_11", 
+        "flipbook_texture": "textures/blocks/twf_b_j_11", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_16", 
+        "flipbook_texture": "textures/blocks/twf_b_j_16", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_17", 
+        "flipbook_texture": "textures/blocks/twf_b_j_17", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_14", 
+        "flipbook_texture": "textures/blocks/twf_b_j_14", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_15", 
+        "flipbook_texture": "textures/blocks/twf_b_j_15", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_59", 
+        "flipbook_texture": "textures/blocks/twf_b_i_59", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_18", 
+        "flipbook_texture": "textures/blocks/twf_b_j_18", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_19", 
+        "flipbook_texture": "textures/blocks/twf_b_j_19", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_68", 
+        "flipbook_texture": "textures/blocks/twf_b_e_68", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_12", 
+        "flipbook_texture": "textures/blocks/twf_b_c_12", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_48", 
+        "flipbook_texture": "textures/blocks/twf_b_g_48", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_49", 
+        "flipbook_texture": "textures/blocks/twf_b_g_49", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_58", 
+        "flipbook_texture": "textures/blocks/twf_b_b_58", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_59", 
+        "flipbook_texture": "textures/blocks/twf_b_b_59", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_56", 
+        "flipbook_texture": "textures/blocks/twf_b_b_56", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_57", 
+        "flipbook_texture": "textures/blocks/twf_b_b_57", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_54", 
+        "flipbook_texture": "textures/blocks/twf_b_b_54", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_55", 
+        "flipbook_texture": "textures/blocks/twf_b_b_55", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_52", 
+        "flipbook_texture": "textures/blocks/twf_b_b_52", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_53", 
+        "flipbook_texture": "textures/blocks/twf_b_b_53", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_50", 
+        "flipbook_texture": "textures/blocks/twf_b_b_50", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_51", 
+        "flipbook_texture": "textures/blocks/twf_b_b_51", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_59", 
+        "flipbook_texture": "textures/blocks/twf_b_h_59", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_16", 
+        "flipbook_texture": "textures/blocks/twf_b_f_16", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_17", 
+        "flipbook_texture": "textures/blocks/twf_b_f_17", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_14", 
+        "flipbook_texture": "textures/blocks/twf_b_f_14", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_15", 
+        "flipbook_texture": "textures/blocks/twf_b_f_15", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_39", 
+        "flipbook_texture": "textures/blocks/twf_b_e_39", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_38", 
+        "flipbook_texture": "textures/blocks/twf_b_e_38", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_10", 
+        "flipbook_texture": "textures/blocks/twf_b_f_10", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_11", 
+        "flipbook_texture": "textures/blocks/twf_b_f_11", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_35", 
+        "flipbook_texture": "textures/blocks/twf_b_e_35", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_34", 
+        "flipbook_texture": "textures/blocks/twf_b_e_34", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_37", 
+        "flipbook_texture": "textures/blocks/twf_b_e_37", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_36", 
+        "flipbook_texture": "textures/blocks/twf_b_e_36", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_31", 
+        "flipbook_texture": "textures/blocks/twf_b_e_31", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_30", 
+        "flipbook_texture": "textures/blocks/twf_b_e_30", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_33", 
+        "flipbook_texture": "textures/blocks/twf_b_e_33", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_32", 
+        "flipbook_texture": "textures/blocks/twf_b_e_32", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_40", 
+        "flipbook_texture": "textures/blocks/twf_b_g_40", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_21", 
+        "flipbook_texture": "textures/blocks/twf_b_j_21", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_20", 
+        "flipbook_texture": "textures/blocks/twf_b_j_20", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_10", 
+        "flipbook_texture": "textures/blocks/twf_b_e_10", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_4", 
+        "flipbook_texture": "textures/blocks/twf_b_f_4", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_5", 
+        "flipbook_texture": "textures/blocks/twf_b_f_5", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_6", 
+        "flipbook_texture": "textures/blocks/twf_b_f_6", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_7", 
+        "flipbook_texture": "textures/blocks/twf_b_f_7", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_0", 
+        "flipbook_texture": "textures/blocks/twf_b_f_0", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_1", 
+        "flipbook_texture": "textures/blocks/twf_b_f_1", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_2", 
+        "flipbook_texture": "textures/blocks/twf_b_f_2", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_3", 
+        "flipbook_texture": "textures/blocks/twf_b_f_3", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_8", 
+        "flipbook_texture": "textures/blocks/twf_b_f_8", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_9", 
+        "flipbook_texture": "textures/blocks/twf_b_f_9", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_86", 
+        "flipbook_texture": "textures/blocks/twf_b_g_86", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_90", 
+        "flipbook_texture": "textures/blocks/twf_b_i_90", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_65", 
+        "flipbook_texture": "textures/blocks/twf_b_i_65", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_87", 
+        "flipbook_texture": "textures/blocks/twf_b_g_87", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_84", 
+        "flipbook_texture": "textures/blocks/twf_b_g_84", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_85", 
+        "flipbook_texture": "textures/blocks/twf_b_g_85", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_29", 
+        "flipbook_texture": "textures/blocks/twf_b_j_29", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_8", 
+        "flipbook_texture": "textures/blocks/twf_b_h_8", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_82", 
+        "flipbook_texture": "textures/blocks/twf_b_g_82", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_94", 
+        "flipbook_texture": "textures/blocks/twf_b_i_94", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_83", 
+        "flipbook_texture": "textures/blocks/twf_b_g_83", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_39", 
+        "flipbook_texture": "textures/blocks/twf_b_i_39", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_38", 
+        "flipbook_texture": "textures/blocks/twf_b_i_38", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_80", 
+        "flipbook_texture": "textures/blocks/twf_b_g_80", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_31", 
+        "flipbook_texture": "textures/blocks/twf_b_i_31", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_30", 
+        "flipbook_texture": "textures/blocks/twf_b_i_30", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_33", 
+        "flipbook_texture": "textures/blocks/twf_b_i_33", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_81", 
+        "flipbook_texture": "textures/blocks/twf_b_g_81", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_35", 
+        "flipbook_texture": "textures/blocks/twf_b_i_35", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_34", 
+        "flipbook_texture": "textures/blocks/twf_b_i_34", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_54", 
+        "flipbook_texture": "textures/blocks/twf_b_h_54", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_36", 
+        "flipbook_texture": "textures/blocks/twf_b_i_36", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_9", 
+        "flipbook_texture": "textures/blocks/twf_b_h_9", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_39", 
+        "flipbook_texture": "textures/blocks/twf_b_h_39", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_78", 
+        "flipbook_texture": "textures/blocks/twf_b_j_78", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_79", 
+        "flipbook_texture": "textures/blocks/twf_b_j_79", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_58", 
+        "flipbook_texture": "textures/blocks/twf_b_h_58", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_72", 
+        "flipbook_texture": "textures/blocks/twf_b_h_72", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_84", 
+        "flipbook_texture": "textures/blocks/twf_b_i_84", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_73", 
+        "flipbook_texture": "textures/blocks/twf_b_h_73", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_88", 
+        "flipbook_texture": "textures/blocks/twf_b_c_88", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_54", 
+        "flipbook_texture": "textures/blocks/twf_b_i_54", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_50", 
+        "flipbook_texture": "textures/blocks/twf_b_d_50", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_51", 
+        "flipbook_texture": "textures/blocks/twf_b_d_51", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_52", 
+        "flipbook_texture": "textures/blocks/twf_b_d_52", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_89", 
+        "flipbook_texture": "textures/blocks/twf_b_c_89", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_54", 
+        "flipbook_texture": "textures/blocks/twf_b_d_54", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_55", 
+        "flipbook_texture": "textures/blocks/twf_b_d_55", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_56", 
+        "flipbook_texture": "textures/blocks/twf_b_d_56", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_57", 
+        "flipbook_texture": "textures/blocks/twf_b_d_57", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_58", 
+        "flipbook_texture": "textures/blocks/twf_b_d_58", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_59", 
+        "flipbook_texture": "textures/blocks/twf_b_d_59", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_46", 
+        "flipbook_texture": "textures/blocks/twf_b_i_46", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_47", 
+        "flipbook_texture": "textures/blocks/twf_b_i_47", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_40", 
+        "flipbook_texture": "textures/blocks/twf_b_i_40", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_41", 
+        "flipbook_texture": "textures/blocks/twf_b_i_41", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_49", 
+        "flipbook_texture": "textures/blocks/twf_b_h_49", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_48", 
+        "flipbook_texture": "textures/blocks/twf_b_h_48", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_73", 
+        "flipbook_texture": "textures/blocks/twf_b_j_73", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_74", 
+        "flipbook_texture": "textures/blocks/twf_b_h_74", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_74", 
+        "flipbook_texture": "textures/blocks/twf_b_j_74", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_75", 
+        "flipbook_texture": "textures/blocks/twf_b_h_75", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_75", 
+        "flipbook_texture": "textures/blocks/twf_b_j_75", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_57", 
+        "flipbook_texture": "textures/blocks/twf_b_i_57", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_76", 
+        "flipbook_texture": "textures/blocks/twf_b_j_76", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_56", 
+        "flipbook_texture": "textures/blocks/twf_b_i_56", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_77", 
+        "flipbook_texture": "textures/blocks/twf_b_j_77", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_49", 
+        "flipbook_texture": "textures/blocks/twf_b_d_49", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_20", 
+        "flipbook_texture": "textures/blocks/twf_b_g_20", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_48", 
+        "flipbook_texture": "textures/blocks/twf_b_d_48", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_79", 
+        "flipbook_texture": "textures/blocks/twf_b_g_79", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_21", 
+        "flipbook_texture": "textures/blocks/twf_b_g_21", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_53", 
+        "flipbook_texture": "textures/blocks/twf_b_i_53", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_78", 
+        "flipbook_texture": "textures/blocks/twf_b_g_78", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_22", 
+        "flipbook_texture": "textures/blocks/twf_b_g_22", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_52", 
+        "flipbook_texture": "textures/blocks/twf_b_i_52", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_23", 
+        "flipbook_texture": "textures/blocks/twf_b_g_23", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_51", 
+        "flipbook_texture": "textures/blocks/twf_b_i_51", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_24", 
+        "flipbook_texture": "textures/blocks/twf_b_g_24", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_50", 
+        "flipbook_texture": "textures/blocks/twf_b_i_50", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_75", 
+        "flipbook_texture": "textures/blocks/twf_b_g_75", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_25", 
+        "flipbook_texture": "textures/blocks/twf_b_g_25", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_71", 
+        "flipbook_texture": "textures/blocks/twf_b_e_71", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_70", 
+        "flipbook_texture": "textures/blocks/twf_b_e_70", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_73", 
+        "flipbook_texture": "textures/blocks/twf_b_e_73", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_72", 
+        "flipbook_texture": "textures/blocks/twf_b_e_72", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_75", 
+        "flipbook_texture": "textures/blocks/twf_b_e_75", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_74", 
+        "flipbook_texture": "textures/blocks/twf_b_e_74", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_77", 
+        "flipbook_texture": "textures/blocks/twf_b_e_77", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_76", 
+        "flipbook_texture": "textures/blocks/twf_b_e_76", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_79", 
+        "flipbook_texture": "textures/blocks/twf_b_e_79", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_78", 
+        "flipbook_texture": "textures/blocks/twf_b_e_78", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_27", 
+        "flipbook_texture": "textures/blocks/twf_b_g_27", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_74", 
+        "flipbook_texture": "textures/blocks/twf_b_g_74", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_62", 
+        "flipbook_texture": "textures/blocks/twf_b_i_62", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_3", 
+        "flipbook_texture": "textures/blocks/twf_b_e_3", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_2", 
+        "flipbook_texture": "textures/blocks/twf_b_e_2", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_1", 
+        "flipbook_texture": "textures/blocks/twf_b_e_1", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_0", 
+        "flipbook_texture": "textures/blocks/twf_b_e_0", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_7", 
+        "flipbook_texture": "textures/blocks/twf_b_e_7", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_6", 
+        "flipbook_texture": "textures/blocks/twf_b_e_6", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_5", 
+        "flipbook_texture": "textures/blocks/twf_b_e_5", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_4", 
+        "flipbook_texture": "textures/blocks/twf_b_e_4", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_99", 
+        "flipbook_texture": "textures/blocks/twf_b_g_99", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_98", 
+        "flipbook_texture": "textures/blocks/twf_b_g_98", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_9", 
+        "flipbook_texture": "textures/blocks/twf_b_e_9", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_8", 
+        "flipbook_texture": "textures/blocks/twf_b_e_8", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_56", 
+        "flipbook_texture": "textures/blocks/twf_b_j_56", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_57", 
+        "flipbook_texture": "textures/blocks/twf_b_j_57", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_54", 
+        "flipbook_texture": "textures/blocks/twf_b_j_54", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_55", 
+        "flipbook_texture": "textures/blocks/twf_b_j_55", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_52", 
+        "flipbook_texture": "textures/blocks/twf_b_j_52", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_63", 
+        "flipbook_texture": "textures/blocks/twf_b_i_63", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_50", 
+        "flipbook_texture": "textures/blocks/twf_b_j_50", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_51", 
+        "flipbook_texture": "textures/blocks/twf_b_j_51", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_58", 
+        "flipbook_texture": "textures/blocks/twf_b_j_58", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_59", 
+        "flipbook_texture": "textures/blocks/twf_b_j_59", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_84", 
+        "flipbook_texture": "textures/blocks/twf_b_j_84", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_30", 
+        "flipbook_texture": "textures/blocks/twf_b_g_30", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_90", 
+        "flipbook_texture": "textures/blocks/twf_b_h_90", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_91", 
+        "flipbook_texture": "textures/blocks/twf_b_h_91", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_92", 
+        "flipbook_texture": "textures/blocks/twf_b_h_92", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_93", 
+        "flipbook_texture": "textures/blocks/twf_b_h_93", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_94", 
+        "flipbook_texture": "textures/blocks/twf_b_h_94", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_95", 
+        "flipbook_texture": "textures/blocks/twf_b_h_95", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_96", 
+        "flipbook_texture": "textures/blocks/twf_b_h_96", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_97", 
+        "flipbook_texture": "textures/blocks/twf_b_h_97", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_98", 
+        "flipbook_texture": "textures/blocks/twf_b_h_98", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_99", 
+        "flipbook_texture": "textures/blocks/twf_b_h_99", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_3", 
+        "flipbook_texture": "textures/blocks/twf_b_g_3", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_71", 
+        "flipbook_texture": "textures/blocks/twf_b_j_71", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_49", 
+        "flipbook_texture": "textures/blocks/twf_b_f_49", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_48", 
+        "flipbook_texture": "textures/blocks/twf_b_f_48", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_45", 
+        "flipbook_texture": "textures/blocks/twf_b_f_45", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_44", 
+        "flipbook_texture": "textures/blocks/twf_b_f_44", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_47", 
+        "flipbook_texture": "textures/blocks/twf_b_f_47", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_46", 
+        "flipbook_texture": "textures/blocks/twf_b_f_46", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_41", 
+        "flipbook_texture": "textures/blocks/twf_b_f_41", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_40", 
+        "flipbook_texture": "textures/blocks/twf_b_f_40", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_43", 
+        "flipbook_texture": "textures/blocks/twf_b_f_43", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_42", 
+        "flipbook_texture": "textures/blocks/twf_b_f_42", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_57", 
+        "flipbook_texture": "textures/blocks/twf_b_a_57", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_56", 
+        "flipbook_texture": "textures/blocks/twf_b_a_56", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_55", 
+        "flipbook_texture": "textures/blocks/twf_b_a_55", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_54", 
+        "flipbook_texture": "textures/blocks/twf_b_a_54", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_53", 
+        "flipbook_texture": "textures/blocks/twf_b_a_53", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_52", 
+        "flipbook_texture": "textures/blocks/twf_b_a_52", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_51", 
+        "flipbook_texture": "textures/blocks/twf_b_a_51", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_50", 
+        "flipbook_texture": "textures/blocks/twf_b_a_50", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_59", 
+        "flipbook_texture": "textures/blocks/twf_b_a_59", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_58", 
+        "flipbook_texture": "textures/blocks/twf_b_a_58", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_99", 
+        "flipbook_texture": "textures/blocks/twf_b_i_99", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_32", 
+        "flipbook_texture": "textures/blocks/twf_b_i_32", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_81", 
+        "flipbook_texture": "textures/blocks/twf_b_i_81", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_93", 
+        "flipbook_texture": "textures/blocks/twf_b_i_93", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_92", 
+        "flipbook_texture": "textures/blocks/twf_b_i_92", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_91", 
+        "flipbook_texture": "textures/blocks/twf_b_i_91", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_63", 
+        "flipbook_texture": "textures/blocks/twf_b_h_63", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_97", 
+        "flipbook_texture": "textures/blocks/twf_b_i_97", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_96", 
+        "flipbook_texture": "textures/blocks/twf_b_i_96", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_95", 
+        "flipbook_texture": "textures/blocks/twf_b_i_95", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_13", 
+        "flipbook_texture": "textures/blocks/twf_b_i_13", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_37", 
+        "flipbook_texture": "textures/blocks/twf_b_i_37", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_93", 
+        "flipbook_texture": "textures/blocks/twf_b_g_93", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_67", 
+        "flipbook_texture": "textures/blocks/twf_b_i_67", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_92", 
+        "flipbook_texture": "textures/blocks/twf_b_g_92", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_64", 
+        "flipbook_texture": "textures/blocks/twf_b_i_64", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_60", 
+        "flipbook_texture": "textures/blocks/twf_b_i_60", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_66", 
+        "flipbook_texture": "textures/blocks/twf_b_i_66", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_55", 
+        "flipbook_texture": "textures/blocks/twf_b_h_55", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_0", 
+        "flipbook_texture": "textures/blocks/twf_b_j_0", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_23", 
+        "flipbook_texture": "textures/blocks/twf_b_e_23", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_58", 
+        "flipbook_texture": "textures/blocks/twf_b_g_58", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_63", 
+        "flipbook_texture": "textures/blocks/twf_b_e_63", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_2", 
+        "flipbook_texture": "textures/blocks/twf_b_j_2", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_46", 
+        "flipbook_texture": "textures/blocks/twf_b_c_46", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_47", 
+        "flipbook_texture": "textures/blocks/twf_b_c_47", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_44", 
+        "flipbook_texture": "textures/blocks/twf_b_c_44", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_45", 
+        "flipbook_texture": "textures/blocks/twf_b_c_45", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_42", 
+        "flipbook_texture": "textures/blocks/twf_b_c_42", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_43", 
+        "flipbook_texture": "textures/blocks/twf_b_c_43", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_40", 
+        "flipbook_texture": "textures/blocks/twf_b_c_40", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_41", 
+        "flipbook_texture": "textures/blocks/twf_b_c_41", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_4", 
+        "flipbook_texture": "textures/blocks/twf_b_j_4", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_48", 
+        "flipbook_texture": "textures/blocks/twf_b_c_48", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_49", 
+        "flipbook_texture": "textures/blocks/twf_b_c_49", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_6", 
+        "flipbook_texture": "textures/blocks/twf_b_j_6", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_98", 
+        "flipbook_texture": "textures/blocks/twf_b_f_98", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_99", 
+        "flipbook_texture": "textures/blocks/twf_b_f_99", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_96", 
+        "flipbook_texture": "textures/blocks/twf_b_f_96", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_97", 
+        "flipbook_texture": "textures/blocks/twf_b_f_97", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_94", 
+        "flipbook_texture": "textures/blocks/twf_b_f_94", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_25", 
+        "flipbook_texture": "textures/blocks/twf_b_e_25", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_92", 
+        "flipbook_texture": "textures/blocks/twf_b_f_92", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_93", 
+        "flipbook_texture": "textures/blocks/twf_b_f_93", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_90", 
+        "flipbook_texture": "textures/blocks/twf_b_f_90", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_91", 
+        "flipbook_texture": "textures/blocks/twf_b_f_91", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_8", 
+        "flipbook_texture": "textures/blocks/twf_b_b_8", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_9", 
+        "flipbook_texture": "textures/blocks/twf_b_b_9", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_82", 
+        "flipbook_texture": "textures/blocks/twf_b_a_82", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_83", 
+        "flipbook_texture": "textures/blocks/twf_b_a_83", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_84", 
+        "flipbook_texture": "textures/blocks/twf_b_a_84", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_85", 
+        "flipbook_texture": "textures/blocks/twf_b_a_85", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_86", 
+        "flipbook_texture": "textures/blocks/twf_b_a_86", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_87", 
+        "flipbook_texture": "textures/blocks/twf_b_a_87", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_0", 
+        "flipbook_texture": "textures/blocks/twf_b_b_0", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_1", 
+        "flipbook_texture": "textures/blocks/twf_b_b_1", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_2", 
+        "flipbook_texture": "textures/blocks/twf_b_b_2", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_3", 
+        "flipbook_texture": "textures/blocks/twf_b_b_3", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_4", 
+        "flipbook_texture": "textures/blocks/twf_b_b_4", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_5", 
+        "flipbook_texture": "textures/blocks/twf_b_b_5", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_6", 
+        "flipbook_texture": "textures/blocks/twf_b_b_6", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_7", 
+        "flipbook_texture": "textures/blocks/twf_b_b_7", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_49", 
+        "flipbook_texture": "textures/blocks/twf_b_b_49", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_48", 
+        "flipbook_texture": "textures/blocks/twf_b_b_48", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_41", 
+        "flipbook_texture": "textures/blocks/twf_b_b_41", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_40", 
+        "flipbook_texture": "textures/blocks/twf_b_b_40", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_43", 
+        "flipbook_texture": "textures/blocks/twf_b_b_43", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_42", 
+        "flipbook_texture": "textures/blocks/twf_b_b_42", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_45", 
+        "flipbook_texture": "textures/blocks/twf_b_b_45", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_44", 
+        "flipbook_texture": "textures/blocks/twf_b_b_44", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_47", 
+        "flipbook_texture": "textures/blocks/twf_b_b_47", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_46", 
+        "flipbook_texture": "textures/blocks/twf_b_b_46", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_98", 
+        "flipbook_texture": "textures/blocks/twf_b_j_98", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_99", 
+        "flipbook_texture": "textures/blocks/twf_b_j_99", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_15", 
+        "flipbook_texture": "textures/blocks/twf_b_a_15", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_92", 
+        "flipbook_texture": "textures/blocks/twf_b_j_92", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_96", 
+        "flipbook_texture": "textures/blocks/twf_b_g_96", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_90", 
+        "flipbook_texture": "textures/blocks/twf_b_j_90", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_91", 
+        "flipbook_texture": "textures/blocks/twf_b_j_91", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_96", 
+        "flipbook_texture": "textures/blocks/twf_b_j_96", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_97", 
+        "flipbook_texture": "textures/blocks/twf_b_j_97", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_94", 
+        "flipbook_texture": "textures/blocks/twf_b_j_94", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_95", 
+        "flipbook_texture": "textures/blocks/twf_b_j_95", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_48", 
+        "flipbook_texture": "textures/blocks/twf_b_e_48", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_49", 
+        "flipbook_texture": "textures/blocks/twf_b_e_49", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_28", 
+        "flipbook_texture": "textures/blocks/twf_b_f_28", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_40", 
+        "flipbook_texture": "textures/blocks/twf_b_e_40", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_41", 
+        "flipbook_texture": "textures/blocks/twf_b_e_41", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_42", 
+        "flipbook_texture": "textures/blocks/twf_b_e_42", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_43", 
+        "flipbook_texture": "textures/blocks/twf_b_e_43", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_44", 
+        "flipbook_texture": "textures/blocks/twf_b_e_44", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_45", 
+        "flipbook_texture": "textures/blocks/twf_b_e_45", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_46", 
+        "flipbook_texture": "textures/blocks/twf_b_e_46", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_47", 
+        "flipbook_texture": "textures/blocks/twf_b_e_47", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_61", 
+        "flipbook_texture": "textures/blocks/twf_b_i_61", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_68", 
+        "flipbook_texture": "textures/blocks/twf_b_j_68", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_19", 
+        "flipbook_texture": "textures/blocks/twf_b_a_19", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_18", 
+        "flipbook_texture": "textures/blocks/twf_b_a_18", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_38", 
+        "flipbook_texture": "textures/blocks/twf_b_b_38", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_39", 
+        "flipbook_texture": "textures/blocks/twf_b_b_39", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_22", 
+        "flipbook_texture": "textures/blocks/twf_b_f_22", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_34", 
+        "flipbook_texture": "textures/blocks/twf_b_b_34", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_35", 
+        "flipbook_texture": "textures/blocks/twf_b_b_35", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_36", 
+        "flipbook_texture": "textures/blocks/twf_b_b_36", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_37", 
+        "flipbook_texture": "textures/blocks/twf_b_b_37", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_30", 
+        "flipbook_texture": "textures/blocks/twf_b_b_30", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_31", 
+        "flipbook_texture": "textures/blocks/twf_b_b_31", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_32", 
+        "flipbook_texture": "textures/blocks/twf_b_b_32", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_14", 
+        "flipbook_texture": "textures/blocks/twf_b_a_14", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_80", 
+        "flipbook_texture": "textures/blocks/twf_b_i_80", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_1", 
+        "flipbook_texture": "textures/blocks/twf_b_j_1", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_70", 
+        "flipbook_texture": "textures/blocks/twf_b_h_70", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_37", 
+        "flipbook_texture": "textures/blocks/twf_b_j_37", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_30", 
+        "flipbook_texture": "textures/blocks/twf_b_j_30", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_24", 
+        "flipbook_texture": "textures/blocks/twf_b_f_24", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_31", 
+        "flipbook_texture": "textures/blocks/twf_b_j_31", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_74", 
+        "flipbook_texture": "textures/blocks/twf_b_f_74", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_75", 
+        "flipbook_texture": "textures/blocks/twf_b_f_75", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_76", 
+        "flipbook_texture": "textures/blocks/twf_b_f_76", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_77", 
+        "flipbook_texture": "textures/blocks/twf_b_f_77", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_70", 
+        "flipbook_texture": "textures/blocks/twf_b_f_70", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_71", 
+        "flipbook_texture": "textures/blocks/twf_b_f_71", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_72", 
+        "flipbook_texture": "textures/blocks/twf_b_f_72", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_73", 
+        "flipbook_texture": "textures/blocks/twf_b_f_73", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_78", 
+        "flipbook_texture": "textures/blocks/twf_b_f_78", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_79", 
+        "flipbook_texture": "textures/blocks/twf_b_f_79", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_71", 
+        "flipbook_texture": "textures/blocks/twf_b_h_71", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_14", 
+        "flipbook_texture": "textures/blocks/twf_b_d_14", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_42", 
+        "flipbook_texture": "textures/blocks/twf_b_j_42", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_15", 
+        "flipbook_texture": "textures/blocks/twf_b_d_15", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_2", 
+        "flipbook_texture": "textures/blocks/twf_b_g_2", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_16", 
+        "flipbook_texture": "textures/blocks/twf_b_d_16", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_6", 
+        "flipbook_texture": "textures/blocks/twf_b_h_6", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_7", 
+        "flipbook_texture": "textures/blocks/twf_b_h_7", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_4", 
+        "flipbook_texture": "textures/blocks/twf_b_h_4", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_17", 
+        "flipbook_texture": "textures/blocks/twf_b_d_17", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_19", 
+        "flipbook_texture": "textures/blocks/twf_b_c_19", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_18", 
+        "flipbook_texture": "textures/blocks/twf_b_c_18", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_0", 
+        "flipbook_texture": "textures/blocks/twf_b_h_0", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_1", 
+        "flipbook_texture": "textures/blocks/twf_b_h_1", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_15", 
+        "flipbook_texture": "textures/blocks/twf_b_c_15", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_77", 
+        "flipbook_texture": "textures/blocks/twf_b_c_77", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_17", 
+        "flipbook_texture": "textures/blocks/twf_b_c_17", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_16", 
+        "flipbook_texture": "textures/blocks/twf_b_c_16", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_11", 
+        "flipbook_texture": "textures/blocks/twf_b_c_11", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_10", 
+        "flipbook_texture": "textures/blocks/twf_b_c_10", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_13", 
+        "flipbook_texture": "textures/blocks/twf_b_c_13", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_76", 
+        "flipbook_texture": "textures/blocks/twf_b_c_76", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_12", 
+        "flipbook_texture": "textures/blocks/twf_b_d_12", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_13", 
+        "flipbook_texture": "textures/blocks/twf_b_d_13", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_3", 
+        "flipbook_texture": "textures/blocks/twf_b_h_3", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_83", 
+        "flipbook_texture": "textures/blocks/twf_b_i_83", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_77", 
+        "flipbook_texture": "textures/blocks/twf_b_h_77", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_43", 
+        "flipbook_texture": "textures/blocks/twf_b_d_43", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_42", 
+        "flipbook_texture": "textures/blocks/twf_b_d_42", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_41", 
+        "flipbook_texture": "textures/blocks/twf_b_d_41", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_40", 
+        "flipbook_texture": "textures/blocks/twf_b_d_40", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_47", 
+        "flipbook_texture": "textures/blocks/twf_b_d_47", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_46", 
+        "flipbook_texture": "textures/blocks/twf_b_d_46", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_45", 
+        "flipbook_texture": "textures/blocks/twf_b_d_45", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_44", 
+        "flipbook_texture": "textures/blocks/twf_b_d_44", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_82", 
+        "flipbook_texture": "textures/blocks/twf_b_c_82", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_83", 
+        "flipbook_texture": "textures/blocks/twf_b_c_83", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_80", 
+        "flipbook_texture": "textures/blocks/twf_b_c_80", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_81", 
+        "flipbook_texture": "textures/blocks/twf_b_c_81", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_86", 
+        "flipbook_texture": "textures/blocks/twf_b_c_86", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_87", 
+        "flipbook_texture": "textures/blocks/twf_b_c_87", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_84", 
+        "flipbook_texture": "textures/blocks/twf_b_c_84", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_85", 
+        "flipbook_texture": "textures/blocks/twf_b_c_85", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_7", 
+        "flipbook_texture": "textures/blocks/twf_b_a_7", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_6", 
+        "flipbook_texture": "textures/blocks/twf_b_a_6", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_5", 
+        "flipbook_texture": "textures/blocks/twf_b_a_5", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_4", 
+        "flipbook_texture": "textures/blocks/twf_b_a_4", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_3", 
+        "flipbook_texture": "textures/blocks/twf_b_a_3", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_2", 
+        "flipbook_texture": "textures/blocks/twf_b_a_2", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_1", 
+        "flipbook_texture": "textures/blocks/twf_b_a_1", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_0", 
+        "flipbook_texture": "textures/blocks/twf_b_a_0", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_42", 
+        "flipbook_texture": "textures/blocks/twf_b_g_42", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_9", 
+        "flipbook_texture": "textures/blocks/twf_b_a_9", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_8", 
+        "flipbook_texture": "textures/blocks/twf_b_a_8", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_19", 
+        "flipbook_texture": "textures/blocks/twf_b_g_19", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_18", 
+        "flipbook_texture": "textures/blocks/twf_b_g_18", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_69", 
+        "flipbook_texture": "textures/blocks/twf_b_e_69", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_11", 
+        "flipbook_texture": "textures/blocks/twf_b_g_11", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_10", 
+        "flipbook_texture": "textures/blocks/twf_b_g_10", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_13", 
+        "flipbook_texture": "textures/blocks/twf_b_g_13", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_12", 
+        "flipbook_texture": "textures/blocks/twf_b_g_12", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_15", 
+        "flipbook_texture": "textures/blocks/twf_b_g_15", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_14", 
+        "flipbook_texture": "textures/blocks/twf_b_g_14", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_17", 
+        "flipbook_texture": "textures/blocks/twf_b_g_17", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_16", 
+        "flipbook_texture": "textures/blocks/twf_b_g_16", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_47", 
+        "flipbook_texture": "textures/blocks/twf_b_h_47", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_3", 
+        "flipbook_texture": "textures/blocks/twf_b_j_3", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_46", 
+        "flipbook_texture": "textures/blocks/twf_b_h_46", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_43", 
+        "flipbook_texture": "textures/blocks/twf_b_g_43", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_45", 
+        "flipbook_texture": "textures/blocks/twf_b_h_45", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_53", 
+        "flipbook_texture": "textures/blocks/twf_b_d_53", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_43", 
+        "flipbook_texture": "textures/blocks/twf_b_h_43", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_86", 
+        "flipbook_texture": "textures/blocks/twf_b_i_86", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_80", 
+        "flipbook_texture": "textures/blocks/twf_b_a_80", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_42", 
+        "flipbook_texture": "textures/blocks/twf_b_h_42", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_34", 
+        "flipbook_texture": "textures/blocks/twf_b_j_34", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_35", 
+        "flipbook_texture": "textures/blocks/twf_b_j_35", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_36", 
+        "flipbook_texture": "textures/blocks/twf_b_j_36", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_95", 
+        "flipbook_texture": "textures/blocks/twf_b_f_95", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_88", 
+        "flipbook_texture": "textures/blocks/twf_b_e_88", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_89", 
+        "flipbook_texture": "textures/blocks/twf_b_e_89", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_32", 
+        "flipbook_texture": "textures/blocks/twf_b_j_32", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_33", 
+        "flipbook_texture": "textures/blocks/twf_b_j_33", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_84", 
+        "flipbook_texture": "textures/blocks/twf_b_e_84", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_85", 
+        "flipbook_texture": "textures/blocks/twf_b_e_85", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_86", 
+        "flipbook_texture": "textures/blocks/twf_b_e_86", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_87", 
+        "flipbook_texture": "textures/blocks/twf_b_e_87", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_80", 
+        "flipbook_texture": "textures/blocks/twf_b_e_80", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_81", 
+        "flipbook_texture": "textures/blocks/twf_b_e_81", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_82", 
+        "flipbook_texture": "textures/blocks/twf_b_e_82", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_83", 
+        "flipbook_texture": "textures/blocks/twf_b_e_83", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_44", 
+        "flipbook_texture": "textures/blocks/twf_b_i_44", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_45", 
+        "flipbook_texture": "textures/blocks/twf_b_i_45", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_68", 
+        "flipbook_texture": "textures/blocks/twf_b_g_68", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_87", 
+        "flipbook_texture": "textures/blocks/twf_b_i_87", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_69", 
+        "flipbook_texture": "textures/blocks/twf_b_g_69", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_70", 
+        "flipbook_texture": "textures/blocks/twf_b_b_70", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_71", 
+        "flipbook_texture": "textures/blocks/twf_b_b_71", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_72", 
+        "flipbook_texture": "textures/blocks/twf_b_b_72", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_73", 
+        "flipbook_texture": "textures/blocks/twf_b_b_73", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_74", 
+        "flipbook_texture": "textures/blocks/twf_b_b_74", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_75", 
+        "flipbook_texture": "textures/blocks/twf_b_b_75", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_76", 
+        "flipbook_texture": "textures/blocks/twf_b_b_76", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_77", 
+        "flipbook_texture": "textures/blocks/twf_b_b_77", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_78", 
+        "flipbook_texture": "textures/blocks/twf_b_b_78", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_79", 
+        "flipbook_texture": "textures/blocks/twf_b_b_79", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_66", 
+        "flipbook_texture": "textures/blocks/twf_b_g_66", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_67", 
+        "flipbook_texture": "textures/blocks/twf_b_g_67", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_60", 
+        "flipbook_texture": "textures/blocks/twf_b_g_60", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_57", 
+        "flipbook_texture": "textures/blocks/twf_b_g_57", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_62", 
+        "flipbook_texture": "textures/blocks/twf_b_g_62", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_63", 
+        "flipbook_texture": "textures/blocks/twf_b_g_63", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_41", 
+        "flipbook_texture": "textures/blocks/twf_b_j_41", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_64", 
+        "flipbook_texture": "textures/blocks/twf_b_g_64", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_43", 
+        "flipbook_texture": "textures/blocks/twf_b_j_43", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_56", 
+        "flipbook_texture": "textures/blocks/twf_b_g_56", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_45", 
+        "flipbook_texture": "textures/blocks/twf_b_j_45", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_42", 
+        "flipbook_texture": "textures/blocks/twf_b_i_42", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_47", 
+        "flipbook_texture": "textures/blocks/twf_b_j_47", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_65", 
+        "flipbook_texture": "textures/blocks/twf_b_g_65", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_49", 
+        "flipbook_texture": "textures/blocks/twf_b_j_49", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_51", 
+        "flipbook_texture": "textures/blocks/twf_b_g_51", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_9", 
+        "flipbook_texture": "textures/blocks/twf_b_j_9", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_43", 
+        "flipbook_texture": "textures/blocks/twf_b_i_43", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_50", 
+        "flipbook_texture": "textures/blocks/twf_b_g_50", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_78", 
+        "flipbook_texture": "textures/blocks/twf_b_h_78", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_53", 
+        "flipbook_texture": "textures/blocks/twf_b_g_53", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_52", 
+        "flipbook_texture": "textures/blocks/twf_b_g_52", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_72", 
+        "flipbook_texture": "textures/blocks/twf_b_j_72", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_61", 
+        "flipbook_texture": "textures/blocks/twf_b_g_61", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_17", 
+        "flipbook_texture": "textures/blocks/twf_b_e_17", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_88", 
+        "flipbook_texture": "textures/blocks/twf_b_a_88", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_15", 
+        "flipbook_texture": "textures/blocks/twf_b_e_15", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_14", 
+        "flipbook_texture": "textures/blocks/twf_b_e_14", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_13", 
+        "flipbook_texture": "textures/blocks/twf_b_e_13", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_12", 
+        "flipbook_texture": "textures/blocks/twf_b_e_12", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_11", 
+        "flipbook_texture": "textures/blocks/twf_b_e_11", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_89", 
+        "flipbook_texture": "textures/blocks/twf_b_a_89", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_89", 
+        "flipbook_texture": "textures/blocks/twf_b_h_89", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_88", 
+        "flipbook_texture": "textures/blocks/twf_b_h_88", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_19", 
+        "flipbook_texture": "textures/blocks/twf_b_e_19", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_18", 
+        "flipbook_texture": "textures/blocks/twf_b_e_18", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_38", 
+        "flipbook_texture": "textures/blocks/twf_b_f_38", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_39", 
+        "flipbook_texture": "textures/blocks/twf_b_f_39", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_48", 
+        "flipbook_texture": "textures/blocks/twf_b_j_48", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_19", 
+        "flipbook_texture": "textures/blocks/twf_b_h_19", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_30", 
+        "flipbook_texture": "textures/blocks/twf_b_f_30", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_31", 
+        "flipbook_texture": "textures/blocks/twf_b_f_31", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_32", 
+        "flipbook_texture": "textures/blocks/twf_b_f_32", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_33", 
+        "flipbook_texture": "textures/blocks/twf_b_f_33", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_34", 
+        "flipbook_texture": "textures/blocks/twf_b_f_34", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_35", 
+        "flipbook_texture": "textures/blocks/twf_b_f_35", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_36", 
+        "flipbook_texture": "textures/blocks/twf_b_f_36", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_37", 
+        "flipbook_texture": "textures/blocks/twf_b_f_37", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_62", 
+        "flipbook_texture": "textures/blocks/twf_b_a_62", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_63", 
+        "flipbook_texture": "textures/blocks/twf_b_a_63", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_60", 
+        "flipbook_texture": "textures/blocks/twf_b_a_60", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_61", 
+        "flipbook_texture": "textures/blocks/twf_b_a_61", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_66", 
+        "flipbook_texture": "textures/blocks/twf_b_a_66", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_67", 
+        "flipbook_texture": "textures/blocks/twf_b_a_67", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_64", 
+        "flipbook_texture": "textures/blocks/twf_b_a_64", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_65", 
+        "flipbook_texture": "textures/blocks/twf_b_a_65", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_68", 
+        "flipbook_texture": "textures/blocks/twf_b_a_68", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_69", 
+        "flipbook_texture": "textures/blocks/twf_b_a_69", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_44", 
+        "flipbook_texture": "textures/blocks/twf_b_j_44", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_44", 
+        "flipbook_texture": "textures/blocks/twf_b_g_44", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_38", 
+        "flipbook_texture": "textures/blocks/twf_b_d_38", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_39", 
+        "flipbook_texture": "textures/blocks/twf_b_d_39", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_9", 
+        "flipbook_texture": "textures/blocks/twf_b_g_9", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:g_8", 
+        "flipbook_texture": "textures/blocks/twf_b_g_8", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_32", 
+        "flipbook_texture": "textures/blocks/twf_b_d_32", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_33", 
+        "flipbook_texture": "textures/blocks/twf_b_d_33", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_30", 
+        "flipbook_texture": "textures/blocks/twf_b_d_30", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_31", 
+        "flipbook_texture": "textures/blocks/twf_b_d_31", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_36", 
+        "flipbook_texture": "textures/blocks/twf_b_d_36", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:d_37", 
+        "flipbook_texture": "textures/blocks/twf_b_d_37", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_34", 
+        "flipbook_texture": "textures/blocks/twf_b_d_34", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:d_35", 
+        "flipbook_texture": "textures/blocks/twf_b_d_35", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_10", 
+        "flipbook_texture": "textures/blocks/twf_b_h_10", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_46", 
+        "flipbook_texture": "textures/blocks/twf_b_j_46", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_11", 
+        "flipbook_texture": "textures/blocks/twf_b_h_11", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_12", 
+        "flipbook_texture": "textures/blocks/twf_b_h_12", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_45", 
+        "flipbook_texture": "textures/blocks/twf_b_g_45", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_36", 
+        "flipbook_texture": "textures/blocks/twf_b_h_36", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_37", 
+        "flipbook_texture": "textures/blocks/twf_b_h_37", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_34", 
+        "flipbook_texture": "textures/blocks/twf_b_h_34", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_13", 
+        "flipbook_texture": "textures/blocks/twf_b_h_13", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_32", 
+        "flipbook_texture": "textures/blocks/twf_b_h_32", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_33", 
+        "flipbook_texture": "textures/blocks/twf_b_h_33", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_30", 
+        "flipbook_texture": "textures/blocks/twf_b_h_30", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_31", 
+        "flipbook_texture": "textures/blocks/twf_b_h_31", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_14", 
+        "flipbook_texture": "textures/blocks/twf_b_h_14", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_19", 
+        "flipbook_texture": "textures/blocks/twf_b_i_19", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_18", 
+        "flipbook_texture": "textures/blocks/twf_b_i_18", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_81", 
+        "flipbook_texture": "textures/blocks/twf_b_a_81", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_38", 
+        "flipbook_texture": "textures/blocks/twf_b_h_38", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_15", 
+        "flipbook_texture": "textures/blocks/twf_b_h_15", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:i_26", 
+        "flipbook_texture": "textures/blocks/twf_b_i_26", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_16", 
+        "flipbook_texture": "textures/blocks/twf_b_h_16", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_27", 
+        "flipbook_texture": "textures/blocks/twf_b_i_27", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_82", 
+        "flipbook_texture": "textures/blocks/twf_b_h_82", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_17", 
+        "flipbook_texture": "textures/blocks/twf_b_h_17", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_24", 
+        "flipbook_texture": "textures/blocks/twf_b_c_24", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_25", 
+        "flipbook_texture": "textures/blocks/twf_b_c_25", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_26", 
+        "flipbook_texture": "textures/blocks/twf_b_c_26", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_27", 
+        "flipbook_texture": "textures/blocks/twf_b_c_27", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_20", 
+        "flipbook_texture": "textures/blocks/twf_b_c_20", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_21", 
+        "flipbook_texture": "textures/blocks/twf_b_c_21", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_22", 
+        "flipbook_texture": "textures/blocks/twf_b_c_22", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_23", 
+        "flipbook_texture": "textures/blocks/twf_b_c_23", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_28", 
+        "flipbook_texture": "textures/blocks/twf_b_c_28", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_29", 
+        "flipbook_texture": "textures/blocks/twf_b_c_29", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_26", 
+        "flipbook_texture": "textures/blocks/twf_b_g_26", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_93", 
+        "flipbook_texture": "textures/blocks/twf_b_j_93", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_28", 
+        "flipbook_texture": "textures/blocks/twf_b_j_28", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_51", 
+        "flipbook_texture": "textures/blocks/twf_b_c_51", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_50", 
+        "flipbook_texture": "textures/blocks/twf_b_c_50", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_53", 
+        "flipbook_texture": "textures/blocks/twf_b_c_53", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_52", 
+        "flipbook_texture": "textures/blocks/twf_b_c_52", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_55", 
+        "flipbook_texture": "textures/blocks/twf_b_c_55", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:c_54", 
+        "flipbook_texture": "textures/blocks/twf_b_c_54", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_57", 
+        "flipbook_texture": "textures/blocks/twf_b_c_57", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_56", 
+        "flipbook_texture": "textures/blocks/twf_b_c_56", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_59", 
+        "flipbook_texture": "textures/blocks/twf_b_c_59", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:c_58", 
+        "flipbook_texture": "textures/blocks/twf_b_c_58", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_12", 
+        "flipbook_texture": "textures/blocks/twf_b_f_12", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_89", 
+        "flipbook_texture": "textures/blocks/twf_b_f_89", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_88", 
+        "flipbook_texture": "textures/blocks/twf_b_f_88", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_81", 
+        "flipbook_texture": "textures/blocks/twf_b_f_81", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_80", 
+        "flipbook_texture": "textures/blocks/twf_b_f_80", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_83", 
+        "flipbook_texture": "textures/blocks/twf_b_f_83", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_82", 
+        "flipbook_texture": "textures/blocks/twf_b_f_82", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_85", 
+        "flipbook_texture": "textures/blocks/twf_b_f_85", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_84", 
+        "flipbook_texture": "textures/blocks/twf_b_f_84", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_87", 
+        "flipbook_texture": "textures/blocks/twf_b_f_87", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_86", 
+        "flipbook_texture": "textures/blocks/twf_b_f_86", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_93", 
+        "flipbook_texture": "textures/blocks/twf_b_a_93", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_92", 
+        "flipbook_texture": "textures/blocks/twf_b_a_92", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_91", 
+        "flipbook_texture": "textures/blocks/twf_b_a_91", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_90", 
+        "flipbook_texture": "textures/blocks/twf_b_a_90", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_97", 
+        "flipbook_texture": "textures/blocks/twf_b_a_97", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_96", 
+        "flipbook_texture": "textures/blocks/twf_b_a_96", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_95", 
+        "flipbook_texture": "textures/blocks/twf_b_a_95", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_94", 
+        "flipbook_texture": "textures/blocks/twf_b_a_94", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_28", 
+        "flipbook_texture": "textures/blocks/twf_b_g_28", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:g_29", 
+        "flipbook_texture": "textures/blocks/twf_b_g_29", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_99", 
+        "flipbook_texture": "textures/blocks/twf_b_a_99", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_98", 
+        "flipbook_texture": "textures/blocks/twf_b_a_98", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_7", 
+        "flipbook_texture": "textures/blocks/twf_b_j_7", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_85", 
+        "flipbook_texture": "textures/blocks/twf_b_j_85", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_83", 
+        "flipbook_texture": "textures/blocks/twf_b_h_83", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_87", 
+        "flipbook_texture": "textures/blocks/twf_b_j_87", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:j_86", 
+        "flipbook_texture": "textures/blocks/twf_b_j_86", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_81", 
+        "flipbook_texture": "textures/blocks/twf_b_j_81", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_80", 
+        "flipbook_texture": "textures/blocks/twf_b_j_80", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_83", 
+        "flipbook_texture": "textures/blocks/twf_b_j_83", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_16", 
+        "flipbook_texture": "textures/blocks/twf_b_e_16", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:j_89", 
+        "flipbook_texture": "textures/blocks/twf_b_j_89", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_81", 
+        "flipbook_texture": "textures/blocks/twf_b_h_81", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_80", 
+        "flipbook_texture": "textures/blocks/twf_b_h_80", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_87", 
+        "flipbook_texture": "textures/blocks/twf_b_h_87", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:h_86", 
+        "flipbook_texture": "textures/blocks/twf_b_h_86", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_92", 
+        "flipbook_texture": "textures/blocks/twf_b_b_92", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_93", 
+        "flipbook_texture": "textures/blocks/twf_b_b_93", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_90", 
+        "flipbook_texture": "textures/blocks/twf_b_b_90", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_91", 
+        "flipbook_texture": "textures/blocks/twf_b_b_91", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_96", 
+        "flipbook_texture": "textures/blocks/twf_b_b_96", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_97", 
+        "flipbook_texture": "textures/blocks/twf_b_b_97", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_94", 
+        "flipbook_texture": "textures/blocks/twf_b_b_94", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_95", 
+        "flipbook_texture": "textures/blocks/twf_b_b_95", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_98", 
+        "flipbook_texture": "textures/blocks/twf_b_b_98", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_99", 
+        "flipbook_texture": "textures/blocks/twf_b_b_99", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_85", 
+        "flipbook_texture": "textures/blocks/twf_b_h_85", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_59", 
+        "flipbook_texture": "textures/blocks/twf_b_e_59", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_58", 
+        "flipbook_texture": "textures/blocks/twf_b_e_58", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_53", 
+        "flipbook_texture": "textures/blocks/twf_b_e_53", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_52", 
+        "flipbook_texture": "textures/blocks/twf_b_e_52", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_51", 
+        "flipbook_texture": "textures/blocks/twf_b_e_51", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_50", 
+        "flipbook_texture": "textures/blocks/twf_b_e_50", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_57", 
+        "flipbook_texture": "textures/blocks/twf_b_e_57", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_56", 
+        "flipbook_texture": "textures/blocks/twf_b_e_56", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:e_55", 
+        "flipbook_texture": "textures/blocks/twf_b_e_55", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:e_54", 
+        "flipbook_texture": "textures/blocks/twf_b_e_54", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_26", 
+        "flipbook_texture": "textures/blocks/twf_b_a_26", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_27", 
+        "flipbook_texture": "textures/blocks/twf_b_a_27", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_24", 
+        "flipbook_texture": "textures/blocks/twf_b_a_24", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_25", 
+        "flipbook_texture": "textures/blocks/twf_b_a_25", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_22", 
+        "flipbook_texture": "textures/blocks/twf_b_a_22", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_23", 
+        "flipbook_texture": "textures/blocks/twf_b_a_23", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_20", 
+        "flipbook_texture": "textures/blocks/twf_b_a_20", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_21", 
+        "flipbook_texture": "textures/blocks/twf_b_a_21", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:h_84", 
+        "flipbook_texture": "textures/blocks/twf_b_h_84", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:a_28", 
+        "flipbook_texture": "textures/blocks/twf_b_a_28", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:a_29", 
+        "flipbook_texture": "textures/blocks/twf_b_a_29", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_29", 
+        "flipbook_texture": "textures/blocks/twf_b_b_29", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_28", 
+        "flipbook_texture": "textures/blocks/twf_b_b_28", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_27", 
+        "flipbook_texture": "textures/blocks/twf_b_b_27", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_26", 
+        "flipbook_texture": "textures/blocks/twf_b_b_26", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_25", 
+        "flipbook_texture": "textures/blocks/twf_b_b_25", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_24", 
+        "flipbook_texture": "textures/blocks/twf_b_b_24", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_23", 
+        "flipbook_texture": "textures/blocks/twf_b_b_23", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_22", 
+        "flipbook_texture": "textures/blocks/twf_b_b_22", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:b_21", 
+        "flipbook_texture": "textures/blocks/twf_b_b_21", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:b_20", 
+        "flipbook_texture": "textures/blocks/twf_b_b_20", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_67", 
+        "flipbook_texture": "textures/blocks/twf_b_f_67", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_66", 
+        "flipbook_texture": "textures/blocks/twf_b_f_66", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_65", 
+        "flipbook_texture": "textures/blocks/twf_b_f_65", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_64", 
+        "flipbook_texture": "textures/blocks/twf_b_f_64", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_63", 
+        "flipbook_texture": "textures/blocks/twf_b_f_63", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_62", 
+        "flipbook_texture": "textures/blocks/twf_b_f_62", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_61", 
+        "flipbook_texture": "textures/blocks/twf_b_f_61", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_60", 
+        "flipbook_texture": "textures/blocks/twf_b_f_60", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:f_69", 
+        "flipbook_texture": "textures/blocks/twf_b_f_69", 
+        "ticks_per_frame": 4
+    }, 
+    {
+        "atlas_tile": "twf:f_68", 
+        "flipbook_texture": "textures/blocks/twf_b_f_68", 
+        "ticks_per_frame": 5
+    }, 
+    {
+        "atlas_tile": "twf:i_58", 
+        "flipbook_texture": "textures/blocks/twf_b_i_58", 
+        "ticks_per_frame": 4
+    }
+]

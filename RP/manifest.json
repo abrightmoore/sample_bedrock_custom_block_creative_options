@@ -1,0 +1,35 @@
+{
+    "format_version": 2, 
+    "header": {
+        "description": "The World Foundry RP", 
+        "min_engine_version": [
+            1, 
+            19, 
+            50
+        ], 
+        "name": "TWF RP", 
+        "uuid": "0c77fb2f-f37c-da3d-e8e4-b49f93a678bb", 
+        "version": [
+            1, 
+            0, 
+            0
+        ]
+    }, 
+    "metadata": {
+        "authors": [
+            "TheWorldFoundry"
+        ]
+    }, 
+    "modules": [
+        {
+            "description": "TWF", 
+            "type": "resources", 
+            "uuid": "45e17fea-0dda-42b8-64c7-8a756a9004a7", 
+            "version": [
+                1, 
+                0, 
+                0
+            ]
+        }
+    ]
+}
